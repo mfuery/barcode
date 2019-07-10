@@ -2,105 +2,63 @@ import React, { Component } from 'react';
 import Scanner from './Scanner';
 import Result from './Result';
 import Quagga from 'quagga';
+import './styles.scss'
+import {CATALOG} from "../data/catalog";
 
 class App extends Component {
-  constructor() {
-    super()
+  constructor(props) {
+    super(props);
     this.state = {
-      scanning: false,
-      results: [
-        // {
-        //   codeResult: {
-        //     code: '123ABCabc'
-        //   }
-        // }
-      ]
-    }
+      scanning: true,
+      result: null,
+    };
+    this._loadCatalog()
+
   }
 
-  _renderScanButtonAndResults() {
-    if (this.state.scanning) { return null; }
-    return (
-      <div  style={{
-        width: '100%',
-        height: '100%',
-        display: 'flex',
-        flexDirection: 'column',
-        alignItems: 'center',
-        justifyContent: 'center'
-      }}>
-        {this._renderResults()}
-        {this._renderScanButton()}
-      </div>
-    )
+  _loadCatalog() {
+    let newCat = {};
+    CATALOG.forEach((item) => {
+      newCat[item.upc] = item
+    });
+    this.catalog = newCat
+    // console.log(newCat)
   }
 
-  _renderScanButton() {
-    const text = this.state.scanning ? 'STOP' : 'SCAN'
-    const styles = {
-      width: '200px',
-      height: '70px',
-      padding: '0',
-      border: 'solid darkGreen 6px',
-      borderRadius: '10px',
-      backgroundColor: 'green',
-      fontSize: '50px',
-      color: 'white',
-      position: 'fixed',
-      bottom: '20px'
-    }
-    return (
-      <button
-        onClick={this._scan.bind(this)}
-        style={styles}
-        >{text}
-      </button>
-    )
-  }
-
-  _renderResults() {
-    const result = this.state.results[this.state.results.length - 1]
-    if (!result) { return null; }
-    return (
-      <div style={{
-      }}>
-        <h1
-          style={{
-            opacity: '0.5',
-            margin: '0px',
-            textAlign: 'center',
-            fontSize: '32px',
-            borderBottom: '2px solid #aaa',
-            paddingBottom: '8px'
-          }}
-          >BARCODE
-        </h1>
-        <Result result={result}/>
-      </div>
-    )
-    // {/* <ul className="results">
-    //   {this.state.results.map((result) => (<Result key={result.codeResult.code} result={result} />))}
-    // </ul> */}
-  }
-
-  _renderVideoStream() {
-    return <Scanner onDetected={this._onDetected.bind(this)} />
-  }
-
-  render() {
-    return this._renderScanButtonAndResults() || this._renderVideoStream()
-  }
-
-  _scan() {
-    this.setState({scanning: !this.state.scanning});
+  _rescan() {
+    this.setState({
+      scanning: !this.state.scanning,
+      result: null,
+    });
   }
 
   _onDetected(result) {
     this.setState({
-      results: this.state.results.concat([result]),
-      scanning: false
+      scanning: false,
+      result: this.catalog[result.codeResult.code] || null,
     });
     Quagga.stop();
+  }
+
+  render() {
+    let result = '';
+    let scanner = '';
+
+    if (this.state.scanning) {
+      scanner = <Scanner onDetected={this._onDetected.bind(this)} />
+    } else {
+      result = <Result result={this.state.result}
+                       onRescan={this._rescan.bind(this)}/>
+    }
+    result = <Result result={this.state.result}
+                     onRescan={this._rescan.bind(this)}/>
+
+    return (
+      <div className="app">
+        {scanner}
+        {result}
+      </div>
+    )
   }
 }
 

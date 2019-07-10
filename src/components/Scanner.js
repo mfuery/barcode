@@ -8,11 +8,11 @@ class Scanner extends Component {
       <div id='interactive' className='viewport'>
         <video
           className='videoCamera'
-          autoPlay='true'
+          autoPlay='1'
           preload='auto'
           src=''
-          muted='true'
-          playsInline='true'>
+          muted='1'
+          playsInline='1'>
         </video>
         <canvas
           className='drawingBuffer'
@@ -83,7 +83,6 @@ class Scanner extends Component {
   }
 
   _onDetected(result) {
-    console.log(result)
     this.props.onDetected(result);
   }
 }
