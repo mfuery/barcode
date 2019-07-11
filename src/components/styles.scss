@@ -73,7 +73,7 @@ h3 {
     font-weight: normal;
     height: 64px;
     padding: 0 40px;
-    margin: 0 auto;
+    margin: 30px auto;
     text-align: center;
     vertical-align: middle;
     white-space: nowrap;
@@ -84,6 +84,15 @@ img {
     height: 128px;
     display: inline-block;
 
+}
+
+.close-btn {
+    width: 32px;
+    height: 32px;
+    position: absolute;
+    right: 12px;
+    top: 12px;
+    cursor: pointer;
 }
 
 .image-cropper {
@@ -115,7 +124,7 @@ img {
 }
 
 .hero {
-    padding: 40px 0;
+    padding: 0 0 40px 0;
     background-color: $white;
     border-bottom-left-radius: 128px;
 }
@@ -147,7 +156,7 @@ img {
 }
 
 .how-to-video {
-
+    text-align: center;
 }
 
 .tagline-box {
