@@ -1,47 +1,11 @@
-// Primary Colors
-$benefit-pink: #ff7380;
-$pink: #fa3468;
-$white: #fff;
+@import "_base";
 
-// Global textual link color.
-$link-color: $pink;
-
-// Link hover color set via `darken()` function.
-$link-hover-color: darken($link-color, 15%);
-
-// Font family stack declarations.
-$sans-serif-font-family: "Proxima Nova", Helvetica, Arial, sans-serif;
-$script-font-family: "Sign Painter Script", cursive;
-
-$base-font-size: 16px;
-$base-font-size-button: 26px;
-$base-font-weight: 400;
-$base-line-height: 1.4;
-$base-line-height-button: 64px;
-
-@mixin border-radius($radius) {
-    border-radius: $radius;
-}
-
-// Font-smoothing.
-@mixin font-smoothing($value: on) {
-    @if $value == on {
-        -webkit-font-smoothing: antialiased;
-        -moz-osx-font-smoothing: grayscale;
-    }
-    @else {
-        -webkit-font-smoothing: subpixel-antialiased;
-        -moz-osx-font-smoothing: auto;
-    }
-}
-
-// Script mixin
-@mixin script-font {
-    font-family: $script-font-family;
-    letter-spacing: 0;
-    font-variant-ligatures: common-ligatures;
-    font-weight: 400;
-    @include font-smoothing(on);
+@function bestseller($color1: #36BCAD, $color2: #EE3969, $color3: #FEF050, $color4: #FFF) {
+    $color1: str-replace(inspect($color1), '#', '%23'); //fix and replace hexcolor
+    $color2: str-replace(inspect($color2), '#', '%23'); //fix and replace hexcolor
+    $color3: str-replace(inspect($color3), '#', '%23'); //fix and replace hexcolor
+    $color4: str-replace(inspect($color4), '#', '%23'); //fix and replace hexcolor
+    @return url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' data-name='Layer 1' viewBox='0 0 334.65 228.37'%3E%3Ccircle cx='162.59' cy='73.01' r='66.79' fill='%23fef050'/%3E%3Ccircle cx='168.82' cy='66.79' r='66.79' fill='%2336bcad'/%3E%3Ctext fill='%23ee3969' font-family='GothamBold,Gotham Bold' font-size='26' transform='translate(130.98 56.21)'%3EBEST%3Ctspan x='-16.39' y='31.2'%3ESELLER%3C/tspan%3E%3C/text%3E%3Ctext fill='%23fff' font-family='GothamBold,Gotham Bold' font-size='26' transform='translate(133.98 53.64)'%3EBEST%3Ctspan x='-16.39' y='31.2'%3ESELLER%3C/tspan%3E%3C/text%3E%3C/svg%3E");
 }
 
 #interactive {
@@ -63,19 +27,19 @@ h1 {
 
 h2 {
     color: #676767;
-    font: 13px $sans-serif-font-family
+    font: 18px $sans-serif-font-family
 }
 
 h3 {
     color: $white;
-    font: 13px $sans-serif-font-family
+    font: 16px $sans-serif-font-family
 }
 
 .button {
     @include border-radius(16px);
     cursor: pointer;
     background-color: $benefit-pink;
-    border: none;
+    border: 2px black solid;
     color: $white;
     font-size: $base-font-size-button;
     @include script-font;
@@ -105,23 +69,6 @@ img {
     cursor: pointer;
 }
 
-.image-cropper {
-    width: 128px;
-    height: 128px;
-    position: relative;
-    overflow: hidden;
-    border-radius: 50%;
-    margin: 0 auto;
-}
-
-.profile-pic {
-    display: inline;
-    margin: 0 auto;
-    //margin-left: -25%; //centers the image
-    height: 100%;
-    width: auto;
-}
-
 .result-container {
     animation: fadein 2s;
     display: block;
@@ -133,8 +80,46 @@ img {
     padding-bottom: 40px;
 }
 
+.image-cropper {
+    width: 128px;
+    height: 128px;
+    position: relative;
+    overflow: hidden;
+    border-radius: 50%;
+    float: left;
+}
+
+.image-cropper.clear {
+    margin: 0 auto;
+    float: none;
+}
+
+.profile-pic {
+    display: inline;
+    margin: 0 auto;
+    //margin-left: -25%; //centers the image
+    height: 100%;
+    width: auto;
+}
+
+.bestseller-badge {
+    background-image: bestseller();
+    background-repeat: no-repeat;
+    width: 120px;
+    height: 90px;
+    margin: 6px auto;
+    position: absolute;
+    z-index: 1000;
+    right: 88px;
+    top: 68px;
+}
+
+.product-image {
+    position: relative;
+}
+
 .hero {
-    padding: 20px 0 40px 0;
+    padding: 20px 40px;
     background-color: $white;
     border-bottom-left-radius: 128px;
     cursor: pointer;
@@ -143,25 +128,36 @@ img {
 .highlights {
     background-color: #EC708E;
     border-bottom-left-radius: 128px;
-    height: 128px;
+    height: 70px;
 }
 
 .highlight {
     display: inline-block;
-    color: $white;
-    border-right: #000 1px solid;
-    width: 25%;
-    padding: 16px;
-    height: 75px;
+    color: #fff;
+    width: 33%;
+    float: left;
+    padding: 10px 0;
+    margin: 10px 0;
+    height: 44px;
 
     h1, h2 {
         color: $white;
     }
+
+    .discounted {
+        text-decoration: line-through;
+        margin: 0;
+        padding: 0;
+    }
+}
+
+.highlight.middle {
+    margin: 0;
 }
 
 .detail-body {
     background-color: #FCB2C3;
-    padding: 30px;
+    padding: 4px 20px;
     text-align: left;
 }
 
@@ -173,22 +169,28 @@ img {
     padding: 20px;
 }
 
+.headline {
+    padding: 20px 0 24px;
+    margin: 0 auto;
+    text-align: center;
+}
+
 .tagline-box {
     background-color: #EC708E;
     width: 100%;
     display: block;
 }
 
+.beauty-tip {
+    font-size: 18px;
+    padding: 20px;
+}
+
 .thumbs {
     height: 160px;
-    width: 100%;
 }
 
-.thumbnail.first {
-    float: left;
-}
-
-.thumbnail.last {
+.last {
     float: right;
 }
 
