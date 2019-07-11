@@ -5,22 +5,25 @@ class Scanner extends Component {
 
   render() {
     return (
-      <div id='interactive' className='viewport'>
-        <video
-          className='videoCamera'
-          autoPlay
-          preload='auto'
-          muted='1'
-          playsInline>
-        </video>
-        <canvas
-          className='drawingBuffer'
-          style={{
-            position: 'absolute',
-            top: 0,
-            left: 0
-          }}>
-          </canvas>
+      <div>
+        <div id='interactive' className='viewport'>
+          <video
+            className='videoCamera'
+            autoPlay
+            preload='auto'
+            muted='1'
+            playsInline>
+          </video>
+          <canvas
+            className='drawingBuffer'
+            style={{
+              position: 'absolute',
+              top: 0,
+              left: 0
+            }}>
+            </canvas>
+        </div>
+        <div className="cta">Scan a product, Gorgeous</div>
       </div>
     );
   }

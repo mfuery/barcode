@@ -35,6 +35,21 @@ h3 {
     font: 16px $sans-serif-font-family
 }
 
+.cta {
+    position: absolute;
+    z-index: 1000;
+    @include script-font;
+    top: 0px;
+    font-size: 20px;
+    letter-spacing: 0;
+    line-height: 40px;
+    font-weight: normal;
+    background-color: #ff7380;
+    color: #fff;
+    width: 100%;
+    text-align: center;
+}
+
 .button {
     @include border-radius(16px);
     cursor: pointer;
