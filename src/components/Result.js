@@ -58,8 +58,8 @@ class Result extends Component {
           }
 
           {result.bestseller ?
-          <div className="highlight">
-            <h1>Bseller</h1>
+          <div className="highlight middle">
+            <div className="bestseller-badge"> </div>
           </div>
               : ''}
 
