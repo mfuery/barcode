@@ -13,7 +13,6 @@ class Result extends Component {
     if (!result) {
       return (
         <div className="result-container">
-          <div className="close-btn" onClick={this.props.onRescan}>X</div>
           <div className="hero">
             <button onClick={this.props.onRescan}
                     className="button"
