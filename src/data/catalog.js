@@ -37,7 +37,7 @@ export const CATALOG = [
     "avg_overall_rating": "4.00000",
     "hashtag": "realsies",
     "dilemma_copy": "Are your lashes for real? Yes! The length is beyond belief. Doe-eyed and daring,  you’ll see the lashes you never knew you had.",
-    "upc": "0602004039200"
+    "upc": "602004039200"
   },
   {
     "sku": "EM18",
@@ -77,7 +77,7 @@ export const CATALOG = [
     "avg_overall_rating": "4.00000",
     "hashtag": "realsies",
     "dilemma_copy": "Are your lashes for real? Yes! The length is beyond belief. Doe-eyed and daring,  you’ll see the lashes you never knew you had.",
-    "upc": "0602004067203"
+    "upc": "602004067203"
   },
   {
     "sku": "EM19",
@@ -117,7 +117,7 @@ export const CATALOG = [
     "avg_overall_rating": "4.00000",
     "hashtag": "realsies",
     "dilemma_copy": "Are your lashes for real? Yes! The length is beyond belief. Doe-eyed and daring,  you’ll see the lashes you never knew you had.",
-    "upc": "0602004067210"
+    "upc": "602004067210"
   },
   {
     "sku": "BF39",
@@ -157,7 +157,7 @@ export const CATALOG = [
     "avg_overall_rating": "5.00000",
     "hashtag": "",
     "dilemma_copy": "",
-    "upc": "0602004012258"
+    "upc": "602004012258"
   },
   {
     "sku": "IB301",
@@ -197,7 +197,7 @@ export const CATALOG = [
     "avg_overall_rating": "3.88000",
     "hashtag": "fakeup",
     "dilemma_copy": "Fake a totally awake look. This concealer instantly hides dark circles to cover any signs of a late night (or early morning).",
-    "upc": "0602004049353"
+    "upc": "602004049353"
   },
   {
     "sku": "IB121",
@@ -237,7 +237,7 @@ export const CATALOG = [
     "avg_overall_rating": "",
     "hashtag": "",
     "dilemma_copy": "",
-    "upc": "0602004400833"
+    "upc": "602004400833"
   },
   {
     "sku": "BB11",
@@ -277,7 +277,7 @@ export const CATALOG = [
     "avg_overall_rating": "0.00000",
     "hashtag": "",
     "dilemma_copy": "",
-    "upc": "0602004041937"
+    "upc": "602004041937"
   },
   {
     "sku": "GWP25",
@@ -317,7 +317,7 @@ export const CATALOG = [
     "avg_overall_rating": "",
     "hashtag": "",
     "dilemma_copy": "",
-    "upc": "0602004600189"
+    "upc": "602004600189"
   },
   {
     "sku": "IB157",
@@ -357,7 +357,7 @@ export const CATALOG = [
     "avg_overall_rating": "",
     "hashtag": "",
     "dilemma_copy": "",
-    "upc": "0602004401199"
+    "upc": "602004401199"
   },
   {
     "sku": "IB159",
@@ -397,7 +397,7 @@ export const CATALOG = [
     "avg_overall_rating": "3.00000",
     "hashtag": "",
     "dilemma_copy": "",
-    "upc": "0602004401212"
+    "upc": "602004401212"
   },
   {
     "sku": "IB174",
@@ -437,7 +437,7 @@ export const CATALOG = [
     "avg_overall_rating": "",
     "hashtag": "",
     "dilemma_copy": "",
-    "upc": "0602004401373"
+    "upc": "602004401373"
   },
   {
     "sku": "IB92",
@@ -477,7 +477,7 @@ export const CATALOG = [
     "avg_overall_rating": "3.56000",
     "hashtag": "badgallash",
     "dilemma_copy": "",
-    "upc": "0602004070579"
+    "upc": "602004070579"
   },
   {
     "sku": "IB158",
@@ -517,7 +517,7 @@ export const CATALOG = [
     "avg_overall_rating": "0.00000",
     "hashtag": "",
     "dilemma_copy": "",
-    "upc": "0602004401205"
+    "upc": "602004401205"
   },
   {
     "sku": "IB196",
@@ -557,7 +557,7 @@ export const CATALOG = [
     "avg_overall_rating": "3.40000",
     "hashtag": "",
     "dilemma_copy": "",
-    "upc": "0602004037169"
+    "upc": "602004037169"
   },
   {
     "sku": "IB78",
@@ -597,7 +597,7 @@ export const CATALOG = [
     "avg_overall_rating": "4.80000",
     "hashtag": "benetint",
     "dilemma_copy": "A sexy flush in seconds! Our famous rose-tinted stain works on cheeks AND lips for instant color when time ticks loudly.",
-    "upc": "0602004070432"
+    "upc": "602004070432"
   },
   {
     "sku": "IB118",
@@ -637,7 +637,7 @@ export const CATALOG = [
     "avg_overall_rating": "4.33000",
     "hashtag": "bigbeautifuleyes",
     "dilemma_copy": "",
-    "upc": "0602004400802"
+    "upc": "602004400802"
   },
   {
     "sku": "BB10",
@@ -677,7 +677,7 @@ export const CATALOG = [
     "avg_overall_rating": "0.00000",
     "hashtag": "",
     "dilemma_copy": "",
-    "upc": "0602004041913"
+    "upc": "602004041913"
   },
   {
     "sku": "IB24",
@@ -717,7 +717,7 @@ export const CATALOG = [
     "avg_overall_rating": "5.00000",
     "hashtag": "",
     "dilemma_copy": "",
-    "upc": "0602004070654"
+    "upc": "602004070654"
   },
   {
     "sku": "BH43",
@@ -757,7 +757,7 @@ export const CATALOG = [
     "avg_overall_rating": "0.00000",
     "hashtag": "",
     "dilemma_copy": "",
-    "upc": "0602004039453"
+    "upc": "602004039453"
   },
   {
     "sku": "IB256",
@@ -797,7 +797,7 @@ export const CATALOG = [
     "avg_overall_rating": "",
     "hashtag": "boiing",
     "dilemma_copy": "",
-    "upc": "0602004010735"
+    "upc": "602004010735"
   },
   {
     "sku": "IB257",
@@ -837,7 +837,7 @@ export const CATALOG = [
     "avg_overall_rating": "",
     "hashtag": "boiing",
     "dilemma_copy": "",
-    "upc": "0602004010759"
+    "upc": "602004010759"
   },
   {
     "sku": "BB03",
@@ -877,7 +877,7 @@ export const CATALOG = [
     "avg_overall_rating": "4.42000",
     "hashtag": "",
     "dilemma_copy": "",
-    "upc": "0602004401441"
+    "upc": "602004401441"
   },
   {
     "sku": "IB160",
@@ -917,7 +917,7 @@ export const CATALOG = [
     "avg_overall_rating": "4.67000",
     "hashtag": "coralista",
     "dilemma_copy": "",
-    "upc": "0602004401229"
+    "upc": "602004401229"
   },
   {
     "sku": "BH44",
@@ -957,7 +957,7 @@ export const CATALOG = [
     "avg_overall_rating": "1.00000",
     "hashtag": "",
     "dilemma_copy": "",
-    "upc": "0602004039477"
+    "upc": "602004039477"
   },
   {
     "sku": "IB108",
@@ -997,7 +997,7 @@ export const CATALOG = [
     "avg_overall_rating": "4.00000",
     "hashtag": "benefitdallas",
     "dilemma_copy": "",
-    "upc": "0602004400673"
+    "upc": "602004400673"
   },
   {
     "sku": "IB83",
@@ -1037,7 +1037,7 @@ export const CATALOG = [
     "avg_overall_rating": "4.75000",
     "hashtag": "benefitdandelion",
     "dilemma_copy": "",
-    "upc": "0602004070487"
+    "upc": "602004070487"
   },
   {
     "sku": "BB08",
@@ -1077,7 +1077,7 @@ export const CATALOG = [
     "avg_overall_rating": "0.00000",
     "hashtag": "",
     "dilemma_copy": "",
-    "upc": "0602004041883"
+    "upc": "602004041883"
   },
   {
     "sku": "IB54",
@@ -1117,7 +1117,7 @@ export const CATALOG = [
     "avg_overall_rating": "0.00000",
     "hashtag": "",
     "dilemma_copy": "",
-    "upc": "0602004070296"
+    "upc": "602004070296"
   },
   {
     "sku": "BR25",
@@ -1157,7 +1157,7 @@ export const CATALOG = [
     "avg_overall_rating": "5.00000",
     "hashtag": "",
     "dilemma_copy": "",
-    "upc": "0602004030177"
+    "upc": "602004030177"
   },
   {
     "sku": "IB130",
@@ -1197,7 +1197,7 @@ export const CATALOG = [
     "avg_overall_rating": "",
     "hashtag": "erasepaste",
     "dilemma_copy": "",
-    "upc": "0602004400925"
+    "upc": "602004400925"
   },
   {
     "sku": "IB47",
@@ -1237,7 +1237,7 @@ export const CATALOG = [
     "avg_overall_rating": "0.00000",
     "hashtag": "",
     "dilemma_copy": "",
-    "upc": "0602004070227"
+    "upc": "602004070227"
   },
   {
     "sku": "FF67",
@@ -1277,7 +1277,7 @@ export const CATALOG = [
     "avg_overall_rating": "3.75000",
     "hashtag": "",
     "dilemma_copy": "",
-    "upc": "0602004038104"
+    "upc": "602004038104"
   },
   {
     "sku": "BH46",
@@ -1317,7 +1317,7 @@ export const CATALOG = [
     "avg_overall_rating": "",
     "hashtag": "",
     "dilemma_copy": "",
-    "upc": "0602004039514"
+    "upc": "602004039514"
   },
   {
     "sku": "LP86",
@@ -1357,7 +1357,7 @@ export const CATALOG = [
     "avg_overall_rating": "",
     "hashtag": "",
     "dilemma_copy": "",
-    "upc": "0602004300720"
+    "upc": "602004300720"
   },
   {
     "sku": "LP88",
@@ -1397,7 +1397,7 @@ export const CATALOG = [
     "avg_overall_rating": "",
     "hashtag": "",
     "dilemma_copy": "",
-    "upc": "0602004300744"
+    "upc": "602004300744"
   },
   {
     "sku": "LP96",
@@ -1437,7 +1437,7 @@ export const CATALOG = [
     "avg_overall_rating": "",
     "hashtag": "",
     "dilemma_copy": "",
-    "upc": "0602004034335"
+    "upc": "602004034335"
   },
   {
     "sku": "FR14",
@@ -1477,7 +1477,7 @@ export const CATALOG = [
     "avg_overall_rating": "0.00000",
     "hashtag": "",
     "dilemma_copy": "",
-    "upc": "0602004034724"
+    "upc": "602004034724"
   },
   {
     "sku": "IB146",
@@ -1517,7 +1517,7 @@ export const CATALOG = [
     "avg_overall_rating": "4.12000",
     "hashtag": "",
     "dilemma_copy": "",
-    "upc": "0602004401083"
+    "upc": "602004401083"
   },
   {
     "sku": "IB194",
@@ -1557,7 +1557,7 @@ export const CATALOG = [
     "avg_overall_rating": "",
     "hashtag": "girlmeetspearl",
     "dilemma_copy": "Let there be light! This golden pink highlighter adds radiance and creates a subtle glow. Bye-bye blahs. Hello dewy complexion. ",
-    "upc": "0602004035899"
+    "upc": "602004035899"
   },
   {
     "sku": "BB05",
@@ -1597,7 +1597,7 @@ export const CATALOG = [
     "avg_overall_rating": "0.00000",
     "hashtag": "",
     "dilemma_copy": "",
-    "upc": "0602004041821"
+    "upc": "602004041821"
   },
   {
     "sku": "BH45",
@@ -1637,7 +1637,7 @@ export const CATALOG = [
     "avg_overall_rating": "",
     "hashtag": "",
     "dilemma_copy": "",
-    "upc": "0602004039491"
+    "upc": "602004039491"
   },
   {
     "sku": "IB295",
@@ -1677,7 +1677,7 @@ export const CATALOG = [
     "avg_overall_rating": "4.50000",
     "hashtag": "helloflawless",
     "dilemma_copy": "Say “hello” to flawless skin. Our famous powder cover-up with a newly designed brush AND sponge glides on naturally sheer and layers beautifully for just the right amount of coverage. ",
-    "upc": "0602004049148"
+    "upc": "602004049148"
   },
   {
     "sku": "IB296",
@@ -1717,7 +1717,7 @@ export const CATALOG = [
     "avg_overall_rating": "4.50000",
     "hashtag": "helloflawless",
     "dilemma_copy": "Say “hello” to flawless skin. Our famous powder cover-up with a newly designed brush AND sponge glides on naturally sheer and layers beautifully for just the right amount of coverage. ",
-    "upc": "0602004049155"
+    "upc": "602004049155"
   },
   {
     "sku": "IB297",
@@ -1757,7 +1757,7 @@ export const CATALOG = [
     "avg_overall_rating": "4.50000",
     "hashtag": "helloflawless",
     "dilemma_copy": "Say “hello” to flawless skin. Our famous powder cover-up with a newly designed brush AND sponge glides on naturally sheer and layers beautifully for just the right amount of coverage. ",
-    "upc": "0602004049162"
+    "upc": "602004049162"
   },
   {
     "sku": "IB302",
@@ -1797,7 +1797,7 @@ export const CATALOG = [
     "avg_overall_rating": "4.50000",
     "hashtag": "helloflawless",
     "dilemma_copy": "Say “hello” to flawless skin. Our famous powder cover-up with a newly designed brush AND sponge glides on naturally sheer and layers beautifully for just the right amount of coverage. ",
-    "upc": "0602004049643"
+    "upc": "602004049643"
   },
   {
     "sku": "IB303",
@@ -1837,7 +1837,7 @@ export const CATALOG = [
     "avg_overall_rating": "4.50000",
     "hashtag": "helloflawless",
     "dilemma_copy": "Say “hello” to flawless skin. Our famous powder cover-up with a newly designed brush AND sponge glides on naturally sheer and layers beautifully for just the right amount of coverage. ",
-    "upc": "0602004049650"
+    "upc": "602004049650"
   },
   {
     "sku": "IB304",
@@ -1877,7 +1877,7 @@ export const CATALOG = [
     "avg_overall_rating": "4.50000",
     "hashtag": "helloflawless",
     "dilemma_copy": "Say “hello” to flawless skin. Our famous powder cover-up with a newly designed brush AND sponge glides on naturally sheer and layers beautifully for just the right amount of coverage. ",
-    "upc": "0602004049667"
+    "upc": "602004049667"
   },
   {
     "sku": "IB305",
@@ -1917,7 +1917,7 @@ export const CATALOG = [
     "avg_overall_rating": "4.50000",
     "hashtag": "helloflawless",
     "dilemma_copy": "Say “hello” to flawless skin. Our famous powder cover-up with a newly designed brush AND sponge glides on naturally sheer and layers beautifully for just the right amount of coverage. ",
-    "upc": "0602004049674"
+    "upc": "602004049674"
   },
   {
     "sku": "IB306",
@@ -1957,7 +1957,7 @@ export const CATALOG = [
     "avg_overall_rating": "4.50000",
     "hashtag": "helloflawless",
     "dilemma_copy": "Say “hello” to flawless skin. Our famous powder cover-up with a newly designed brush AND sponge glides on naturally sheer and layers beautifully for just the right amount of coverage. ",
-    "upc": "0602004049681"
+    "upc": "602004049681"
   },
   {
     "sku": "IB307",
@@ -1997,7 +1997,7 @@ export const CATALOG = [
     "avg_overall_rating": "4.50000",
     "hashtag": "helloflawless",
     "dilemma_copy": "Say “hello” to flawless skin. Our famous powder cover-up with a newly designed brush AND sponge glides on naturally sheer and layers beautifully for just the right amount of coverage. ",
-    "upc": "0602004049698"
+    "upc": "602004049698"
   },
   {
     "sku": "IB221",
@@ -2037,7 +2037,7 @@ export const CATALOG = [
     "avg_overall_rating": "",
     "hashtag": "hervana",
     "dilemma_copy": "",
-    "upc": "0602004010230"
+    "upc": "602004010230"
   },
   {
     "sku": "IB39",
@@ -2077,7 +2077,7 @@ export const CATALOG = [
     "avg_overall_rating": "4.67000",
     "hashtag": "highbeam",
     "dilemma_copy": "Stuck in a beauty rut? Here’s a bottle for a supermodel. A satiny pink highlighter that casts a dewy,  radiant glow. (Yes a beam with an unexpected gleam.)",
-    "upc": "0602004070142"
+    "upc": "602004070142"
   },
   {
     "sku": "IB150",
@@ -2117,7 +2117,7 @@ export const CATALOG = [
     "avg_overall_rating": "3.00000",
     "hashtag": "highbrow",
     "dilemma_copy": "",
-    "upc": "0602004401120"
+    "upc": "602004401120"
   },
   {
     "sku": "IB74",
@@ -2157,7 +2157,7 @@ export const CATALOG = [
     "avg_overall_rating": "4.33000",
     "hashtag": "hoolamattebronzer",
     "dilemma_copy": "Look like you just stepped off a plane from Barbados. It’s our best-selling bronzing powder with real tan-talizing appeal.",
-    "upc": "0602004070388"
+    "upc": "602004070388"
   },
   {
     "sku": "IB155",
@@ -2197,7 +2197,7 @@ export const CATALOG = [
     "avg_overall_rating": "4.25000",
     "hashtag": "instantbrowpencil",
     "dilemma_copy": "",
-    "upc": "0602004401175"
+    "upc": "602004401175"
   },
   {
     "sku": "IB156",
@@ -2237,7 +2237,7 @@ export const CATALOG = [
     "avg_overall_rating": "4.25000",
     "hashtag": "instantbrowpencil",
     "dilemma_copy": "",
-    "upc": "0602004401182"
+    "upc": "602004401182"
   },
   {
     "sku": "IB182",
@@ -2277,7 +2277,7 @@ export const CATALOG = [
     "avg_overall_rating": "4.25000",
     "hashtag": "instantbrowpencil",
     "dilemma_copy": "",
-    "upc": "0602004034250"
+    "upc": "602004034250"
   },
   {
     "sku": "FF71",
@@ -2317,7 +2317,7 @@ export const CATALOG = [
     "avg_overall_rating": "5.00000",
     "hashtag": "",
     "dilemma_copy": "Psst…a magic potion for tired eyes. This cream fades dark circles so eyes look bright and energized.",
-    "upc": "0602004038180"
+    "upc": "602004038180"
   },
   {
     "sku": "SA57",
@@ -2357,7 +2357,7 @@ export const CATALOG = [
     "avg_overall_rating": "",
     "hashtag": "",
     "dilemma_copy": "",
-    "upc": "0602004038241"
+    "upc": "602004038241"
   },
   {
     "sku": "BB14",
@@ -2397,7 +2397,7 @@ export const CATALOG = [
     "avg_overall_rating": "4.00000",
     "hashtag": "",
     "dilemma_copy": "",
-    "upc": "0602004042040"
+    "upc": "602004042040"
   },
   {
     "sku": "FR10",
@@ -2437,7 +2437,7 @@ export const CATALOG = [
     "avg_overall_rating": "4.00000",
     "hashtag": "",
     "dilemma_copy": "",
-    "upc": "0602004060730"
+    "upc": "602004060730"
   },
   {
     "sku": "IB142",
@@ -2477,7 +2477,7 @@ export const CATALOG = [
     "avg_overall_rating": "5.00000",
     "hashtag": "",
     "dilemma_copy": "",
-    "upc": "0602004401045"
+    "upc": "602004401045"
   },
   {
     "sku": "IB171",
@@ -2517,7 +2517,7 @@ export const CATALOG = [
     "avg_overall_rating": "4.70000",
     "hashtag": "",
     "dilemma_copy": "",
-    "upc": "0602004401335"
+    "upc": "602004401335"
   },
   {
     "sku": "LP53",
@@ -2557,7 +2557,7 @@ export const CATALOG = [
     "avg_overall_rating": "",
     "hashtag": "",
     "dilemma_copy": "",
-    "upc": "0602004300393"
+    "upc": "602004300393"
   },
   {
     "sku": "LP56",
@@ -2597,7 +2597,7 @@ export const CATALOG = [
     "avg_overall_rating": "",
     "hashtag": "",
     "dilemma_copy": "",
-    "upc": "0602004300423"
+    "upc": "602004300423"
   },
   {
     "sku": "LP70",
@@ -2637,7 +2637,7 @@ export const CATALOG = [
     "avg_overall_rating": "",
     "hashtag": "",
     "dilemma_copy": "",
-    "upc": "0602004300553"
+    "upc": "602004300553"
   },
   {
     "sku": "BB07",
@@ -2677,7 +2677,7 @@ export const CATALOG = [
     "avg_overall_rating": "0.00000",
     "hashtag": "",
     "dilemma_copy": "",
-    "upc": "0602004041869"
+    "upc": "602004041869"
   },
   {
     "sku": "FR15",
@@ -2717,7 +2717,7 @@ export const CATALOG = [
     "avg_overall_rating": "5.00000",
     "hashtag": "",
     "dilemma_copy": "",
-    "upc": "0602004034823"
+    "upc": "602004034823"
   },
   {
     "sku": "EL01",
@@ -2757,7 +2757,7 @@ export const CATALOG = [
     "avg_overall_rating": "0.00000",
     "hashtag": "magicink",
     "dilemma_copy": "",
-    "upc": "0602004035929"
+    "upc": "602004035929"
   },
   {
     "sku": "GG32",
@@ -2797,7 +2797,7 @@ export const CATALOG = [
     "avg_overall_rating": "0.00000",
     "hashtag": "",
     "dilemma_copy": "",
-    "upc": "0602004039033"
+    "upc": "602004039033"
   },
   {
     "sku": "GG33",
@@ -2837,7 +2837,7 @@ export const CATALOG = [
     "avg_overall_rating": "5.00000",
     "hashtag": "",
     "dilemma_copy": "",
-    "upc": "0602004039040"
+    "upc": "602004039040"
   },
   {
     "sku": "IB173",
@@ -2877,7 +2877,7 @@ export const CATALOG = [
     "avg_overall_rating": "",
     "hashtag": "",
     "dilemma_copy": "",
-    "upc": "0602004401366"
+    "upc": "602004401366"
   },
   {
     "sku": "FR06",
@@ -2917,7 +2917,7 @@ export const CATALOG = [
     "avg_overall_rating": "",
     "hashtag": "",
     "dilemma_copy": "",
-    "upc": "0602004060471"
+    "upc": "602004060471"
   },
   {
     "sku": "FF69",
@@ -2957,7 +2957,7 @@ export const CATALOG = [
     "avg_overall_rating": "4.75000",
     "hashtag": "",
     "dilemma_copy": "",
-    "upc": "0602004038142"
+    "upc": "602004038142"
   },
   {
     "sku": "IB67",
@@ -2997,7 +2997,7 @@ export const CATALOG = [
     "avg_overall_rating": "0.00000",
     "hashtag": "",
     "dilemma_copy": "",
-    "upc": "0602004070364"
+    "upc": "602004070364"
   },
   {
     "sku": "FR08",
@@ -3037,7 +3037,7 @@ export const CATALOG = [
     "avg_overall_rating": "5.00000",
     "hashtag": "",
     "dilemma_copy": "",
-    "upc": "0602004060495"
+    "upc": "602004060495"
   },
   {
     "sku": "IB172",
@@ -3077,7 +3077,7 @@ export const CATALOG = [
     "avg_overall_rating": "",
     "hashtag": "",
     "dilemma_copy": "",
-    "upc": "0602004401359"
+    "upc": "602004401359"
   },
   {
     "sku": "IB161",
@@ -3117,7 +3117,7 @@ export const CATALOG = [
     "avg_overall_rating": "5.00000",
     "hashtag": "",
     "dilemma_copy": "",
-    "upc": "0602004401236"
+    "upc": "602004401236"
   },
   {
     "sku": "BB13",
@@ -3157,7 +3157,7 @@ export const CATALOG = [
     "avg_overall_rating": "5.00000",
     "hashtag": "",
     "dilemma_copy": "",
-    "upc": "0602004010179"
+    "upc": "602004010179"
   },
   {
     "sku": "PS40",
@@ -3197,7 +3197,7 @@ export const CATALOG = [
     "avg_overall_rating": "4.71000",
     "hashtag": "",
     "dilemma_copy": "",
-    "upc": "0602004190048"
+    "upc": "602004190048"
   },
   {
     "sku": "IB105",
@@ -3237,7 +3237,7 @@ export const CATALOG = [
     "avg_overall_rating": "0.00000",
     "hashtag": "",
     "dilemma_copy": "",
-    "upc": "0602004400710"
+    "upc": "602004400710"
   },
   {
     "sku": "IB138",
@@ -3277,7 +3277,7 @@ export const CATALOG = [
     "avg_overall_rating": "4.50000",
     "hashtag": "posietint",
     "dilemma_copy": "Strike a pose,  gorgeous. This poppy-pink tinted lip stain brightens cheeks and lips with a cheery flush that blooms into the evening. It’s kiss-proof and nuzzle-proof too. Wink,  wink!",
-    "upc": "0602004401007"
+    "upc": "602004401007"
   },
   {
     "sku": "BH42",
@@ -3317,7 +3317,7 @@ export const CATALOG = [
     "avg_overall_rating": "0.00000",
     "hashtag": "",
     "dilemma_copy": "",
-    "upc": "0602004039439"
+    "upc": "602004039439"
   },
   {
     "sku": "BB09",
@@ -3357,7 +3357,7 @@ export const CATALOG = [
     "avg_overall_rating": "0.00000",
     "hashtag": "",
     "dilemma_copy": "",
-    "upc": "0602004041890"
+    "upc": "602004041890"
   },
   {
     "sku": "IB193",
@@ -3397,7 +3397,7 @@ export const CATALOG = [
     "avg_overall_rating": "",
     "hashtag": "",
     "dilemma_copy": "",
-    "upc": "0602004035677"
+    "upc": "602004035677"
   },
   {
     "sku": "FF68",
@@ -3437,7 +3437,7 @@ export const CATALOG = [
     "avg_overall_rating": "3.00000",
     "hashtag": "",
     "dilemma_copy": "Scrub-a-dub dull skin away. This facial exfoliator purifies skin to reveal your skin’s natural radiance.",
-    "upc": "0602004038128"
+    "upc": "602004038128"
   },
   {
     "sku": "FF72",
@@ -3477,7 +3477,7 @@ export const CATALOG = [
     "avg_overall_rating": "5.00000",
     "hashtag": "",
     "dilemma_copy": "",
-    "upc": "0602004038203"
+    "upc": "602004038203"
   },
   {
     "sku": "FR22",
@@ -3517,7 +3517,7 @@ export const CATALOG = [
     "avg_overall_rating": "5.00000",
     "hashtag": "",
     "dilemma_copy": "",
-    "upc": "0602004039637"
+    "upc": "602004039637"
   },
   {
     "sku": "IB162",
@@ -3598,7 +3598,7 @@ export const CATALOG = [
     "avg_overall_rating": "5.00000",
     "hashtag": "speedbrow",
     "dilemma_copy": "",
-    "upc": "0602004401137"
+    "upc": "602004401137"
   },
   {
     "sku": "BB06",
@@ -3638,7 +3638,7 @@ export const CATALOG = [
     "avg_overall_rating": "0.00000",
     "hashtag": "",
     "dilemma_copy": "",
-    "upc": "0602004041845"
+    "upc": "602004041845"
   },
   {
     "sku": "IB179",
@@ -3678,7 +3678,7 @@ export const CATALOG = [
     "avg_overall_rating": "4.58000",
     "hashtag": "staydontstray",
     "dilemma_copy": "Meet this eye primer and you’ll want to go steady. It works 360 degrees around the eye to make concealers and eyeshadows STAY PUT.",
-    "upc": "0602004401427"
+    "upc": "602004401427"
   },
   {
     "sku": "IB277",
@@ -3718,7 +3718,7 @@ export const CATALOG = [
     "avg_overall_rating": "",
     "hashtag": "",
     "dilemma_copy": "",
-    "upc": "0602004047731"
+    "upc": "602004047731"
   },
   {
     "sku": "IB175",
@@ -3758,7 +3758,7 @@ export const CATALOG = [
     "avg_overall_rating": "0.00000",
     "hashtag": "sugarbomb",
     "dilemma_copy": "",
-    "upc": "0602004401380"
+    "upc": "602004401380"
   },
   {
     "sku": "IB123",
@@ -3798,7 +3798,7 @@ export const CATALOG = [
     "avg_overall_rating": "",
     "hashtag": "thatgal",
     "dilemma_copy": "Feeling bummed by a blah complexion? This ah-mazing brightening primer has a dewy,  radiant finish. Perfect for gals with dull,  winter-weary skin.",
-    "upc": "0602004400857"
+    "upc": "602004400857"
   },
   {
     "sku": "IB184",
@@ -3838,7 +3838,7 @@ export const CATALOG = [
     "avg_overall_rating": "4.53000",
     "hashtag": "porefessional",
     "dilemma_copy": "Pores…now you see ‘em,  now you don’t! This lightweight PRO balm quickly minimizes the look of pores and fine lines for a fresh matte finish.",
-    "upc": "0602004034670"
+    "upc": "602004034670"
   },
   {
     "sku": "IB133",
@@ -3878,7 +3878,7 @@ export const CATALOG = [
     "avg_overall_rating": "",
     "hashtag": "",
     "dilemma_copy": "",
-    "upc": "0602004400956"
+    "upc": "602004400956"
   },
   {
     "sku": "FF73",
@@ -3918,7 +3918,7 @@ export const CATALOG = [
     "avg_overall_rating": "4.43000",
     "hashtag": "",
     "dilemma_copy": "Make moisture your BFF during chilly winter days. Drink in our favorite facial cream that hydrates and rids your face of flakiness.",
-    "upc": "0602004038227"
+    "upc": "602004038227"
   },
   {
     "sku": "SA58",
@@ -3958,7 +3958,7 @@ export const CATALOG = [
     "avg_overall_rating": "",
     "hashtag": "",
     "dilemma_copy": "",
-    "upc": "0602004038258"
+    "upc": "602004038258"
   },
   {
     "sku": "BT01",
@@ -3998,7 +3998,7 @@ export const CATALOG = [
     "avg_overall_rating": "5.00000",
     "hashtag": "",
     "dilemma_copy": "",
-    "upc": "0602004035967"
+    "upc": "602004035967"
   },
   {
     "sku": "BT02",
@@ -4038,7 +4038,7 @@ export const CATALOG = [
     "avg_overall_rating": "0.00000",
     "hashtag": "",
     "dilemma_copy": "",
-    "upc": "0602004035974"
+    "upc": "602004035974"
   },
   {
     "sku": "BT03",
@@ -4078,7 +4078,7 @@ export const CATALOG = [
     "avg_overall_rating": "0.00000",
     "hashtag": "",
     "dilemma_copy": "",
-    "upc": "0602004035981"
+    "upc": "602004035981"
   },
   {
     "sku": "BT04",
@@ -4118,7 +4118,7 @@ export const CATALOG = [
     "avg_overall_rating": "0.00000",
     "hashtag": "",
     "dilemma_copy": "",
-    "upc": "0602004035998"
+    "upc": "602004035998"
   },
   {
     "sku": "FF66",
@@ -4158,7 +4158,7 @@ export const CATALOG = [
     "avg_overall_rating": "",
     "hashtag": "",
     "dilemma_copy": "",
-    "upc": "0602004038081"
+    "upc": "602004038081"
   },
   {
     "sku": "LG41",
@@ -4198,7 +4198,7 @@ export const CATALOG = [
     "avg_overall_rating": "",
     "hashtag": "",
     "dilemma_copy": "",
-    "upc": "0602004033871"
+    "upc": "602004033871"
   },
   {
     "sku": "PD33",
@@ -4238,7 +4238,7 @@ export const CATALOG = [
     "avg_overall_rating": "",
     "hashtag": "",
     "dilemma_copy": "",
-    "upc": "0602004431424"
+    "upc": "602004431424"
   },
   {
     "sku": "PD34",
@@ -4278,7 +4278,7 @@ export const CATALOG = [
     "avg_overall_rating": "",
     "hashtag": "",
     "dilemma_copy": "",
-    "upc": "0602004431431"
+    "upc": "602004431431"
   },
   {
     "sku": "PD37",
@@ -4318,7 +4318,7 @@ export const CATALOG = [
     "avg_overall_rating": "",
     "hashtag": "",
     "dilemma_copy": "",
-    "upc": "0602004431462"
+    "upc": "602004431462"
   },
   {
     "sku": "PD40",
@@ -4358,7 +4358,7 @@ export const CATALOG = [
     "avg_overall_rating": "",
     "hashtag": "",
     "dilemma_copy": "",
-    "upc": "0602004431493"
+    "upc": "602004431493"
   },
   {
     "sku": "PD44",
@@ -4398,7 +4398,7 @@ export const CATALOG = [
     "avg_overall_rating": "",
     "hashtag": "",
     "dilemma_copy": "",
-    "upc": "0602004431530"
+    "upc": "602004431530"
   },
   {
     "sku": "PD46",
@@ -4438,7 +4438,7 @@ export const CATALOG = [
     "avg_overall_rating": "",
     "hashtag": "",
     "dilemma_copy": "",
-    "upc": "0602004431554"
+    "upc": "602004431554"
   },
   {
     "sku": "PD49",
@@ -4478,7 +4478,7 @@ export const CATALOG = [
     "avg_overall_rating": "",
     "hashtag": "",
     "dilemma_copy": "",
-    "upc": "0602004040442"
+    "upc": "602004040442"
   },
   {
     "sku": "PD50",
@@ -4518,7 +4518,7 @@ export const CATALOG = [
     "avg_overall_rating": "",
     "hashtag": "",
     "dilemma_copy": "",
-    "upc": "0602004040466"
+    "upc": "602004040466"
   },
   {
     "sku": "IB203",
@@ -4558,7 +4558,7 @@ export const CATALOG = [
     "avg_overall_rating": "4.50000",
     "hashtag": "wattsup",
     "dilemma_copy": "",
-    "upc": "0602004039996"
+    "upc": "602004039996"
   },
   {
     "sku": "IB131",
@@ -4598,7 +4598,7 @@ export const CATALOG = [
     "avg_overall_rating": "",
     "hashtag": "",
     "dilemma_copy": "",
-    "upc": "0602004400932"
+    "upc": "602004400932"
   },
   {
     "sku": "IB82",
@@ -4638,7 +4638,7 @@ export const CATALOG = [
     "avg_overall_rating": "4.64000",
     "hashtag": "",
     "dilemma_copy": "",
-    "upc": "0602004070470"
+    "upc": "602004070470"
   },
   {
     "sku": "IB220",
@@ -4678,7 +4678,7 @@ export const CATALOG = [
     "avg_overall_rating": "5.00000",
     "hashtag": "benefitsunbeam",
     "dilemma_copy": "OMG…like sunshine in a bottle. This liquid highlighter is best for medium to deep complexions adding just the right touch of radiance.",
-    "upc": "0602004042286"
+    "upc": "602004042286"
   },
   {
     "sku": "FF63",
@@ -4718,7 +4718,7 @@ export const CATALOG = [
     "avg_overall_rating": "0.00000",
     "hashtag": "",
     "dilemma_copy": "",
-    "upc": "0602004038029"
+    "upc": "602004038029"
   },
   {
     "sku": "IB218",
@@ -4758,7 +4758,7 @@ export const CATALOG = [
     "avg_overall_rating": "5.00000",
     "hashtag": "",
     "dilemma_copy": "",
-    "upc": "0602004042002"
+    "upc": "602004042002"
   },
   {
     "sku": "GWP53",
@@ -4798,7 +4798,7 @@ export const CATALOG = [
     "avg_overall_rating": "",
     "hashtag": "",
     "dilemma_copy": "",
-    "upc": "0602004043351"
+    "upc": "602004043351"
   },
   {
     "sku": "GWP63",
@@ -4838,7 +4838,7 @@ export const CATALOG = [
     "avg_overall_rating": "",
     "hashtag": "",
     "dilemma_copy": "",
-    "upc": "0602004010704"
+    "upc": "602004010704"
   },
   {
     "sku": "IB243",
@@ -4878,7 +4878,7 @@ export const CATALOG = [
     "avg_overall_rating": "4.50000",
     "hashtag": "highbrowglow",
     "dilemma_copy": "",
-    "upc": "0602004043139"
+    "upc": "602004043139"
   },
   {
     "sku": "GWP59",
@@ -4918,7 +4918,7 @@ export const CATALOG = [
     "avg_overall_rating": "",
     "hashtag": "",
     "dilemma_copy": "",
-    "upc": "0602004044280"
+    "upc": "602004044280"
   },
   {
     "sku": "GWP56",
@@ -4958,7 +4958,7 @@ export const CATALOG = [
     "avg_overall_rating": "",
     "hashtag": "",
     "dilemma_copy": "",
-    "upc": "0602004012227"
+    "upc": "602004012227"
   },
   {
     "sku": "GWP51",
@@ -4998,7 +4998,7 @@ export const CATALOG = [
     "avg_overall_rating": "",
     "hashtag": "",
     "dilemma_copy": "",
-    "upc": "0602004043276"
+    "upc": "602004043276"
   },
   {
     "sku": "GWP58",
@@ -5038,7 +5038,7 @@ export const CATALOG = [
     "avg_overall_rating": "",
     "hashtag": "",
     "dilemma_copy": "",
-    "upc": "0602004044167"
+    "upc": "602004044167"
   },
   {
     "sku": "GWP54",
@@ -5078,7 +5078,7 @@ export const CATALOG = [
     "avg_overall_rating": "",
     "hashtag": "",
     "dilemma_copy": "",
-    "upc": "0602004043528"
+    "upc": "602004043528"
   },
   {
     "sku": "SA61",
@@ -5118,7 +5118,7 @@ export const CATALOG = [
     "avg_overall_rating": "",
     "hashtag": "",
     "dilemma_copy": "",
-    "upc": "0602004038289"
+    "upc": "602004038289"
   },
   {
     "sku": "IB223US",
@@ -5158,7 +5158,7 @@ export const CATALOG = [
     "avg_overall_rating": "4.27000",
     "hashtag": "helloflawlessoxygenwow",
     "dilemma_copy": "Hello flawless,  fabulous skin. A brightening liquid foundation that locks on over your primer and leaves your skin looking luminous even when the temp is turned up.",
-    "upc": "0602004053091"
+    "upc": "602004053091"
   },
   {
     "sku": "IB225US",
@@ -5198,7 +5198,7 @@ export const CATALOG = [
     "avg_overall_rating": "4.27000",
     "hashtag": "helloflawlessoxygenwow",
     "dilemma_copy": "Hello flawless,  fabulous skin. A brightening liquid foundation that locks on over your primer and leaves your skin looking luminous even when the temp is turned up.",
-    "upc": "0602004053107"
+    "upc": "602004053107"
   },
   {
     "sku": "IB227US",
@@ -5238,7 +5238,7 @@ export const CATALOG = [
     "avg_overall_rating": "4.27000",
     "hashtag": "helloflawlessoxygenwow",
     "dilemma_copy": "Hello flawless,  fabulous skin. A brightening liquid foundation that locks on over your primer and leaves your skin looking luminous even when the temp is turned up.",
-    "upc": "0602004053114"
+    "upc": "602004053114"
   },
   {
     "sku": "IB229US",
@@ -5278,7 +5278,7 @@ export const CATALOG = [
     "avg_overall_rating": "4.27000",
     "hashtag": "helloflawlessoxygenwow",
     "dilemma_copy": "Hello flawless,  fabulous skin. A brightening liquid foundation that locks on over your primer and leaves your skin looking luminous even when the temp is turned up.",
-    "upc": "0602004053121"
+    "upc": "602004053121"
   },
   {
     "sku": "IB231US",
@@ -5318,7 +5318,7 @@ export const CATALOG = [
     "avg_overall_rating": "4.27000",
     "hashtag": "helloflawlessoxygenwow",
     "dilemma_copy": "Hello flawless,  fabulous skin. A brightening liquid foundation that locks on over your primer and leaves your skin looking luminous even when the temp is turned up.",
-    "upc": "0602004053138"
+    "upc": "602004053138"
   },
   {
     "sku": "IB233US",
@@ -5358,7 +5358,7 @@ export const CATALOG = [
     "avg_overall_rating": "4.27000",
     "hashtag": "helloflawlessoxygenwow",
     "dilemma_copy": "Hello flawless,  fabulous skin. A brightening liquid foundation that locks on over your primer and leaves your skin looking luminous even when the temp is turned up.",
-    "upc": "0602004053145"
+    "upc": "602004053145"
   },
   {
     "sku": "IB235US",
@@ -5398,7 +5398,7 @@ export const CATALOG = [
     "avg_overall_rating": "4.27000",
     "hashtag": "helloflawlessoxygenwow",
     "dilemma_copy": "Hello flawless,  fabulous skin. A brightening liquid foundation that locks on over your primer and leaves your skin looking luminous even when the temp is turned up.",
-    "upc": "0602004053152"
+    "upc": "602004053152"
   },
   {
     "sku": "IB237US",
@@ -5438,7 +5438,7 @@ export const CATALOG = [
     "avg_overall_rating": "4.27000",
     "hashtag": "helloflawlessoxygenwow",
     "dilemma_copy": "Hello flawless,  fabulous skin. A brightening liquid foundation that locks on over your primer and leaves your skin looking luminous even when the temp is turned up.",
-    "upc": "0602004053169"
+    "upc": "602004053169"
   },
   {
     "sku": "IB241US",
@@ -5478,7 +5478,7 @@ export const CATALOG = [
     "avg_overall_rating": "4.27000",
     "hashtag": "helloflawlessoxygenwow",
     "dilemma_copy": "Hello flawless,  fabulous skin. A brightening liquid foundation that locks on over your primer and leaves your skin looking luminous even when the temp is turned up.",
-    "upc": "0602004053183"
+    "upc": "602004053183"
   },
   {
     "sku": "IB222",
@@ -5518,7 +5518,7 @@ export const CATALOG = [
     "avg_overall_rating": "4.50000",
     "hashtag": "realsies",
     "dilemma_copy": "",
-    "upc": "0602004042552"
+    "upc": "602004042552"
   },
   {
     "sku": "BB15",
@@ -5558,7 +5558,7 @@ export const CATALOG = [
     "avg_overall_rating": "",
     "hashtag": "",
     "dilemma_copy": "",
-    "upc": "0602004044372"
+    "upc": "602004044372"
   },
   {
     "sku": "IB261",
@@ -5598,7 +5598,7 @@ export const CATALOG = [
     "avg_overall_rating": "0.00000",
     "hashtag": "",
     "dilemma_copy": "",
-    "upc": "0602004045317"
+    "upc": "602004045317"
   },
   {
     "sku": "LG56",
@@ -5638,7 +5638,7 @@ export const CATALOG = [
     "avg_overall_rating": "5.00000",
     "hashtag": "",
     "dilemma_copy": "",
-    "upc": "0602004043566"
+    "upc": "602004043566"
   },
   {
     "sku": "LG54",
@@ -5678,7 +5678,7 @@ export const CATALOG = [
     "avg_overall_rating": "0.00000",
     "hashtag": "",
     "dilemma_copy": "",
-    "upc": "0602004010414"
+    "upc": "602004010414"
   },
   {
     "sku": "LG57",
@@ -5718,7 +5718,7 @@ export const CATALOG = [
     "avg_overall_rating": "2.33000",
     "hashtag": "",
     "dilemma_copy": "",
-    "upc": "0602004043580"
+    "upc": "602004043580"
   },
   {
     "sku": "LG55",
@@ -5758,7 +5758,7 @@ export const CATALOG = [
     "avg_overall_rating": "4.00000",
     "hashtag": "",
     "dilemma_copy": "",
-    "upc": "0602004043542"
+    "upc": "602004043542"
   },
   {
     "sku": "LG58",
@@ -5798,7 +5798,7 @@ export const CATALOG = [
     "avg_overall_rating": "0.00000",
     "hashtag": "",
     "dilemma_copy": "",
-    "upc": "0602004043603"
+    "upc": "602004043603"
   },
   {
     "sku": "FR20",
@@ -5838,7 +5838,7 @@ export const CATALOG = [
     "avg_overall_rating": "0.00000",
     "hashtag": "",
     "dilemma_copy": "",
-    "upc": "0602004039590"
+    "upc": "602004039590"
   },
   {
     "sku": "IB258",
@@ -5878,7 +5878,7 @@ export const CATALOG = [
     "avg_overall_rating": "0.00000",
     "hashtag": "",
     "dilemma_copy": "",
-    "upc": "0602004045195"
+    "upc": "602004045195"
   },
   {
     "sku": "IB268",
@@ -5918,7 +5918,7 @@ export const CATALOG = [
     "avg_overall_rating": "0.00000",
     "hashtag": "",
     "dilemma_copy": "",
-    "upc": "0602004046055"
+    "upc": "602004046055"
   },
   {
     "sku": "IB269",
@@ -5958,7 +5958,7 @@ export const CATALOG = [
     "avg_overall_rating": "3.00000",
     "hashtag": "fineoneone",
     "dilemma_copy": "",
-    "upc": "0602004046338"
+    "upc": "602004046338"
   },
   {
     "sku": "IB274",
@@ -5998,7 +5998,7 @@ export const CATALOG = [
     "avg_overall_rating": "5.00000",
     "hashtag": "",
     "dilemma_copy": "",
-    "upc": "0602004046888"
+    "upc": "602004046888"
   },
   {
     "sku": "IB249",
@@ -6038,7 +6038,7 @@ export const CATALOG = [
     "avg_overall_rating": "",
     "hashtag": "",
     "dilemma_copy": "",
-    "upc": "0602004043344"
+    "upc": "602004043344"
   },
   {
     "sku": "GWP104",
@@ -6078,7 +6078,7 @@ export const CATALOG = [
     "avg_overall_rating": "",
     "hashtag": "",
     "dilemma_copy": "",
-    "upc": "0602004051424"
+    "upc": "602004051424"
   },
   {
     "sku": "FF65D",
@@ -6118,7 +6118,7 @@ export const CATALOG = [
     "avg_overall_rating": "0.00000",
     "hashtag": "",
     "dilemma_copy": "",
-    "upc": "0602004048288"
+    "upc": "602004048288"
   },
   {
     "sku": "GWP108",
@@ -6158,7 +6158,7 @@ export const CATALOG = [
     "avg_overall_rating": "",
     "hashtag": "",
     "dilemma_copy": "",
-    "upc": "0602004051530"
+    "upc": "602004051530"
   },
   {
     "sku": "IB312",
@@ -6198,7 +6198,7 @@ export const CATALOG = [
     "avg_overall_rating": "0.00000",
     "hashtag": "",
     "dilemma_copy": "",
-    "upc": "0602004050649"
+    "upc": "602004050649"
   },
   {
     "sku": "IB315",
@@ -6238,7 +6238,7 @@ export const CATALOG = [
     "avg_overall_rating": "0.00000",
     "hashtag": "",
     "dilemma_copy": "",
-    "upc": "0602004050724"
+    "upc": "602004050724"
   },
   {
     "sku": "IB321",
@@ -6278,7 +6278,7 @@ export const CATALOG = [
     "avg_overall_rating": "0.00000",
     "hashtag": "",
     "dilemma_copy": "",
-    "upc": "0602004050922"
+    "upc": "602004050922"
   },
   {
     "sku": "CE29",
@@ -6318,7 +6318,7 @@ export const CATALOG = [
     "avg_overall_rating": "4.67000",
     "hashtag": "",
     "dilemma_copy": "",
-    "upc": "0602004051554"
+    "upc": "602004051554"
   },
   {
     "sku": "CE31",
@@ -6358,7 +6358,7 @@ export const CATALOG = [
     "avg_overall_rating": "4.67000",
     "hashtag": "",
     "dilemma_copy": "",
-    "upc": "0602004051639"
+    "upc": "602004051639"
   },
   {
     "sku": "LG60",
@@ -6398,7 +6398,7 @@ export const CATALOG = [
     "avg_overall_rating": "0.00000",
     "hashtag": "",
     "dilemma_copy": "",
-    "upc": "0602004052483"
+    "upc": "602004052483"
   },
   {
     "sku": "LG61",
@@ -6438,7 +6438,7 @@ export const CATALOG = [
     "avg_overall_rating": "0.00000",
     "hashtag": "",
     "dilemma_copy": "",
-    "upc": "0602004052506"
+    "upc": "602004052506"
   },
   {
     "sku": "LG62",
@@ -6478,7 +6478,7 @@ export const CATALOG = [
     "avg_overall_rating": "0.00000",
     "hashtag": "",
     "dilemma_copy": "",
-    "upc": "0602004052520"
+    "upc": "602004052520"
   },
   {
     "sku": "LG63",
@@ -6518,7 +6518,7 @@ export const CATALOG = [
     "avg_overall_rating": "0.00000",
     "hashtag": "",
     "dilemma_copy": "",
-    "upc": "0602004052544"
+    "upc": "602004052544"
   },
   {
     "sku": "LG64",
@@ -6558,7 +6558,7 @@ export const CATALOG = [
     "avg_overall_rating": "0.00000",
     "hashtag": "",
     "dilemma_copy": "",
-    "upc": "0602004052568"
+    "upc": "602004052568"
   },
   {
     "sku": "LG65",
@@ -6598,7 +6598,7 @@ export const CATALOG = [
     "avg_overall_rating": "0.00000",
     "hashtag": "",
     "dilemma_copy": "",
-    "upc": "0602004052582"
+    "upc": "602004052582"
   },
   {
     "sku": "BM01",
@@ -6638,7 +6638,7 @@ export const CATALOG = [
     "avg_overall_rating": "0.00000",
     "hashtag": "",
     "dilemma_copy": "",
-    "upc": "0602004056900"
+    "upc": "602004056900"
   },
   {
     "sku": "LP109",
@@ -6678,7 +6678,7 @@ export const CATALOG = [
     "avg_overall_rating": "5.00000",
     "hashtag": "",
     "dilemma_copy": "",
-    "upc": "0602004052162"
+    "upc": "602004052162"
   },
   {
     "sku": "LP113",
@@ -6718,7 +6718,7 @@ export const CATALOG = [
     "avg_overall_rating": "5.00000",
     "hashtag": "",
     "dilemma_copy": "",
-    "upc": "0602004052322"
+    "upc": "602004052322"
   },
   {
     "sku": "FC04",
@@ -6758,7 +6758,7 @@ export const CATALOG = [
     "avg_overall_rating": "4.67000",
     "hashtag": "stayflawless",
     "dilemma_copy": "Let loose without losing your makeup. Our PRO-long primer sticks acts like a magnet to lock on your foundation for 15 fresh, flawless hours.",
-    "upc": "0602004053442"
+    "upc": "602004053442"
   },
   {
     "sku": "FR29",
@@ -6798,7 +6798,7 @@ export const CATALOG = [
     "avg_overall_rating": "5.00000",
     "hashtag": "",
     "dilemma_copy": "",
-    "upc": "0602004053305"
+    "upc": "602004053305"
   },
   {
     "sku": "BC12",
@@ -6838,7 +6838,7 @@ export const CATALOG = [
     "avg_overall_rating": "0.00000",
     "hashtag": "",
     "dilemma_copy": "",
-    "upc": "0602004053435"
+    "upc": "602004053435"
   },
   {
     "sku": "FM02",
@@ -6878,7 +6878,7 @@ export const CATALOG = [
     "avg_overall_rating": "5.00000",
     "hashtag": "rockateur",
     "dilemma_copy": "Umm are you famous? Turn the volume to 11 with this rockin' rose gold cheek powder. A provocative flush gets you noticed and puts you at center stage. ",
-    "upc": "0602004055224"
+    "upc": "602004055224"
   },
   {
     "sku": "SA183",
@@ -6918,7 +6918,7 @@ export const CATALOG = [
     "avg_overall_rating": "",
     "hashtag": "",
     "dilemma_copy": "",
-    "upc": "0602004052773"
+    "upc": "602004052773"
   },
   {
     "sku": "FF81",
@@ -6958,7 +6958,7 @@ export const CATALOG = [
     "avg_overall_rating": "5.00000",
     "hashtag": "",
     "dilemma_copy": "",
-    "upc": "0602004044402"
+    "upc": "602004044402"
   },
   {
     "sku": "EC03",
@@ -6998,7 +6998,7 @@ export const CATALOG = [
     "avg_overall_rating": "4.44000",
     "hashtag": "gimmebrow",
     "dilemma_copy": "Thick lush arches are the best way to frame your eyes and make them pop. The brush-on fiber gel builds brows beautifully so eyes are front and center.",
-    "upc": "0602004053794"
+    "upc": "602004053794"
   },
   {
     "sku": "EC04",
@@ -7038,7 +7038,7 @@ export const CATALOG = [
     "avg_overall_rating": "4.44000",
     "hashtag": "gimmebrow",
     "dilemma_copy": "Thick lush arches are the best way to frame your eyes and make them pop. The brush-on fiber gel builds brows beautifully so eyes are front and center.",
-    "upc": "0602004053763"
+    "upc": "602004053763"
   },
   {
     "sku": "TOA13",
@@ -7078,7 +7078,7 @@ export const CATALOG = [
     "avg_overall_rating": "",
     "hashtag": "",
     "dilemma_copy": "",
-    "upc": "0602004056849"
+    "upc": "602004056849"
   },
   {
     "sku": "TT273",
@@ -7118,7 +7118,7 @@ export const CATALOG = [
     "avg_overall_rating": "",
     "hashtag": "",
     "dilemma_copy": "",
-    "upc": "0602004053503"
+    "upc": "602004053503"
   },
   {
     "sku": "TAN",
@@ -7158,7 +7158,7 @@ export const CATALOG = [
     "avg_overall_rating": "5.00000",
     "hashtag": "",
     "dilemma_copy": "When it seems like it will never be summer again,  our airbrush tanning is the quickest way to get a gorgeous summery glow (even in the darkest winter months). ",
-    "upc": "0602004690517"
+    "upc": "602004690517"
   },
   {
     "sku": "BRT",
@@ -7198,7 +7198,7 @@ export const CATALOG = [
     "avg_overall_rating": "4.00000",
     "hashtag": "",
     "dilemma_copy": "A brilliant way to revamp your look! Tinting helps frame the eyes for extra drama. Fair-and-sparse brows and lashes go to full-and-fabulous thanks to our fab aestheticians.",
-    "upc": "0602004990099"
+    "upc": "602004990099"
   },
   {
     "sku": "LPW",
@@ -7238,7 +7238,7 @@ export const CATALOG = [
     "avg_overall_rating": "0.00000",
     "hashtag": "",
     "dilemma_copy": "",
-    "upc": "0602004990075"
+    "upc": "602004990075"
   },
   {
     "sku": "SS17",
@@ -7278,7 +7278,7 @@ export const CATALOG = [
     "avg_overall_rating": "0.00000",
     "hashtag": "",
     "dilemma_copy": "Razors just won’t cut it! Step on to the beach feeling smooth and confident whether you’re riding the waves or just sitting pretty.",
-    "upc": "0602004990136"
+    "upc": "602004990136"
   },
   {
     "sku": "FC06",
@@ -7318,7 +7318,7 @@ export const CATALOG = [
     "avg_overall_rating": "4.67000",
     "hashtag": "lollitint",
     "dilemma_copy": "",
-    "upc": "0602004055439"
+    "upc": "602004055439"
   },
   {
     "sku": "MUA",
@@ -7358,7 +7358,7 @@ export const CATALOG = [
     "avg_overall_rating": "0.00000",
     "hashtag": "",
     "dilemma_copy": "",
-    "upc": "0602004690524"
+    "upc": "602004690524"
   },
   {
     "sku": "FM03",
@@ -7398,7 +7398,7 @@ export const CATALOG = [
     "avg_overall_rating": "4.12000",
     "hashtag": "agentzeroshine",
     "dilemma_copy": "Make smoother-than-smooth skin your top-secret mission. This PRO powder expertly minimizes shine and helps smooth the look of pores.",
-    "upc": "0602004056948"
+    "upc": "602004056948"
   },
   {
     "sku": "SA185",
@@ -7438,7 +7438,7 @@ export const CATALOG = [
     "avg_overall_rating": "",
     "hashtag": "",
     "dilemma_copy": "",
-    "upc": "0602004053466"
+    "upc": "602004053466"
   },
   {
     "sku": "SD05",
@@ -7478,7 +7478,7 @@ export const CATALOG = [
     "avg_overall_rating": "",
     "hashtag": "",
     "dilemma_copy": "",
-    "upc": "0602004057259"
+    "upc": "602004057259"
   },
   {
     "sku": "SD01",
@@ -7518,7 +7518,7 @@ export const CATALOG = [
     "avg_overall_rating": "",
     "hashtag": "",
     "dilemma_copy": "",
-    "upc": "0602004054647"
+    "upc": "602004054647"
   },
   {
     "sku": "SD18",
@@ -7558,7 +7558,7 @@ export const CATALOG = [
     "avg_overall_rating": "",
     "hashtag": "",
     "dilemma_copy": "",
-    "upc": "0602004059246"
+    "upc": "602004059246"
   },
   {
     "sku": "SD12US",
@@ -7598,7 +7598,7 @@ export const CATALOG = [
     "avg_overall_rating": "",
     "hashtag": "",
     "dilemma_copy": "",
-    "upc": "0602004062420"
+    "upc": "602004062420"
   },
   {
     "sku": "FM07US",
@@ -7638,7 +7638,7 @@ export const CATALOG = [
     "avg_overall_rating": "4.24000",
     "hashtag": "benefitbigeasy",
     "dilemma_copy": "You’re one-and-done with this liquid-to-powder formula that’s bigger than BB. A complexion perfector that hydrates,  balances and conceals. ",
-    "upc": "0602004058485"
+    "upc": "602004058485"
   },
   {
     "sku": "FM08US",
@@ -7678,7 +7678,7 @@ export const CATALOG = [
     "avg_overall_rating": "4.24000",
     "hashtag": "benefitbigeasy",
     "dilemma_copy": "You’re one-and-done with this liquid-to-powder formula that’s bigger than BB. A complexion perfector that hydrates,  balances and conceals. ",
-    "upc": "0602004058492"
+    "upc": "602004058492"
   },
   {
     "sku": "TT280US",
@@ -7718,7 +7718,7 @@ export const CATALOG = [
     "avg_overall_rating": "0.00000",
     "hashtag": "",
     "dilemma_copy": "",
-    "upc": "0602004054074"
+    "upc": "602004054074"
   },
   {
     "sku": "BC13US",
@@ -7758,7 +7758,7 @@ export const CATALOG = [
     "avg_overall_rating": "",
     "hashtag": "",
     "dilemma_copy": "Save face! A totally invisible sunscreen that absorbs on the spot and glides on like a dream. Broad spectrum SPF 45’s got you covered.",
-    "upc": "0602004047182"
+    "upc": "602004047182"
   },
   {
     "sku": "LM615",
@@ -7798,7 +7798,7 @@ export const CATALOG = [
     "avg_overall_rating": "0.00000",
     "hashtag": "",
     "dilemma_copy": "",
-    "upc": "0602004059512"
+    "upc": "602004059512"
   },
   {
     "sku": "TOA34",
@@ -7838,7 +7838,7 @@ export const CATALOG = [
     "avg_overall_rating": "",
     "hashtag": "",
     "dilemma_copy": "",
-    "upc": "0602004059390"
+    "upc": "602004059390"
   },
   {
     "sku": "GG38",
@@ -7878,7 +7878,7 @@ export const CATALOG = [
     "avg_overall_rating": "",
     "hashtag": "",
     "dilemma_copy": "",
-    "upc": "0883681768847"
+    "upc": "883681768847"
   },
   {
     "sku": "SK07",
@@ -7918,7 +7918,7 @@ export const CATALOG = [
     "avg_overall_rating": "",
     "hashtag": "",
     "dilemma_copy": "",
-    "upc": "0602004059871"
+    "upc": "602004059871"
   },
   {
     "sku": "LM611",
@@ -7958,7 +7958,7 @@ export const CATALOG = [
     "avg_overall_rating": "4.89000",
     "hashtag": "benebalm",
     "dilemma_copy": "",
-    "upc": "0602004055088"
+    "upc": "602004055088"
   },
   {
     "sku": "LM614",
@@ -7998,7 +7998,7 @@ export const CATALOG = [
     "avg_overall_rating": "5.00000",
     "hashtag": "lollibalm",
     "dilemma_copy": "",
-    "upc": "0602004056078"
+    "upc": "602004056078"
   },
   {
     "sku": "LM612",
@@ -8038,7 +8038,7 @@ export const CATALOG = [
     "avg_overall_rating": "5.00000",
     "hashtag": "posiebalm",
     "dilemma_copy": "",
-    "upc": "0602004056030"
+    "upc": "602004056030"
   },
   {
     "sku": "LM613",
@@ -8078,7 +8078,7 @@ export const CATALOG = [
     "avg_overall_rating": "5.00000",
     "hashtag": "chachabalm",
     "dilemma_copy": "",
-    "upc": "0602004056054"
+    "upc": "602004056054"
   },
   {
     "sku": "EM03",
@@ -8118,7 +8118,7 @@ export const CATALOG = [
     "avg_overall_rating": "4.10000",
     "hashtag": "realfineliner",
     "dilemma_copy": "Big dramatic eyes are yours! Wing it or draw a sexy cat eye. So many looks with this lash-hugging gel liner (in a pen…so crafty!)",
-    "upc": "0602004058652"
+    "upc": "602004058652"
   },
   {
     "sku": "EM13",
@@ -8158,7 +8158,7 @@ export const CATALOG = [
     "avg_overall_rating": "4.10000",
     "hashtag": "realfineliner",
     "dilemma_copy": "Big dramatic eyes are yours! Wing it or draw a sexy cat eye. So many looks with this lash-hugging gel liner (in a pen…so crafty!)",
-    "upc": "0602004066909"
+    "upc": "602004066909"
   },
   {
     "sku": "EM14",
@@ -8198,7 +8198,7 @@ export const CATALOG = [
     "avg_overall_rating": "4.10000",
     "hashtag": "realfineliner",
     "dilemma_copy": "Big dramatic eyes are yours! Wing it or draw a sexy cat eye. So many looks with this lash-hugging gel liner (in a pen…so crafty!)",
-    "upc": "0602004066916"
+    "upc": "602004066916"
   },
   {
     "sku": "EM15",
@@ -8238,7 +8238,7 @@ export const CATALOG = [
     "avg_overall_rating": "4.10000",
     "hashtag": "realfineliner",
     "dilemma_copy": "Big dramatic eyes are yours! Wing it or draw a sexy cat eye. So many looks with this lash-hugging gel liner (in a pen…so crafty!)",
-    "upc": "0602004066923"
+    "upc": "602004066923"
   },
   {
     "sku": "EM16",
@@ -8278,7 +8278,7 @@ export const CATALOG = [
     "avg_overall_rating": "4.10000",
     "hashtag": "realfineliner",
     "dilemma_copy": "Big dramatic eyes are yours! Wing it or draw a sexy cat eye. So many looks with this lash-hugging gel liner (in a pen…so crafty!)",
-    "upc": "0602004066930"
+    "upc": "602004066930"
   },
   {
     "sku": "TOA33",
@@ -8318,7 +8318,7 @@ export const CATALOG = [
     "avg_overall_rating": "0.00000",
     "hashtag": "",
     "dilemma_copy": "",
-    "upc": "0602004059383"
+    "upc": "602004059383"
   },
   {
     "sku": "TOA40",
@@ -8358,7 +8358,7 @@ export const CATALOG = [
     "avg_overall_rating": "0.00000",
     "hashtag": "",
     "dilemma_copy": "",
-    "upc": "0602004059451"
+    "upc": "602004059451"
   },
   {
     "sku": "TOA36",
@@ -8398,7 +8398,7 @@ export const CATALOG = [
     "avg_overall_rating": "4.00000",
     "hashtag": "",
     "dilemma_copy": "",
-    "upc": "0602004059413"
+    "upc": "602004059413"
   },
   {
     "sku": "TOA35",
@@ -8438,7 +8438,7 @@ export const CATALOG = [
     "avg_overall_rating": "",
     "hashtag": "",
     "dilemma_copy": "",
-    "upc": "0602004059406"
+    "upc": "602004059406"
   },
   {
     "sku": "TOA29",
@@ -8478,7 +8478,7 @@ export const CATALOG = [
     "avg_overall_rating": "",
     "hashtag": "",
     "dilemma_copy": "",
-    "upc": "0602004059345"
+    "upc": "602004059345"
   },
   {
     "sku": "BC14",
@@ -8518,7 +8518,7 @@ export const CATALOG = [
     "avg_overall_rating": "3.75000",
     "hashtag": "",
     "dilemma_copy": "",
-    "upc": "0602004057846"
+    "upc": "602004057846"
   },
   {
     "sku": "SD17",
@@ -8558,7 +8558,7 @@ export const CATALOG = [
     "avg_overall_rating": "",
     "hashtag": "",
     "dilemma_copy": "",
-    "upc": "0602004059215"
+    "upc": "602004059215"
   },
   {
     "sku": "BC16",
@@ -8598,7 +8598,7 @@ export const CATALOG = [
     "avg_overall_rating": "5.00000",
     "hashtag": "",
     "dilemma_copy": "",
-    "upc": "0602004061966"
+    "upc": "602004061966"
   },
   {
     "sku": "TT369",
@@ -8638,7 +8638,7 @@ export const CATALOG = [
     "avg_overall_rating": "",
     "hashtag": "",
     "dilemma_copy": "",
-    "upc": "0602004063472"
+    "upc": "602004063472"
   },
   {
     "sku": "FM11",
@@ -8678,7 +8678,7 @@ export const CATALOG = [
     "avg_overall_rating": "4.55000",
     "hashtag": "",
     "dilemma_copy": "Add a little pep to your step with this pink-peach blush that boosts your natural flush. A few twirls and you’re on your way to feeling (and looking) chock full o’ cheer.",
-    "upc": "0602004059536"
+    "upc": "602004059536"
   },
   {
     "sku": "BC15",
@@ -8718,7 +8718,7 @@ export const CATALOG = [
     "avg_overall_rating": "4.44000",
     "hashtag": "",
     "dilemma_copy": "Give tired skin a second wind. Hit refresh with our age-defying serum that boosts the look of your skin.",
-    "upc": "0602004050359"
+    "upc": "602004050359"
   },
   {
     "sku": "SD22",
@@ -8758,7 +8758,7 @@ export const CATALOG = [
     "avg_overall_rating": "",
     "hashtag": "",
     "dilemma_copy": "",
-    "upc": "0602004057853"
+    "upc": "602004057853"
   },
   {
     "sku": "LM619",
@@ -8798,7 +8798,7 @@ export const CATALOG = [
     "avg_overall_rating": "0.00000",
     "hashtag": "",
     "dilemma_copy": "",
-    "upc": "0602004059987"
+    "upc": "602004059987"
   },
   {
     "sku": "SD02US",
@@ -8838,7 +8838,7 @@ export const CATALOG = [
     "avg_overall_rating": "",
     "hashtag": "",
     "dilemma_copy": "",
-    "upc": "0602004056313"
+    "upc": "602004056313"
   },
   {
     "sku": "TT379",
@@ -8878,7 +8878,7 @@ export const CATALOG = [
     "avg_overall_rating": "",
     "hashtag": "",
     "dilemma_copy": "",
-    "upc": "0602004064585"
+    "upc": "602004064585"
   },
   {
     "sku": "TT355US",
@@ -8918,7 +8918,7 @@ export const CATALOG = [
     "avg_overall_rating": "",
     "hashtag": "",
     "dilemma_copy": "",
-    "upc": "0602004054722"
+    "upc": "602004054722"
   },
   {
     "sku": "TT377US",
@@ -8958,7 +8958,7 @@ export const CATALOG = [
     "avg_overall_rating": "4.50000",
     "hashtag": "",
     "dilemma_copy": "",
-    "upc": "0602004054821"
+    "upc": "602004054821"
   },
   {
     "sku": "TT384US",
@@ -8998,7 +8998,7 @@ export const CATALOG = [
     "avg_overall_rating": "",
     "hashtag": "",
     "dilemma_copy": "",
-    "upc": "0602004062994"
+    "upc": "602004062994"
   },
   {
     "sku": "TT334",
@@ -9038,7 +9038,7 @@ export const CATALOG = [
     "avg_overall_rating": "4.00000",
     "hashtag": "",
     "dilemma_copy": "",
-    "upc": "0602004055453"
+    "upc": "602004055453"
   },
   {
     "sku": "EM07",
@@ -9078,7 +9078,7 @@ export const CATALOG = [
     "avg_overall_rating": "3.27000",
     "hashtag": "",
     "dilemma_copy": "Disguise those all-nighter eyes. This innovative custom “ironing” tip instantly helps smooth the look of undereye puffies. A few dabs and you’re on your way to awake,  energized eyes.",
-    "upc": "0602004062215"
+    "upc": "602004062215"
   },
   {
     "sku": "EM17",
@@ -9118,7 +9118,7 @@ export const CATALOG = [
     "avg_overall_rating": "5.00000",
     "hashtag": "",
     "dilemma_copy": "",
-    "upc": "0602004067104"
+    "upc": "602004067104"
   },
   {
     "sku": "SD06",
@@ -9158,7 +9158,7 @@ export const CATALOG = [
     "avg_overall_rating": "",
     "hashtag": "",
     "dilemma_copy": "",
-    "upc": "0602004057266"
+    "upc": "602004057266"
   },
   {
     "sku": "SD07",
@@ -9198,7 +9198,7 @@ export const CATALOG = [
     "avg_overall_rating": "",
     "hashtag": "",
     "dilemma_copy": "",
-    "upc": "0602004057273"
+    "upc": "602004057273"
   },
   {
     "sku": "EM01",
@@ -9238,7 +9238,7 @@ export const CATALOG = [
     "avg_overall_rating": "4.42000",
     "hashtag": "rollerlash",
     "dilemma_copy": "Meet your new curlfriend. Our super-curling and lifting mascara replaces the need for that ancient lash curler (a total time-suck). Yes,  you can get back that extra two minutes!",
-    "upc": "0602004057877"
+    "upc": "602004057877"
   },
   {
     "sku": "US01",
@@ -9278,7 +9278,7 @@ export const CATALOG = [
     "avg_overall_rating": "",
     "hashtag": "",
     "dilemma_copy": "",
-    "upc": "0602004072146"
+    "upc": "602004072146"
   },
   {
     "sku": "US02",
@@ -9318,7 +9318,7 @@ export const CATALOG = [
     "avg_overall_rating": "",
     "hashtag": "",
     "dilemma_copy": "",
-    "upc": "0602004072153"
+    "upc": "602004072153"
   },
   {
     "sku": "US03",
@@ -9358,7 +9358,7 @@ export const CATALOG = [
     "avg_overall_rating": "",
     "hashtag": "",
     "dilemma_copy": "",
-    "upc": "0602004072160"
+    "upc": "602004072160"
   },
   {
     "sku": "FM19",
@@ -9398,7 +9398,7 @@ export const CATALOG = [
     "avg_overall_rating": "4.33000",
     "hashtag": "",
     "dilemma_copy": "BLOT on the spot. This incredible oil-blotting stick with a triangular tip targets shiny zones (even in hard-to-reach spots). Oil has finally met its matte. ",
-    "upc": "0602004062055"
+    "upc": "602004062055"
   },
   {
     "sku": "SD32",
@@ -9438,7 +9438,7 @@ export const CATALOG = [
     "avg_overall_rating": "",
     "hashtag": "",
     "dilemma_copy": "",
-    "upc": "0602004066954"
+    "upc": "602004066954"
   },
   {
     "sku": "TOA67",
@@ -9478,7 +9478,7 @@ export const CATALOG = [
     "avg_overall_rating": "",
     "hashtag": "",
     "dilemma_copy": "",
-    "upc": "0602004061706"
+    "upc": "602004061706"
   },
   {
     "sku": "TT398US",
@@ -9518,7 +9518,7 @@ export const CATALOG = [
     "avg_overall_rating": "0.00000",
     "hashtag": "",
     "dilemma_copy": "",
-    "upc": "0602004068781"
+    "upc": "602004068781"
   },
   {
     "sku": "SD34",
@@ -9558,7 +9558,7 @@ export const CATALOG = [
     "avg_overall_rating": "",
     "hashtag": "",
     "dilemma_copy": "",
-    "upc": "0602004067289"
+    "upc": "602004067289"
   },
   {
     "sku": "EC06US",
@@ -9598,7 +9598,7 @@ export const CATALOG = [
     "avg_overall_rating": "4.38000",
     "hashtag": "",
     "dilemma_copy": "",
-    "upc": "0602004069153"
+    "upc": "602004069153"
   },
   {
     "sku": "TT390US",
@@ -9638,7 +9638,7 @@ export const CATALOG = [
     "avg_overall_rating": "",
     "hashtag": "",
     "dilemma_copy": "",
-    "upc": "0602004067432"
+    "upc": "602004067432"
   },
   {
     "sku": "TT391US",
@@ -9678,7 +9678,7 @@ export const CATALOG = [
     "avg_overall_rating": "",
     "hashtag": "",
     "dilemma_copy": "",
-    "upc": "0602004067425"
+    "upc": "602004067425"
   },
   {
     "sku": "TT392US",
@@ -9718,7 +9718,7 @@ export const CATALOG = [
     "avg_overall_rating": "",
     "hashtag": "",
     "dilemma_copy": "",
-    "upc": "0602004067418"
+    "upc": "602004067418"
   },
   {
     "sku": "TT407",
@@ -9758,7 +9758,7 @@ export const CATALOG = [
     "avg_overall_rating": "0.00000",
     "hashtag": "",
     "dilemma_copy": "",
-    "upc": "0602004068064"
+    "upc": "602004068064"
   },
   {
     "sku": "TT291",
@@ -9798,7 +9798,7 @@ export const CATALOG = [
     "avg_overall_rating": "0.00000",
     "hashtag": "",
     "dilemma_copy": "",
-    "upc": "0602004054319"
+    "upc": "602004054319"
   },
   {
     "sku": "SA133",
@@ -9838,7 +9838,7 @@ export const CATALOG = [
     "avg_overall_rating": "",
     "hashtag": "",
     "dilemma_copy": "",
-    "upc": "0602004044907"
+    "upc": "602004044907"
   },
   {
     "sku": "SA219",
@@ -9878,7 +9878,7 @@ export const CATALOG = [
     "avg_overall_rating": "",
     "hashtag": "",
     "dilemma_copy": "",
-    "upc": "0602004066961"
+    "upc": "602004066961"
   },
   {
     "sku": "SA218",
@@ -9958,7 +9958,7 @@ export const CATALOG = [
     "avg_overall_rating": "0.00000",
     "hashtag": "",
     "dilemma_copy": "",
-    "upc": "0602004066978"
+    "upc": "602004066978"
   },
   {
     "sku": "SD36",
@@ -9998,7 +9998,7 @@ export const CATALOG = [
     "avg_overall_rating": "",
     "hashtag": "",
     "dilemma_copy": "",
-    "upc": "0602004068170"
+    "upc": "602004068170"
   },
   {
     "sku": "SD09",
@@ -10038,7 +10038,7 @@ export const CATALOG = [
     "avg_overall_rating": "",
     "hashtag": "",
     "dilemma_copy": "",
-    "upc": "0602004057976"
+    "upc": "602004057976"
   },
   {
     "sku": "TOA63",
@@ -10078,7 +10078,7 @@ export const CATALOG = [
     "avg_overall_rating": "0.00000",
     "hashtag": "",
     "dilemma_copy": "",
-    "upc": "0602004061898"
+    "upc": "602004061898"
   },
   {
     "sku": "FF83US",
@@ -10118,7 +10118,7 @@ export const CATALOG = [
     "avg_overall_rating": "",
     "hashtag": "",
     "dilemma_copy": "",
-    "upc": "0602004071743"
+    "upc": "602004071743"
   },
   {
     "sku": "TOA25",
@@ -10158,7 +10158,7 @@ export const CATALOG = [
     "avg_overall_rating": "",
     "hashtag": "",
     "dilemma_copy": "",
-    "upc": "0602004058683"
+    "upc": "602004058683"
   },
   {
     "sku": "FR33",
@@ -10198,7 +10198,7 @@ export const CATALOG = [
     "avg_overall_rating": "0.00000",
     "hashtag": "",
     "dilemma_copy": "",
-    "upc": "0602004068521"
+    "upc": "602004068521"
   },
   {
     "sku": "TT397US",
@@ -10238,7 +10238,7 @@ export const CATALOG = [
     "avg_overall_rating": "0.00000",
     "hashtag": "",
     "dilemma_copy": "",
-    "upc": "0602004067050"
+    "upc": "602004067050"
   },
   {
     "sku": "TT399",
@@ -10278,7 +10278,7 @@ export const CATALOG = [
     "avg_overall_rating": "0.00000",
     "hashtag": "",
     "dilemma_copy": "",
-    "upc": "0602004066732"
+    "upc": "602004066732"
   },
   {
     "sku": "ULX",
@@ -10398,7 +10398,7 @@ export const CATALOG = [
     "avg_overall_rating": "0.00000",
     "hashtag": "",
     "dilemma_copy": "",
-    "upc": "0602004072320"
+    "upc": "602004072320"
   },
   {
     "sku": "TT427US",
@@ -10438,7 +10438,7 @@ export const CATALOG = [
     "avg_overall_rating": "0.00000",
     "hashtag": "",
     "dilemma_copy": "",
-    "upc": "0602004072337"
+    "upc": "602004072337"
   },
   {
     "sku": "TT419US",
@@ -10478,7 +10478,7 @@ export const CATALOG = [
     "avg_overall_rating": "0.00000",
     "hashtag": "",
     "dilemma_copy": "",
-    "upc": "0602004072405"
+    "upc": "602004072405"
   },
   {
     "sku": "TT429US",
@@ -10518,7 +10518,7 @@ export const CATALOG = [
     "avg_overall_rating": "0.00000",
     "hashtag": "",
     "dilemma_copy": "",
-    "upc": "0602004072269"
+    "upc": "602004072269"
   },
   {
     "sku": "TT439",
@@ -10558,7 +10558,7 @@ export const CATALOG = [
     "avg_overall_rating": "0.00000",
     "hashtag": "",
     "dilemma_copy": "",
-    "upc": "0602004072443"
+    "upc": "602004072443"
   },
   {
     "sku": "EM25",
@@ -10598,7 +10598,7 @@ export const CATALOG = [
     "avg_overall_rating": "0.00000",
     "hashtag": "reallashprimer",
     "dilemma_copy": "",
-    "upc": "0602004068811"
+    "upc": "602004068811"
   },
   {
     "sku": "GIFT_WRAP",
@@ -10638,7 +10638,7 @@ export const CATALOG = [
     "avg_overall_rating": "",
     "hashtag": "",
     "dilemma_copy": "",
-    "upc": "0111111111111"
+    "upc": "111111111111"
   },
   {
     "sku": "TT259",
@@ -10678,7 +10678,7 @@ export const CATALOG = [
     "avg_overall_rating": "0.00000",
     "hashtag": "",
     "dilemma_copy": "",
-    "upc": "0602004051417"
+    "upc": "602004051417"
   },
   {
     "sku": "TT268",
@@ -10718,7 +10718,7 @@ export const CATALOG = [
     "avg_overall_rating": "",
     "hashtag": "",
     "dilemma_copy": "",
-    "upc": "0602004053282"
+    "upc": "602004053282"
   },
   {
     "sku": "TT382",
@@ -10758,7 +10758,7 @@ export const CATALOG = [
     "avg_overall_rating": "",
     "hashtag": "",
     "dilemma_copy": "",
-    "upc": "0602004064646"
+    "upc": "602004064646"
   },
   {
     "sku": "BF23",
@@ -10798,7 +10798,7 @@ export const CATALOG = [
     "avg_overall_rating": "0.00000",
     "hashtag": "",
     "dilemma_copy": "",
-    "upc": "0602004020093"
+    "upc": "602004020093"
   },
   {
     "sku": "SD49",
@@ -10838,7 +10838,7 @@ export const CATALOG = [
     "avg_overall_rating": "",
     "hashtag": "",
     "dilemma_copy": "",
-    "upc": "0602004070982"
+    "upc": "602004070982"
   },
   {
     "sku": "SD37US",
@@ -10878,7 +10878,7 @@ export const CATALOG = [
     "avg_overall_rating": "",
     "hashtag": "",
     "dilemma_copy": "",
-    "upc": "0602004068958"
+    "upc": "602004068958"
   },
   {
     "sku": "TT451",
@@ -10918,7 +10918,7 @@ export const CATALOG = [
     "avg_overall_rating": "0.00000",
     "hashtag": "",
     "dilemma_copy": "",
-    "upc": "0602004074102"
+    "upc": "602004074102"
   },
   {
     "sku": "US06",
@@ -10958,7 +10958,7 @@ export const CATALOG = [
     "avg_overall_rating": "0.00000",
     "hashtag": "",
     "dilemma_copy": "",
-    "upc": "0602004076427"
+    "upc": "602004076427"
   },
   {
     "sku": "SA222US",
@@ -10998,7 +10998,7 @@ export const CATALOG = [
     "avg_overall_rating": "",
     "hashtag": "",
     "dilemma_copy": "",
-    "upc": "0602004068897"
+    "upc": "602004068897"
   },
   {
     "sku": "TT354US",
@@ -11038,7 +11038,7 @@ export const CATALOG = [
     "avg_overall_rating": "0.00000",
     "hashtag": "",
     "dilemma_copy": "",
-    "upc": "0602004061041"
+    "upc": "602004061041"
   },
   {
     "sku": "TT432",
@@ -11078,7 +11078,7 @@ export const CATALOG = [
     "avg_overall_rating": "0.00000",
     "hashtag": "realsies",
     "dilemma_copy": "",
-    "upc": "0602004070999"
+    "upc": "602004070999"
   },
   {
     "sku": "SD38US",
@@ -11118,7 +11118,7 @@ export const CATALOG = [
     "avg_overall_rating": "",
     "hashtag": "",
     "dilemma_copy": "",
-    "upc": "0602004074003"
+    "upc": "602004074003"
   },
   {
     "sku": "FM29",
@@ -11158,7 +11158,7 @@ export const CATALOG = [
     "avg_overall_rating": "",
     "hashtag": "",
     "dilemma_copy": "",
-    "upc": "0602004069184"
+    "upc": "602004069184"
   },
   {
     "sku": "FM30",
@@ -11198,7 +11198,7 @@ export const CATALOG = [
     "avg_overall_rating": "",
     "hashtag": "",
     "dilemma_copy": "",
-    "upc": "0602004069696"
+    "upc": "602004069696"
   },
   {
     "sku": "TOA85",
@@ -11238,7 +11238,7 @@ export const CATALOG = [
     "avg_overall_rating": "",
     "hashtag": "",
     "dilemma_copy": "",
-    "upc": "0602004072511"
+    "upc": "602004072511"
   },
   {
     "sku": "ZZ38US",
@@ -11278,7 +11278,7 @@ export const CATALOG = [
     "avg_overall_rating": "",
     "hashtag": "",
     "dilemma_copy": "",
-    "upc": "0602004078476"
+    "upc": "602004078476"
   },
   {
     "sku": "SD19",
@@ -11318,7 +11318,7 @@ export const CATALOG = [
     "avg_overall_rating": "",
     "hashtag": "",
     "dilemma_copy": "",
-    "upc": "0602004059253"
+    "upc": "602004059253"
   },
   {
     "sku": "FM25",
@@ -11358,7 +11358,7 @@ export const CATALOG = [
     "avg_overall_rating": "",
     "hashtag": "hoolastateofmind",
     "dilemma_copy": "",
-    "upc": "0602004067005"
+    "upc": "602004067005"
   },
   {
     "sku": "BC26",
@@ -11398,7 +11398,7 @@ export const CATALOG = [
     "avg_overall_rating": "",
     "hashtag": "hoolastateofmind",
     "dilemma_copy": "",
-    "upc": "0602004072764"
+    "upc": "602004072764"
   },
   {
     "sku": "AM05",
@@ -11438,7 +11438,7 @@ export const CATALOG = [
     "avg_overall_rating": "",
     "hashtag": "",
     "dilemma_copy": "",
-    "upc": "0602004075222"
+    "upc": "602004075222"
   },
   {
     "sku": "FM28",
@@ -11478,7 +11478,7 @@ export const CATALOG = [
     "avg_overall_rating": "",
     "hashtag": "",
     "dilemma_copy": "",
-    "upc": "0602004067487"
+    "upc": "602004067487"
   },
   {
     "sku": "FM24",
@@ -11518,7 +11518,7 @@ export const CATALOG = [
     "avg_overall_rating": "",
     "hashtag": "",
     "dilemma_copy": "",
-    "upc": "0602004066763"
+    "upc": "602004066763"
   },
   {
     "sku": "TT300US",
@@ -11558,7 +11558,7 @@ export const CATALOG = [
     "avg_overall_rating": "",
     "hashtag": "",
     "dilemma_copy": "",
-    "upc": "0602004054609"
+    "upc": "602004054609"
   },
   {
     "sku": "FC07",
@@ -11598,7 +11598,7 @@ export const CATALOG = [
     "avg_overall_rating": "",
     "hashtag": "",
     "dilemma_copy": "",
-    "upc": "0602004055477"
+    "upc": "602004055477"
   },
   {
     "sku": "TT366",
@@ -11638,7 +11638,7 @@ export const CATALOG = [
     "avg_overall_rating": "",
     "hashtag": "",
     "dilemma_copy": "",
-    "upc": "0602004063243"
+    "upc": "602004063243"
   },
   {
     "sku": "IB217",
@@ -11678,7 +11678,7 @@ export const CATALOG = [
     "avg_overall_rating": "",
     "hashtag": "",
     "dilemma_copy": "",
-    "upc": "0602004041319"
+    "upc": "602004041319"
   },
   {
     "sku": "FM32",
@@ -11718,7 +11718,7 @@ export const CATALOG = [
     "avg_overall_rating": "",
     "hashtag": "",
     "dilemma_copy": "",
-    "upc": "0602004072849"
+    "upc": "602004072849"
   },
   {
     "sku": "FM33",
@@ -11758,7 +11758,7 @@ export const CATALOG = [
     "avg_overall_rating": "",
     "hashtag": "benefitdandelion",
     "dilemma_copy": "",
-    "upc": "0602004073594"
+    "upc": "602004073594"
   },
   {
     "sku": "TT383",
@@ -11798,7 +11798,7 @@ export const CATALOG = [
     "avg_overall_rating": "",
     "hashtag": "",
     "dilemma_copy": "",
-    "upc": "0602004064660"
+    "upc": "602004064660"
   },
   {
     "sku": "SD33",
@@ -11838,7 +11838,7 @@ export const CATALOG = [
     "avg_overall_rating": "",
     "hashtag": "",
     "dilemma_copy": "",
-    "upc": "0602004066985"
+    "upc": "602004066985"
   },
   {
     "sku": "TT445",
@@ -11878,7 +11878,7 @@ export const CATALOG = [
     "avg_overall_rating": "",
     "hashtag": "",
     "dilemma_copy": "",
-    "upc": "0602004072856"
+    "upc": "602004072856"
   },
   {
     "sku": "SA220",
@@ -11918,7 +11918,7 @@ export const CATALOG = [
     "avg_overall_rating": "0.00000",
     "hashtag": "",
     "dilemma_copy": "",
-    "upc": "0602004066992"
+    "upc": "602004066992"
   },
   {
     "sku": "SA228",
@@ -11958,7 +11958,7 @@ export const CATALOG = [
     "avg_overall_rating": "0.00000",
     "hashtag": "",
     "dilemma_copy": "",
-    "upc": "0602004070821"
+    "upc": "602004070821"
   },
   {
     "sku": "SD35",
@@ -11998,7 +11998,7 @@ export const CATALOG = [
     "avg_overall_rating": "",
     "hashtag": "",
     "dilemma_copy": "",
-    "upc": "0602004067302"
+    "upc": "602004067302"
   },
   {
     "sku": "TT468",
@@ -12038,7 +12038,7 @@ export const CATALOG = [
     "avg_overall_rating": "",
     "hashtag": "",
     "dilemma_copy": "",
-    "upc": "0602004076106"
+    "upc": "602004076106"
   },
   {
     "sku": "FM36",
@@ -12078,7 +12078,7 @@ export const CATALOG = [
     "avg_overall_rating": "0.00000",
     "hashtag": "",
     "dilemma_copy": "",
-    "upc": "0602004073877"
+    "upc": "602004073877"
   },
   {
     "sku": "TT441",
@@ -12118,7 +12118,7 @@ export const CATALOG = [
     "avg_overall_rating": "",
     "hashtag": "",
     "dilemma_copy": "",
-    "upc": "0602004072795"
+    "upc": "602004072795"
   },
   {
     "sku": "TT450",
@@ -12158,7 +12158,7 @@ export const CATALOG = [
     "avg_overall_rating": "0.00000",
     "hashtag": "",
     "dilemma_copy": "",
-    "upc": "0602004073709"
+    "upc": "602004073709"
   },
   {
     "sku": "SD70",
@@ -12198,7 +12198,7 @@ export const CATALOG = [
     "avg_overall_rating": "",
     "hashtag": "",
     "dilemma_copy": "",
-    "upc": "0602004073853"
+    "upc": "602004073853"
   },
   {
     "sku": "TT414",
@@ -12238,7 +12238,7 @@ export const CATALOG = [
     "avg_overall_rating": "0.00000",
     "hashtag": "",
     "dilemma_copy": "",
-    "upc": "0602004069214"
+    "upc": "602004069214"
   },
   {
     "sku": "TT472",
@@ -12318,7 +12318,7 @@ export const CATALOG = [
     "avg_overall_rating": "",
     "hashtag": "",
     "dilemma_copy": "",
-    "upc": "0602004072863"
+    "upc": "602004072863"
   },
   {
     "sku": "BM19",
@@ -12358,7 +12358,7 @@ export const CATALOG = [
     "avg_overall_rating": "",
     "hashtag": "preciselymybrow",
     "dilemma_copy": "",
-    "upc": "0602004071309"
+    "upc": "602004071309"
   },
   {
     "sku": "BM20",
@@ -12398,7 +12398,7 @@ export const CATALOG = [
     "avg_overall_rating": "",
     "hashtag": "preciselymybrow",
     "dilemma_copy": "",
-    "upc": "0602004071316"
+    "upc": "602004071316"
   },
   {
     "sku": "BM21",
@@ -12438,7 +12438,7 @@ export const CATALOG = [
     "avg_overall_rating": "",
     "hashtag": "preciselymybrow",
     "dilemma_copy": "",
-    "upc": "0602004071323"
+    "upc": "602004071323"
   },
   {
     "sku": "BM22",
@@ -12478,7 +12478,7 @@ export const CATALOG = [
     "avg_overall_rating": "",
     "hashtag": "preciselymybrow",
     "dilemma_copy": "",
-    "upc": "0602004071330"
+    "upc": "602004071330"
   },
   {
     "sku": "BM23",
@@ -12518,7 +12518,7 @@ export const CATALOG = [
     "avg_overall_rating": "",
     "hashtag": "preciselymybrow",
     "dilemma_copy": "",
-    "upc": "0602004071347"
+    "upc": "602004071347"
   },
   {
     "sku": "BM24",
@@ -12558,7 +12558,7 @@ export const CATALOG = [
     "avg_overall_rating": "",
     "hashtag": "preciselymybrow",
     "dilemma_copy": "",
-    "upc": "0602004071354"
+    "upc": "602004071354"
   },
   {
     "sku": "BM33",
@@ -12598,7 +12598,7 @@ export const CATALOG = [
     "avg_overall_rating": "",
     "hashtag": "kabrow",
     "dilemma_copy": "",
-    "upc": "0602004071606"
+    "upc": "602004071606"
   },
   {
     "sku": "BM34",
@@ -12638,7 +12638,7 @@ export const CATALOG = [
     "avg_overall_rating": "",
     "hashtag": "kabrow",
     "dilemma_copy": "",
-    "upc": "0602004071613"
+    "upc": "602004071613"
   },
   {
     "sku": "BM35",
@@ -12678,7 +12678,7 @@ export const CATALOG = [
     "avg_overall_rating": "",
     "hashtag": "kabrow",
     "dilemma_copy": "",
-    "upc": "0602004071620"
+    "upc": "602004071620"
   },
   {
     "sku": "BM36",
@@ -12718,7 +12718,7 @@ export const CATALOG = [
     "avg_overall_rating": "",
     "hashtag": "kabrow",
     "dilemma_copy": "",
-    "upc": "0602004071637"
+    "upc": "602004071637"
   },
   {
     "sku": "BM37",
@@ -12758,7 +12758,7 @@ export const CATALOG = [
     "avg_overall_rating": "",
     "hashtag": "kabrow",
     "dilemma_copy": "",
-    "upc": "0602004071644"
+    "upc": "602004071644"
   },
   {
     "sku": "BM38",
@@ -12798,7 +12798,7 @@ export const CATALOG = [
     "avg_overall_rating": "",
     "hashtag": "kabrow",
     "dilemma_copy": "",
-    "upc": "0602004071651"
+    "upc": "602004071651"
   },
   {
     "sku": "BM47",
@@ -12838,7 +12838,7 @@ export const CATALOG = [
     "avg_overall_rating": "",
     "hashtag": "highbrow",
     "dilemma_copy": "",
-    "upc": "0602004073464"
+    "upc": "602004073464"
   },
   {
     "sku": "BM12",
@@ -12878,7 +12878,7 @@ export const CATALOG = [
     "avg_overall_rating": "",
     "hashtag": "",
     "dilemma_copy": "",
-    "upc": "0602004071231"
+    "upc": "602004071231"
   },
   {
     "sku": "BM13",
@@ -12918,7 +12918,7 @@ export const CATALOG = [
     "avg_overall_rating": "",
     "hashtag": "",
     "dilemma_copy": "",
-    "upc": "0602004071248"
+    "upc": "602004071248"
   },
   {
     "sku": "BM14",
@@ -12958,7 +12958,7 @@ export const CATALOG = [
     "avg_overall_rating": "",
     "hashtag": "",
     "dilemma_copy": "",
-    "upc": "0602004071255"
+    "upc": "602004071255"
   },
   {
     "sku": "BM15",
@@ -12998,7 +12998,7 @@ export const CATALOG = [
     "avg_overall_rating": "",
     "hashtag": "",
     "dilemma_copy": "",
-    "upc": "0602004071262"
+    "upc": "602004071262"
   },
   {
     "sku": "BM16",
@@ -13038,7 +13038,7 @@ export const CATALOG = [
     "avg_overall_rating": "",
     "hashtag": "",
     "dilemma_copy": "",
-    "upc": "0602004071279"
+    "upc": "602004071279"
   },
   {
     "sku": "BM17",
@@ -13078,7 +13078,7 @@ export const CATALOG = [
     "avg_overall_rating": "",
     "hashtag": "",
     "dilemma_copy": "",
-    "upc": "0602004071286"
+    "upc": "602004071286"
   },
   {
     "sku": "BM25",
@@ -13118,7 +13118,7 @@ export const CATALOG = [
     "avg_overall_rating": "0.00000",
     "hashtag": "",
     "dilemma_copy": "",
-    "upc": "0602004071361"
+    "upc": "602004071361"
   },
   {
     "sku": "BM26",
@@ -13158,7 +13158,7 @@ export const CATALOG = [
     "avg_overall_rating": "0.00000",
     "hashtag": "",
     "dilemma_copy": "",
-    "upc": "0602004071378"
+    "upc": "602004071378"
   },
   {
     "sku": "BM27",
@@ -13198,7 +13198,7 @@ export const CATALOG = [
     "avg_overall_rating": "0.00000",
     "hashtag": "",
     "dilemma_copy": "",
-    "upc": "0602004071385"
+    "upc": "602004071385"
   },
   {
     "sku": "BM28",
@@ -13238,7 +13238,7 @@ export const CATALOG = [
     "avg_overall_rating": "0.00000",
     "hashtag": "",
     "dilemma_copy": "",
-    "upc": "0602004071392"
+    "upc": "602004071392"
   },
   {
     "sku": "BM29",
@@ -13278,7 +13278,7 @@ export const CATALOG = [
     "avg_overall_rating": "0.00000",
     "hashtag": "",
     "dilemma_copy": "",
-    "upc": "0602004071408"
+    "upc": "602004071408"
   },
   {
     "sku": "BM30",
@@ -13318,7 +13318,7 @@ export const CATALOG = [
     "avg_overall_rating": "0.00000",
     "hashtag": "",
     "dilemma_copy": "",
-    "upc": "0602004071415"
+    "upc": "602004071415"
   },
   {
     "sku": "BM43",
@@ -13358,7 +13358,7 @@ export const CATALOG = [
     "avg_overall_rating": "",
     "hashtag": "browvo",
     "dilemma_copy": "",
-    "upc": "0602004071705"
+    "upc": "602004071705"
   },
   {
     "sku": "BM18",
@@ -13398,7 +13398,7 @@ export const CATALOG = [
     "avg_overall_rating": "",
     "hashtag": "3Dbrowtones",
     "dilemma_copy": "",
-    "upc": "0602004071293"
+    "upc": "602004071293"
   },
   {
     "sku": "BM31",
@@ -13438,7 +13438,7 @@ export const CATALOG = [
     "avg_overall_rating": "",
     "hashtag": "3Dbrowtones",
     "dilemma_copy": "",
-    "upc": "0602004071439"
+    "upc": "602004071439"
   },
   {
     "sku": "BM40",
@@ -13478,7 +13478,7 @@ export const CATALOG = [
     "avg_overall_rating": "",
     "hashtag": "highbrowglow",
     "dilemma_copy": "",
-    "upc": "0602004071675"
+    "upc": "602004071675"
   },
   {
     "sku": "BM42",
@@ -13518,7 +13518,7 @@ export const CATALOG = [
     "avg_overall_rating": "",
     "hashtag": "",
     "dilemma_copy": "",
-    "upc": "0602004071699"
+    "upc": "602004071699"
   },
   {
     "sku": "BM51",
@@ -13558,7 +13558,7 @@ export const CATALOG = [
     "avg_overall_rating": "",
     "hashtag": "",
     "dilemma_copy": "",
-    "upc": "0602004074195"
+    "upc": "602004074195"
   },
   {
     "sku": "BM50",
@@ -13598,7 +13598,7 @@ export const CATALOG = [
     "avg_overall_rating": "",
     "hashtag": "",
     "dilemma_copy": "",
-    "upc": "0602004074188"
+    "upc": "602004074188"
   },
   {
     "sku": "BM44",
@@ -13638,7 +13638,7 @@ export const CATALOG = [
     "avg_overall_rating": "",
     "hashtag": "",
     "dilemma_copy": "",
-    "upc": "0602004073020"
+    "upc": "602004073020"
   },
   {
     "sku": "BM45",
@@ -13678,7 +13678,7 @@ export const CATALOG = [
     "avg_overall_rating": "",
     "hashtag": "",
     "dilemma_copy": "",
-    "upc": "0602004073037"
+    "upc": "602004073037"
   },
   {
     "sku": "BM70",
@@ -13718,7 +13718,7 @@ export const CATALOG = [
     "avg_overall_rating": "",
     "hashtag": "",
     "dilemma_copy": "",
-    "upc": "0602004088567"
+    "upc": "602004088567"
   },
   {
     "sku": "BM71",
@@ -13758,7 +13758,7 @@ export const CATALOG = [
     "avg_overall_rating": "",
     "hashtag": "",
     "dilemma_copy": "",
-    "upc": "0602004088574"
+    "upc": "602004088574"
   },
   {
     "sku": "BM72",
@@ -13798,7 +13798,7 @@ export const CATALOG = [
     "avg_overall_rating": "",
     "hashtag": "",
     "dilemma_copy": "",
-    "upc": "0602004088581"
+    "upc": "602004088581"
   },
   {
     "sku": "AM02",
@@ -13838,7 +13838,7 @@ export const CATALOG = [
     "avg_overall_rating": "",
     "hashtag": "",
     "dilemma_copy": "",
-    "upc": "0602004074041"
+    "upc": "602004074041"
   },
   {
     "sku": "AM01",
@@ -13878,7 +13878,7 @@ export const CATALOG = [
     "avg_overall_rating": "",
     "hashtag": "",
     "dilemma_copy": "",
-    "upc": "0602004073174"
+    "upc": "602004073174"
   },
   {
     "sku": "AM03",
@@ -13918,7 +13918,7 @@ export const CATALOG = [
     "avg_overall_rating": "",
     "hashtag": "",
     "dilemma_copy": "",
-    "upc": "0602004074058"
+    "upc": "602004074058"
   },
   {
     "sku": "BM66",
@@ -13958,7 +13958,7 @@ export const CATALOG = [
     "avg_overall_rating": "",
     "hashtag": "readysetbrow",
     "dilemma_copy": "",
-    "upc": "0602004088529"
+    "upc": "602004088529"
   },
   {
     "sku": "EM02",
@@ -13998,7 +13998,7 @@ export const CATALOG = [
     "avg_overall_rating": "",
     "hashtag": "",
     "dilemma_copy": "",
-    "upc": "0602004057969"
+    "upc": "602004057969"
   },
   {
     "sku": "GWP107",
@@ -14038,7 +14038,7 @@ export const CATALOG = [
     "avg_overall_rating": "",
     "hashtag": "",
     "dilemma_copy": "",
-    "upc": "0602004052728"
+    "upc": "602004052728"
   },
   {
     "sku": "SD41",
@@ -14078,7 +14078,7 @@ export const CATALOG = [
     "avg_overall_rating": "",
     "hashtag": "",
     "dilemma_copy": "",
-    "upc": "0602004070814"
+    "upc": "602004070814"
   },
   {
     "sku": "TR11",
@@ -14118,7 +14118,7 @@ export const CATALOG = [
     "avg_overall_rating": "",
     "hashtag": "",
     "dilemma_copy": "",
-    "upc": "0602004058645"
+    "upc": "602004058645"
   },
   {
     "sku": "TR04",
@@ -14158,7 +14158,7 @@ export const CATALOG = [
     "avg_overall_rating": "",
     "hashtag": "",
     "dilemma_copy": "",
-    "upc": "0602004057211"
+    "upc": "602004057211"
   },
   {
     "sku": "SD63",
@@ -14198,7 +14198,7 @@ export const CATALOG = [
     "avg_overall_rating": "",
     "hashtag": "",
     "dilemma_copy": "",
-    "upc": "0602004073433"
+    "upc": "602004073433"
   },
   {
     "sku": "SD64",
@@ -14238,7 +14238,7 @@ export const CATALOG = [
     "avg_overall_rating": "",
     "hashtag": "",
     "dilemma_copy": "",
-    "upc": "0602004073440"
+    "upc": "602004073440"
   },
   {
     "sku": "SU1517",
@@ -14318,7 +14318,7 @@ export const CATALOG = [
     "avg_overall_rating": "",
     "hashtag": "",
     "dilemma_copy": "",
-    "upc": "0602004053787"
+    "upc": "602004053787"
   },
   {
     "sku": "SD58",
@@ -14358,7 +14358,7 @@ export const CATALOG = [
     "avg_overall_rating": "",
     "hashtag": "",
     "dilemma_copy": "",
-    "upc": "0602004073167"
+    "upc": "602004073167"
   },
   {
     "sku": "BC27",
@@ -14398,7 +14398,7 @@ export const CATALOG = [
     "avg_overall_rating": "",
     "hashtag": "",
     "dilemma_copy": "",
-    "upc": "0602004073310"
+    "upc": "602004073310"
   },
   {
     "sku": "TT471",
@@ -14438,7 +14438,7 @@ export const CATALOG = [
     "avg_overall_rating": "",
     "hashtag": "",
     "dilemma_copy": "",
-    "upc": "0602004076748"
+    "upc": "602004076748"
   },
   {
     "sku": "TT442US",
@@ -14478,7 +14478,7 @@ export const CATALOG = [
     "avg_overall_rating": "",
     "hashtag": "",
     "dilemma_copy": "",
-    "upc": "0602004077615"
+    "upc": "602004077615"
   },
   {
     "sku": "SD62",
@@ -14518,7 +14518,7 @@ export const CATALOG = [
     "avg_overall_rating": "",
     "hashtag": "",
     "dilemma_copy": "",
-    "upc": "0602004733382"
+    "upc": "602004733382"
   },
   {
     "sku": "SD54",
@@ -14558,7 +14558,7 @@ export const CATALOG = [
     "avg_overall_rating": "",
     "hashtag": "",
     "dilemma_copy": "",
-    "upc": "0602004073099"
+    "upc": "602004073099"
   },
   {
     "sku": "SD55",
@@ -14598,7 +14598,7 @@ export const CATALOG = [
     "avg_overall_rating": "",
     "hashtag": "",
     "dilemma_copy": "",
-    "upc": "0602004073105"
+    "upc": "602004073105"
   },
   {
     "sku": "SD56",
@@ -14638,7 +14638,7 @@ export const CATALOG = [
     "avg_overall_rating": "",
     "hashtag": "",
     "dilemma_copy": "",
-    "upc": "0602004073112"
+    "upc": "602004073112"
   },
   {
     "sku": "SD57",
@@ -14678,7 +14678,7 @@ export const CATALOG = [
     "avg_overall_rating": "",
     "hashtag": "",
     "dilemma_copy": "",
-    "upc": "0602004073150"
+    "upc": "602004073150"
   },
   {
     "sku": "SD27",
@@ -14718,7 +14718,7 @@ export const CATALOG = [
     "avg_overall_rating": "",
     "hashtag": "",
     "dilemma_copy": "",
-    "upc": "0602004060983"
+    "upc": "602004060983"
   },
   {
     "sku": "US08",
@@ -14758,7 +14758,7 @@ export const CATALOG = [
     "avg_overall_rating": "",
     "hashtag": "",
     "dilemma_copy": "",
-    "upc": "0602004085702"
+    "upc": "602004085702"
   },
   {
     "sku": "US09",
@@ -14798,7 +14798,7 @@ export const CATALOG = [
     "avg_overall_rating": "",
     "hashtag": "",
     "dilemma_copy": "",
-    "upc": "0602004085719"
+    "upc": "602004085719"
   },
   {
     "sku": "US10",
@@ -14838,7 +14838,7 @@ export const CATALOG = [
     "avg_overall_rating": "",
     "hashtag": "",
     "dilemma_copy": "",
-    "upc": "0602004085726"
+    "upc": "602004085726"
   },
   {
     "sku": "US11",
@@ -14878,7 +14878,7 @@ export const CATALOG = [
     "avg_overall_rating": "",
     "hashtag": "",
     "dilemma_copy": "",
-    "upc": "0602004085733"
+    "upc": "602004085733"
   },
   {
     "sku": "US14",
@@ -14918,7 +14918,7 @@ export const CATALOG = [
     "avg_overall_rating": "",
     "hashtag": "",
     "dilemma_copy": "",
-    "upc": "0602004085764"
+    "upc": "602004085764"
   },
   {
     "sku": "US15",
@@ -14958,7 +14958,7 @@ export const CATALOG = [
     "avg_overall_rating": "",
     "hashtag": "",
     "dilemma_copy": "",
-    "upc": "0602004085832"
+    "upc": "602004085832"
   },
   {
     "sku": "LM636",
@@ -14998,7 +14998,7 @@ export const CATALOG = [
     "avg_overall_rating": "",
     "hashtag": "",
     "dilemma_copy": "",
-    "upc": "0602004073303"
+    "upc": "602004073303"
   },
   {
     "sku": "EM40",
@@ -15038,7 +15038,7 @@ export const CATALOG = [
     "avg_overall_rating": "",
     "hashtag": "",
     "dilemma_copy": "",
-    "upc": "0602004073884"
+    "upc": "602004073884"
   },
   {
     "sku": "TOA09",
@@ -15078,7 +15078,7 @@ export const CATALOG = [
     "avg_overall_rating": "",
     "hashtag": "",
     "dilemma_copy": "",
-    "upc": "0602004054203"
+    "upc": "602004054203"
   },
   {
     "sku": "TOA32",
@@ -15118,7 +15118,7 @@ export const CATALOG = [
     "avg_overall_rating": "",
     "hashtag": "",
     "dilemma_copy": "",
-    "upc": "0602004059376"
+    "upc": "602004059376"
   },
   {
     "sku": "TT309",
@@ -15158,7 +15158,7 @@ export const CATALOG = [
     "avg_overall_rating": "",
     "hashtag": "",
     "dilemma_copy": "",
-    "upc": "0602004054777"
+    "upc": "602004054777"
   },
   {
     "sku": "TT313",
@@ -15198,7 +15198,7 @@ export const CATALOG = [
     "avg_overall_rating": "",
     "hashtag": "",
     "dilemma_copy": "",
-    "upc": "0602004054838"
+    "upc": "602004054838"
   },
   {
     "sku": "TT342",
@@ -15238,7 +15238,7 @@ export const CATALOG = [
     "avg_overall_rating": "",
     "hashtag": "",
     "dilemma_copy": "",
-    "upc": "0602004057501"
+    "upc": "602004057501"
   },
   {
     "sku": "TT352",
@@ -15278,7 +15278,7 @@ export const CATALOG = [
     "avg_overall_rating": "",
     "hashtag": "",
     "dilemma_copy": "",
-    "upc": "0602004061010"
+    "upc": "602004061010"
   },
   {
     "sku": "TT372",
@@ -15318,7 +15318,7 @@ export const CATALOG = [
     "avg_overall_rating": "",
     "hashtag": "",
     "dilemma_copy": "",
-    "upc": "0602004063540"
+    "upc": "602004063540"
   },
   {
     "sku": "TT385",
@@ -15358,7 +15358,7 @@ export const CATALOG = [
     "avg_overall_rating": "",
     "hashtag": "",
     "dilemma_copy": "&nbsp;   &nbsp;   &nbsp;   &nbsp;   &nbsp;   &nbsp;   &nbsp;   &nbsp;   &nbsp;   &nbsp;   &nbsp;   &nbsp;   &nbsp;   &nbsp;   &nbsp;   &nbsp;   &nbsp;   &nbsp;   &nbsp;   &nbsp;   &nbsp;   &nbsp;   &nbsp;   &nbsp;   &nbsp;   &nbsp;   &nbsp;   &nbsp;   &nb",
-    "upc": "0602004064714"
+    "upc": "602004064714"
   },
   {
     "sku": "TT387US",
@@ -15398,7 +15398,7 @@ export const CATALOG = [
     "avg_overall_rating": "",
     "hashtag": "",
     "dilemma_copy": "",
-    "upc": "0602004054159"
+    "upc": "602004054159"
   },
   {
     "sku": "TT426",
@@ -15438,7 +15438,7 @@ export const CATALOG = [
     "avg_overall_rating": "0.00000",
     "hashtag": "",
     "dilemma_copy": "",
-    "upc": "0602004069412"
+    "upc": "602004069412"
   },
   {
     "sku": "TT438",
@@ -15478,7 +15478,7 @@ export const CATALOG = [
     "avg_overall_rating": "",
     "hashtag": "",
     "dilemma_copy": "",
-    "upc": "0602004072436"
+    "upc": "602004072436"
   },
   {
     "sku": "SA197",
@@ -15518,7 +15518,7 @@ export const CATALOG = [
     "avg_overall_rating": "",
     "hashtag": "",
     "dilemma_copy": "",
-    "upc": "0602004053398"
+    "upc": "602004053398"
   },
   {
     "sku": "SD79",
@@ -15558,7 +15558,7 @@ export const CATALOG = [
     "avg_overall_rating": "",
     "hashtag": "",
     "dilemma_copy": "",
-    "upc": "0602004076182"
+    "upc": "602004076182"
   },
   {
     "sku": "SK14",
@@ -15598,7 +15598,7 @@ export const CATALOG = [
     "avg_overall_rating": "",
     "hashtag": "",
     "dilemma_copy": "",
-    "upc": "0602004073327"
+    "upc": "602004073327"
   },
   {
     "sku": "SK15",
@@ -15638,7 +15638,7 @@ export const CATALOG = [
     "avg_overall_rating": "",
     "hashtag": "",
     "dilemma_copy": "",
-    "upc": "0602004073471"
+    "upc": "602004073471"
   },
   {
     "sku": "FM45",
@@ -15678,7 +15678,7 @@ export const CATALOG = [
     "avg_overall_rating": "",
     "hashtag": "",
     "dilemma_copy": "",
-    "upc": "0602004075383"
+    "upc": "602004075383"
   },
   {
     "sku": "TOA86",
@@ -15718,7 +15718,7 @@ export const CATALOG = [
     "avg_overall_rating": "",
     "hashtag": "",
     "dilemma_copy": "",
-    "upc": "0602004072528"
+    "upc": "602004072528"
   },
   {
     "sku": "SD69",
@@ -15758,7 +15758,7 @@ export const CATALOG = [
     "avg_overall_rating": "",
     "hashtag": "",
     "dilemma_copy": "",
-    "upc": "0602004073631"
+    "upc": "602004073631"
   },
   {
     "sku": "TT447",
@@ -15798,7 +15798,7 @@ export const CATALOG = [
     "avg_overall_rating": "",
     "hashtag": "",
     "dilemma_copy": "",
-    "upc": "0602004072870"
+    "upc": "602004072870"
   },
   {
     "sku": "EM26",
@@ -15838,7 +15838,7 @@ export const CATALOG = [
     "avg_overall_rating": "",
     "hashtag": "reallashprimer",
     "dilemma_copy": "",
-    "upc": "0602004069870"
+    "upc": "602004069870"
   },
   {
     "sku": "IB115CN",
@@ -15878,7 +15878,7 @@ export const CATALOG = [
     "avg_overall_rating": "4.67000",
     "hashtag": "somekindagorgeous",
     "dilemma_copy": "",
-    "upc": "0602004057464"
+    "upc": "602004057464"
   },
   {
     "sku": "TT456US",
@@ -15918,7 +15918,7 @@ export const CATALOG = [
     "avg_overall_rating": "",
     "hashtag": "",
     "dilemma_copy": "",
-    "upc": "0602004080530"
+    "upc": "602004080530"
   },
   {
     "sku": "TT458",
@@ -15998,7 +15998,7 @@ export const CATALOG = [
     "avg_overall_rating": "",
     "hashtag": "",
     "dilemma_copy": "",
-    "upc": "0602004080509"
+    "upc": "602004080509"
   },
   {
     "sku": "TT459US",
@@ -16038,7 +16038,7 @@ export const CATALOG = [
     "avg_overall_rating": "",
     "hashtag": "",
     "dilemma_copy": "",
-    "upc": "0602004080578"
+    "upc": "602004080578"
   },
   {
     "sku": "TT461US",
@@ -16078,7 +16078,7 @@ export const CATALOG = [
     "avg_overall_rating": "",
     "hashtag": "",
     "dilemma_copy": "",
-    "upc": "0602004080622"
+    "upc": "602004080622"
   },
   {
     "sku": "TT464US",
@@ -16118,7 +16118,7 @@ export const CATALOG = [
     "avg_overall_rating": "",
     "hashtag": "",
     "dilemma_copy": "",
-    "upc": "0602004080684"
+    "upc": "602004080684"
   },
   {
     "sku": "US16",
@@ -16158,7 +16158,7 @@ export const CATALOG = [
     "avg_overall_rating": "",
     "hashtag": "",
     "dilemma_copy": "",
-    "upc": "0602004087188"
+    "upc": "602004087188"
   },
   {
     "sku": "US17",
@@ -16198,7 +16198,7 @@ export const CATALOG = [
     "avg_overall_rating": "",
     "hashtag": "",
     "dilemma_copy": "",
-    "upc": "0602004087195"
+    "upc": "602004087195"
   },
   {
     "sku": "US18",
@@ -16238,7 +16238,7 @@ export const CATALOG = [
     "avg_overall_rating": "",
     "hashtag": "",
     "dilemma_copy": "",
-    "upc": "0602004087201"
+    "upc": "602004087201"
   },
   {
     "sku": "EM42",
@@ -16278,7 +16278,7 @@ export const CATALOG = [
     "avg_overall_rating": "4.42000",
     "hashtag": "rollerlash",
     "dilemma_copy": "Meet your new curlfriend. Our super-curling and lifting mascara replaces the need for that ancient lash curler (a total time-suck). Yes,  you can get back that extra two minutes!",
-    "upc": "0602004079664"
+    "upc": "602004079664"
   },
   {
     "sku": "TT477",
@@ -16318,7 +16318,7 @@ export const CATALOG = [
     "avg_overall_rating": "",
     "hashtag": "",
     "dilemma_copy": "",
-    "upc": "0602004081025"
+    "upc": "602004081025"
   },
   {
     "sku": "TT421",
@@ -16358,7 +16358,7 @@ export const CATALOG = [
     "avg_overall_rating": "",
     "hashtag": "",
     "dilemma_copy": "",
-    "upc": "0602004069368"
+    "upc": "602004069368"
   },
   {
     "sku": "GWP68",
@@ -16398,7 +16398,7 @@ export const CATALOG = [
     "avg_overall_rating": "",
     "hashtag": "",
     "dilemma_copy": "",
-    "upc": "0602004044518"
+    "upc": "602004044518"
   },
   {
     "sku": "TT431",
@@ -16438,7 +16438,7 @@ export const CATALOG = [
     "avg_overall_rating": "0.00000",
     "hashtag": "",
     "dilemma_copy": "",
-    "upc": "0602004069573"
+    "upc": "602004069573"
   },
   {
     "sku": "TT463",
@@ -16478,7 +16478,7 @@ export const CATALOG = [
     "avg_overall_rating": "",
     "hashtag": "",
     "dilemma_copy": "",
-    "upc": "0602004076014"
+    "upc": "602004076014"
   },
   {
     "sku": "FM39",
@@ -16518,7 +16518,7 @@ export const CATALOG = [
     "avg_overall_rating": "",
     "hashtag": "",
     "dilemma_copy": "",
-    "upc": "0602004075147"
+    "upc": "602004075147"
   },
   {
     "sku": "FM40",
@@ -16558,7 +16558,7 @@ export const CATALOG = [
     "avg_overall_rating": "",
     "hashtag": "",
     "dilemma_copy": "",
-    "upc": "0602004075154"
+    "upc": "602004075154"
   },
   {
     "sku": "FM41",
@@ -16598,7 +16598,7 @@ export const CATALOG = [
     "avg_overall_rating": "",
     "hashtag": "",
     "dilemma_copy": "",
-    "upc": "0602004075161"
+    "upc": "602004075161"
   },
   {
     "sku": "FM42",
@@ -16638,7 +16638,7 @@ export const CATALOG = [
     "avg_overall_rating": "",
     "hashtag": "",
     "dilemma_copy": "",
-    "upc": "0602004075178"
+    "upc": "602004075178"
   },
   {
     "sku": "FM43",
@@ -16678,7 +16678,7 @@ export const CATALOG = [
     "avg_overall_rating": "",
     "hashtag": "",
     "dilemma_copy": "",
-    "upc": "0602004075185"
+    "upc": "602004075185"
   },
   {
     "sku": "FM44",
@@ -16718,7 +16718,7 @@ export const CATALOG = [
     "avg_overall_rating": "",
     "hashtag": "",
     "dilemma_copy": "",
-    "upc": "0602004075192"
+    "upc": "602004075192"
   },
   {
     "sku": "TT294US",
@@ -16758,7 +16758,7 @@ export const CATALOG = [
     "avg_overall_rating": "",
     "hashtag": "",
     "dilemma_copy": "",
-    "upc": "0602004054517"
+    "upc": "602004054517"
   },
   {
     "sku": "LM621",
@@ -16798,7 +16798,7 @@ export const CATALOG = [
     "avg_overall_rating": "",
     "hashtag": "",
     "dilemma_copy": "",
-    "upc": "0602004068545"
+    "upc": "602004068545"
   },
   {
     "sku": "LM622",
@@ -16838,7 +16838,7 @@ export const CATALOG = [
     "avg_overall_rating": "",
     "hashtag": "",
     "dilemma_copy": "",
-    "upc": "0602004068552"
+    "upc": "602004068552"
   },
   {
     "sku": "LM623",
@@ -16878,7 +16878,7 @@ export const CATALOG = [
     "avg_overall_rating": "",
     "hashtag": "",
     "dilemma_copy": "",
-    "upc": "0602004068569"
+    "upc": "602004068569"
   },
   {
     "sku": "LM624",
@@ -16918,7 +16918,7 @@ export const CATALOG = [
     "avg_overall_rating": "",
     "hashtag": "",
     "dilemma_copy": "",
-    "upc": "0602004068576"
+    "upc": "602004068576"
   },
   {
     "sku": "LM625",
@@ -16958,7 +16958,7 @@ export const CATALOG = [
     "avg_overall_rating": "",
     "hashtag": "",
     "dilemma_copy": "",
-    "upc": "0602004068583"
+    "upc": "602004068583"
   },
   {
     "sku": "LM626",
@@ -16998,7 +16998,7 @@ export const CATALOG = [
     "avg_overall_rating": "",
     "hashtag": "",
     "dilemma_copy": "",
-    "upc": "0602004068590"
+    "upc": "602004068590"
   },
   {
     "sku": "LM627",
@@ -17038,7 +17038,7 @@ export const CATALOG = [
     "avg_overall_rating": "",
     "hashtag": "",
     "dilemma_copy": "",
-    "upc": "0602004068606"
+    "upc": "602004068606"
   },
   {
     "sku": "LM628",
@@ -17078,7 +17078,7 @@ export const CATALOG = [
     "avg_overall_rating": "",
     "hashtag": "",
     "dilemma_copy": "",
-    "upc": "0602004068613"
+    "upc": "602004068613"
   },
   {
     "sku": "EM30",
@@ -17118,7 +17118,7 @@ export const CATALOG = [
     "avg_overall_rating": "",
     "hashtag": "",
     "dilemma_copy": "",
-    "upc": "0602004071163"
+    "upc": "602004071163"
   },
   {
     "sku": "EM31",
@@ -17158,7 +17158,7 @@ export const CATALOG = [
     "avg_overall_rating": "",
     "hashtag": "",
     "dilemma_copy": "",
-    "upc": "0602004071170"
+    "upc": "602004071170"
   },
   {
     "sku": "EM32",
@@ -17198,7 +17198,7 @@ export const CATALOG = [
     "avg_overall_rating": "",
     "hashtag": "",
     "dilemma_copy": "",
-    "upc": "0602004071187"
+    "upc": "602004071187"
   },
   {
     "sku": "EM33",
@@ -17238,7 +17238,7 @@ export const CATALOG = [
     "avg_overall_rating": "",
     "hashtag": "",
     "dilemma_copy": "",
-    "upc": "0602004071194"
+    "upc": "602004071194"
   },
   {
     "sku": "EM34",
@@ -17278,7 +17278,7 @@ export const CATALOG = [
     "avg_overall_rating": "",
     "hashtag": "",
     "dilemma_copy": "",
-    "upc": "0602004071200"
+    "upc": "602004071200"
   },
   {
     "sku": "EM35",
@@ -17318,7 +17318,7 @@ export const CATALOG = [
     "avg_overall_rating": "",
     "hashtag": "",
     "dilemma_copy": "",
-    "upc": "0602004071217"
+    "upc": "602004071217"
   },
   {
     "sku": "EM36",
@@ -17358,7 +17358,7 @@ export const CATALOG = [
     "avg_overall_rating": "",
     "hashtag": "",
     "dilemma_copy": "",
-    "upc": "0602004071224"
+    "upc": "602004071224"
   },
   {
     "sku": "BM58",
@@ -17398,7 +17398,7 @@ export const CATALOG = [
     "avg_overall_rating": "",
     "hashtag": "",
     "dilemma_copy": "",
-    "upc": "0602004077981"
+    "upc": "602004077981"
   },
   {
     "sku": "FM51",
@@ -17438,7 +17438,7 @@ export const CATALOG = [
     "avg_overall_rating": "",
     "hashtag": "",
     "dilemma_copy": "",
-    "upc": "0602004077950"
+    "upc": "602004077950"
   },
   {
     "sku": "FM47",
@@ -17478,7 +17478,7 @@ export const CATALOG = [
     "avg_overall_rating": "",
     "hashtag": "",
     "dilemma_copy": "",
-    "upc": "0602004075635"
+    "upc": "602004075635"
   },
   {
     "sku": "FM46",
@@ -17518,7 +17518,7 @@ export const CATALOG = [
     "avg_overall_rating": "",
     "hashtag": "",
     "dilemma_copy": "",
-    "upc": "0602004075628"
+    "upc": "602004075628"
   },
   {
     "sku": "TT420",
@@ -17558,7 +17558,7 @@ export const CATALOG = [
     "avg_overall_rating": "0.00000",
     "hashtag": "",
     "dilemma_copy": "",
-    "upc": "0602004069351"
+    "upc": "602004069351"
   },
   {
     "sku": "EM29",
@@ -17598,7 +17598,7 @@ export const CATALOG = [
     "avg_overall_rating": "",
     "hashtag": "",
     "dilemma_copy": "",
-    "upc": "0602004071156"
+    "upc": "602004071156"
   },
   {
     "sku": "TOA73",
@@ -17638,7 +17638,7 @@ export const CATALOG = [
     "avg_overall_rating": "",
     "hashtag": "",
     "dilemma_copy": "",
-    "upc": "0602004061768"
+    "upc": "602004061768"
   },
   {
     "sku": "AM06",
@@ -17678,7 +17678,7 @@ export const CATALOG = [
     "avg_overall_rating": "",
     "hashtag": "",
     "dilemma_copy": "",
-    "upc": "0602004076755"
+    "upc": "602004076755"
   },
   {
     "sku": "SD71",
@@ -17718,7 +17718,7 @@ export const CATALOG = [
     "avg_overall_rating": "",
     "hashtag": "",
     "dilemma_copy": "",
-    "upc": "0602004075253"
+    "upc": "602004075253"
   },
   {
     "sku": "FM21",
@@ -17758,7 +17758,7 @@ export const CATALOG = [
     "avg_overall_rating": "",
     "hashtag": "",
     "dilemma_copy": "",
-    "upc": "0602004066718"
+    "upc": "602004066718"
   },
   {
     "sku": "SA221",
@@ -17798,7 +17798,7 @@ export const CATALOG = [
     "avg_overall_rating": "",
     "hashtag": "",
     "dilemma_copy": "",
-    "upc": "0602004067296"
+    "upc": "602004067296"
   },
   {
     "sku": "SK22",
@@ -17838,7 +17838,7 @@ export const CATALOG = [
     "avg_overall_rating": "",
     "hashtag": "",
     "dilemma_copy": "",
-    "upc": "0602004083487"
+    "upc": "602004083487"
   },
   {
     "sku": "FM04",
@@ -17878,7 +17878,7 @@ export const CATALOG = [
     "avg_overall_rating": "",
     "hashtag": "#porefessional",
     "dilemma_copy": "",
-    "upc": "0602004057280"
+    "upc": "602004057280"
   },
   {
     "sku": "LM644",
@@ -17918,7 +17918,7 @@ export const CATALOG = [
     "avg_overall_rating": "",
     "hashtag": "",
     "dilemma_copy": "",
-    "upc": "0602004084361"
+    "upc": "602004084361"
   },
   {
     "sku": "LM645",
@@ -17958,7 +17958,7 @@ export const CATALOG = [
     "avg_overall_rating": "",
     "hashtag": "",
     "dilemma_copy": "",
-    "upc": "0602004084422"
+    "upc": "602004084422"
   },
   {
     "sku": "SD65",
@@ -17998,7 +17998,7 @@ export const CATALOG = [
     "avg_overall_rating": "",
     "hashtag": "",
     "dilemma_copy": "",
-    "upc": "0602004073495"
+    "upc": "602004073495"
   },
   {
     "sku": "SD66",
@@ -18038,7 +18038,7 @@ export const CATALOG = [
     "avg_overall_rating": "",
     "hashtag": "",
     "dilemma_copy": "",
-    "upc": "0602004073501"
+    "upc": "602004073501"
   },
   {
     "sku": "SD67",
@@ -18078,7 +18078,7 @@ export const CATALOG = [
     "avg_overall_rating": "",
     "hashtag": "",
     "dilemma_copy": "",
-    "upc": "0602004073518"
+    "upc": "602004073518"
   },
   {
     "sku": "US45",
@@ -18118,7 +18118,7 @@ export const CATALOG = [
     "avg_overall_rating": "",
     "hashtag": "",
     "dilemma_copy": "",
-    "upc": "0602004092892"
+    "upc": "602004092892"
   },
   {
     "sku": "SD110",
@@ -18158,7 +18158,7 @@ export const CATALOG = [
     "avg_overall_rating": "",
     "hashtag": "",
     "dilemma_copy": "",
-    "upc": "0602004084262"
+    "upc": "602004084262"
   },
   {
     "sku": "TT486",
@@ -18198,7 +18198,7 @@ export const CATALOG = [
     "avg_overall_rating": "",
     "hashtag": "",
     "dilemma_copy": "",
-    "upc": "0602004084378"
+    "upc": "602004084378"
   },
   {
     "sku": "SD78",
@@ -18238,7 +18238,7 @@ export const CATALOG = [
     "avg_overall_rating": "",
     "hashtag": "",
     "dilemma_copy": "",
-    "upc": "0602004075642"
+    "upc": "602004075642"
   },
   {
     "sku": "SA235",
@@ -18278,7 +18278,7 @@ export const CATALOG = [
     "avg_overall_rating": "",
     "hashtag": "",
     "dilemma_copy": "",
-    "upc": "0602004073426"
+    "upc": "602004073426"
   },
   {
     "sku": "SD92",
@@ -18318,7 +18318,7 @@ export const CATALOG = [
     "avg_overall_rating": "",
     "hashtag": "",
     "dilemma_copy": "",
-    "upc": "0602004080356"
+    "upc": "602004080356"
   },
   {
     "sku": "FM70",
@@ -18358,7 +18358,7 @@ export const CATALOG = [
     "avg_overall_rating": "",
     "hashtag": "",
     "dilemma_copy": "",
-    "upc": "0602004080998"
+    "upc": "602004080998"
   },
   {
     "sku": "FM69",
@@ -18398,7 +18398,7 @@ export const CATALOG = [
     "avg_overall_rating": "",
     "hashtag": "",
     "dilemma_copy": "",
-    "upc": "0602004080981"
+    "upc": "602004080981"
   },
   {
     "sku": "FM68",
@@ -18478,7 +18478,7 @@ export const CATALOG = [
     "avg_overall_rating": "",
     "hashtag": "",
     "dilemma_copy": "",
-    "upc": "0602004088468"
+    "upc": "602004088468"
   },
   {
     "sku": "TOA108",
@@ -18518,7 +18518,7 @@ export const CATALOG = [
     "avg_overall_rating": "",
     "hashtag": "",
     "dilemma_copy": "",
-    "upc": "0602004076489"
+    "upc": "602004076489"
   },
   {
     "sku": "SA243",
@@ -18558,7 +18558,7 @@ export const CATALOG = [
     "avg_overall_rating": "",
     "hashtag": "",
     "dilemma_copy": "",
-    "upc": "0602004073907"
+    "upc": "602004073907"
   },
   {
     "sku": "SD107",
@@ -18598,7 +18598,7 @@ export const CATALOG = [
     "avg_overall_rating": "",
     "hashtag": "",
     "dilemma_copy": "",
-    "upc": "0602004083463"
+    "upc": "602004083463"
   },
   {
     "sku": "TR22",
@@ -18638,7 +18638,7 @@ export const CATALOG = [
     "avg_overall_rating": "",
     "hashtag": "",
     "dilemma_copy": "",
-    "upc": "0602004077127"
+    "upc": "602004077127"
   },
   {
     "sku": "TR25",
@@ -18678,7 +18678,7 @@ export const CATALOG = [
     "avg_overall_rating": "",
     "hashtag": "",
     "dilemma_copy": "",
-    "upc": "0602004079275"
+    "upc": "602004079275"
   },
   {
     "sku": "IB293",
@@ -18718,7 +18718,7 @@ export const CATALOG = [
     "avg_overall_rating": "",
     "hashtag": "highbeam",
     "dilemma_copy": "",
-    "upc": "0602004049094"
+    "upc": "602004049094"
   },
   {
     "sku": "FM80",
@@ -18758,7 +18758,7 @@ export const CATALOG = [
     "avg_overall_rating": "",
     "hashtag": "chachatint",
     "dilemma_copy": "",
-    "upc": "0602004085498"
+    "upc": "602004085498"
   },
   {
     "sku": "IB290",
@@ -18798,7 +18798,7 @@ export const CATALOG = [
     "avg_overall_rating": "",
     "hashtag": "",
     "dilemma_copy": "A sexy flush in seconds! Our famous rose-tinted stain works on cheeks AND lips for instant color when time ticks loudly.  ",
-    "upc": "0602004049032"
+    "upc": "602004049032"
   },
   {
     "sku": "FM52",
@@ -18838,7 +18838,7 @@ export const CATALOG = [
     "avg_overall_rating": "",
     "hashtag": "",
     "dilemma_copy": "",
-    "upc": "0602004079794"
+    "upc": "602004079794"
   },
   {
     "sku": "FM62",
@@ -18878,7 +18878,7 @@ export const CATALOG = [
     "avg_overall_rating": "",
     "hashtag": "",
     "dilemma_copy": "",
-    "upc": "0602004079978"
+    "upc": "602004079978"
   },
   {
     "sku": "FM63",
@@ -18918,7 +18918,7 @@ export const CATALOG = [
     "avg_overall_rating": "",
     "hashtag": "",
     "dilemma_copy": "",
-    "upc": "0602004079985"
+    "upc": "602004079985"
   },
   {
     "sku": "FM64",
@@ -18958,7 +18958,7 @@ export const CATALOG = [
     "avg_overall_rating": "",
     "hashtag": "",
     "dilemma_copy": "",
-    "upc": "0602004079992"
+    "upc": "602004079992"
   },
   {
     "sku": "FM65",
@@ -18998,7 +18998,7 @@ export const CATALOG = [
     "avg_overall_rating": "",
     "hashtag": "",
     "dilemma_copy": "",
-    "upc": "0602004080004"
+    "upc": "602004080004"
   },
   {
     "sku": "FM66",
@@ -19038,7 +19038,7 @@ export const CATALOG = [
     "avg_overall_rating": "",
     "hashtag": "",
     "dilemma_copy": "",
-    "upc": "0602004080264"
+    "upc": "602004080264"
   },
   {
     "sku": "FM67",
@@ -19078,7 +19078,7 @@ export const CATALOG = [
     "avg_overall_rating": "",
     "hashtag": "",
     "dilemma_copy": "",
-    "upc": "0602004080271"
+    "upc": "602004080271"
   },
   {
     "sku": "FM56",
@@ -19118,7 +19118,7 @@ export const CATALOG = [
     "avg_overall_rating": "",
     "hashtag": "",
     "dilemma_copy": "",
-    "upc": "0602004079886"
+    "upc": "602004079886"
   },
   {
     "sku": "FM57",
@@ -19158,7 +19158,7 @@ export const CATALOG = [
     "avg_overall_rating": "",
     "hashtag": "",
     "dilemma_copy": "",
-    "upc": "0602004079893"
+    "upc": "602004079893"
   },
   {
     "sku": "FM58",
@@ -19198,7 +19198,7 @@ export const CATALOG = [
     "avg_overall_rating": "",
     "hashtag": "",
     "dilemma_copy": "",
-    "upc": "0602004079909"
+    "upc": "602004079909"
   },
   {
     "sku": "FM59",
@@ -19238,7 +19238,7 @@ export const CATALOG = [
     "avg_overall_rating": "",
     "hashtag": "",
     "dilemma_copy": "",
-    "upc": "0602004079916"
+    "upc": "602004079916"
   },
   {
     "sku": "FM60",
@@ -19278,7 +19278,7 @@ export const CATALOG = [
     "avg_overall_rating": "",
     "hashtag": "",
     "dilemma_copy": "",
-    "upc": "0602004079923"
+    "upc": "602004079923"
   },
   {
     "sku": "FM61",
@@ -19318,7 +19318,7 @@ export const CATALOG = [
     "avg_overall_rating": "",
     "hashtag": "",
     "dilemma_copy": "",
-    "upc": "0602004079930"
+    "upc": "602004079930"
   },
   {
     "sku": "FM78",
@@ -19358,7 +19358,7 @@ export const CATALOG = [
     "avg_overall_rating": "",
     "hashtag": "",
     "dilemma_copy": "",
-    "upc": "0602004085269"
+    "upc": "602004085269"
   },
   {
     "sku": "FM79",
@@ -19398,7 +19398,7 @@ export const CATALOG = [
     "avg_overall_rating": "",
     "hashtag": "",
     "dilemma_copy": "",
-    "upc": "0602004085276"
+    "upc": "602004085276"
   },
   {
     "sku": "TT553US",
@@ -19438,7 +19438,7 @@ export const CATALOG = [
     "avg_overall_rating": "",
     "hashtag": "",
     "dilemma_copy": "",
-    "upc": "0602004093745"
+    "upc": "602004093745"
   },
   {
     "sku": "SD74",
@@ -19478,7 +19478,7 @@ export const CATALOG = [
     "avg_overall_rating": "",
     "hashtag": "",
     "dilemma_copy": "",
-    "upc": "0602004075512"
+    "upc": "602004075512"
   },
   {
     "sku": "SD75",
@@ -19518,7 +19518,7 @@ export const CATALOG = [
     "avg_overall_rating": "",
     "hashtag": "",
     "dilemma_copy": "",
-    "upc": "0602004075529"
+    "upc": "602004075529"
   },
   {
     "sku": "SD76",
@@ -19558,7 +19558,7 @@ export const CATALOG = [
     "avg_overall_rating": "",
     "hashtag": "",
     "dilemma_copy": "",
-    "upc": "0602004075536"
+    "upc": "602004075536"
   },
   {
     "sku": "TT559US",
@@ -19598,7 +19598,7 @@ export const CATALOG = [
     "avg_overall_rating": "",
     "hashtag": "",
     "dilemma_copy": "",
-    "upc": "0602004093806"
+    "upc": "602004093806"
   },
   {
     "sku": "TT565US",
@@ -19638,7 +19638,7 @@ export const CATALOG = [
     "avg_overall_rating": "",
     "hashtag": "",
     "dilemma_copy": "",
-    "upc": "0602004093868"
+    "upc": "602004093868"
   },
   {
     "sku": "TT566US",
@@ -19678,7 +19678,7 @@ export const CATALOG = [
     "avg_overall_rating": "",
     "hashtag": "",
     "dilemma_copy": "",
-    "upc": "0602004093875"
+    "upc": "602004093875"
   },
   {
     "sku": "TT567US",
@@ -19718,7 +19718,7 @@ export const CATALOG = [
     "avg_overall_rating": "",
     "hashtag": "",
     "dilemma_copy": "",
-    "upc": "0602004093882"
+    "upc": "602004093882"
   },
   {
     "sku": "TT568US",
@@ -19758,7 +19758,7 @@ export const CATALOG = [
     "avg_overall_rating": "",
     "hashtag": "",
     "dilemma_copy": "",
-    "upc": "0602004093899"
+    "upc": "602004093899"
   },
   {
     "sku": "TT569US",
@@ -19798,7 +19798,7 @@ export const CATALOG = [
     "avg_overall_rating": "",
     "hashtag": "",
     "dilemma_copy": "",
-    "upc": "0602004093905"
+    "upc": "602004093905"
   },
   {
     "sku": "TT570US",
@@ -19838,7 +19838,7 @@ export const CATALOG = [
     "avg_overall_rating": "",
     "hashtag": "",
     "dilemma_copy": "",
-    "upc": "0602004093912"
+    "upc": "602004093912"
   },
   {
     "sku": "TT481",
@@ -19878,7 +19878,7 @@ export const CATALOG = [
     "avg_overall_rating": "",
     "hashtag": "",
     "dilemma_copy": "",
-    "upc": "0602004082282"
+    "upc": "602004082282"
   },
   {
     "sku": "SD101",
@@ -19918,7 +19918,7 @@ export const CATALOG = [
     "avg_overall_rating": "",
     "hashtag": "",
     "dilemma_copy": "",
-    "upc": "0602004079824"
+    "upc": "602004079824"
   },
   {
     "sku": "SD102",
@@ -19958,7 +19958,7 @@ export const CATALOG = [
     "avg_overall_rating": "",
     "hashtag": "",
     "dilemma_copy": "",
-    "upc": "0602004079831"
+    "upc": "602004079831"
   },
   {
     "sku": "SD99",
@@ -19998,7 +19998,7 @@ export const CATALOG = [
     "avg_overall_rating": "",
     "hashtag": "",
     "dilemma_copy": "",
-    "upc": "0602004083272"
+    "upc": "602004083272"
   },
   {
     "sku": "SA254",
@@ -20038,7 +20038,7 @@ export const CATALOG = [
     "avg_overall_rating": "",
     "hashtag": "",
     "dilemma_copy": "",
-    "upc": "0602004079855"
+    "upc": "602004079855"
   },
   {
     "sku": "TT478US",
@@ -20078,7 +20078,7 @@ export const CATALOG = [
     "avg_overall_rating": "",
     "hashtag": "",
     "dilemma_copy": "",
-    "upc": "0602004082220"
+    "upc": "602004082220"
   },
   {
     "sku": "TR24",
@@ -20118,7 +20118,7 @@ export const CATALOG = [
     "avg_overall_rating": "",
     "hashtag": "",
     "dilemma_copy": "",
-    "upc": "0602004079268"
+    "upc": "602004079268"
   },
   {
     "sku": "TR23",
@@ -20158,7 +20158,7 @@ export const CATALOG = [
     "avg_overall_rating": "",
     "hashtag": "",
     "dilemma_copy": "",
-    "upc": "0602004077134"
+    "upc": "602004077134"
   },
   {
     "sku": "FM73",
@@ -20198,7 +20198,7 @@ export const CATALOG = [
     "avg_overall_rating": "",
     "hashtag": "",
     "dilemma_copy": "",
-    "upc": "0602004081049"
+    "upc": "602004081049"
   },
   {
     "sku": "BM61",
@@ -20238,7 +20238,7 @@ export const CATALOG = [
     "avg_overall_rating": "",
     "hashtag": "",
     "dilemma_copy": "",
-    "upc": "0602004085160"
+    "upc": "602004085160"
   },
   {
     "sku": "US46",
@@ -20278,7 +20278,7 @@ export const CATALOG = [
     "avg_overall_rating": "",
     "hashtag": "",
     "dilemma_copy": "",
-    "upc": "0602004096760"
+    "upc": "602004096760"
   },
   {
     "sku": "SD104",
@@ -20318,7 +20318,7 @@ export const CATALOG = [
     "avg_overall_rating": "",
     "hashtag": "",
     "dilemma_copy": "",
-    "upc": "0602004083401"
+    "upc": "602004083401"
   },
   {
     "sku": "SD80",
@@ -20358,7 +20358,7 @@ export const CATALOG = [
     "avg_overall_rating": "",
     "hashtag": "",
     "dilemma_copy": "",
-    "upc": "0602004076199"
+    "upc": "602004076199"
   },
   {
     "sku": "TOA124",
@@ -20398,7 +20398,7 @@ export const CATALOG = [
     "avg_overall_rating": "",
     "hashtag": "",
     "dilemma_copy": "",
-    "upc": "0602004078186"
+    "upc": "602004078186"
   },
   {
     "sku": "23450",
@@ -20438,7 +20438,7 @@ export const CATALOG = [
     "avg_overall_rating": "",
     "hashtag": "",
     "dilemma_copy": "",
-    "upc": "0602004097293"
+    "upc": "602004097293"
   },
   {
     "sku": "US47",
@@ -20478,7 +20478,7 @@ export const CATALOG = [
     "avg_overall_rating": "",
     "hashtag": "",
     "dilemma_copy": "",
-    "upc": "0602004092076"
+    "upc": "602004092076"
   },
   {
     "sku": "US48",
@@ -20518,7 +20518,7 @@ export const CATALOG = [
     "avg_overall_rating": "",
     "hashtag": "",
     "dilemma_copy": "",
-    "upc": "0602004092243"
+    "upc": "602004092243"
   },
   {
     "sku": "US49",
@@ -20558,7 +20558,7 @@ export const CATALOG = [
     "avg_overall_rating": "",
     "hashtag": "",
     "dilemma_copy": "",
-    "upc": "0602004092083"
+    "upc": "602004092083"
   },
   {
     "sku": "TT480",
@@ -20598,7 +20598,7 @@ export const CATALOG = [
     "avg_overall_rating": "",
     "hashtag": "",
     "dilemma_copy": "",
-    "upc": "0602004082275"
+    "upc": "602004082275"
   },
   {
     "sku": "EM09",
@@ -20638,7 +20638,7 @@ export const CATALOG = [
     "avg_overall_rating": "",
     "hashtag": "",
     "dilemma_copy": "",
-    "upc": "0602004063076"
+    "upc": "602004063076"
   },
   {
     "sku": "LM641",
@@ -20678,7 +20678,7 @@ export const CATALOG = [
     "avg_overall_rating": "",
     "hashtag": "",
     "dilemma_copy": "",
-    "upc": "0602004080325"
+    "upc": "602004080325"
   },
   {
     "sku": "LM639",
@@ -20718,7 +20718,7 @@ export const CATALOG = [
     "avg_overall_rating": "",
     "hashtag": "",
     "dilemma_copy": "",
-    "upc": "0602004080301"
+    "upc": "602004080301"
   },
   {
     "sku": "LM637",
@@ -20758,7 +20758,7 @@ export const CATALOG = [
     "avg_overall_rating": "",
     "hashtag": "",
     "dilemma_copy": "",
-    "upc": "0602004080288"
+    "upc": "602004080288"
   },
   {
     "sku": "LM640",
@@ -20798,7 +20798,7 @@ export const CATALOG = [
     "avg_overall_rating": "",
     "hashtag": "",
     "dilemma_copy": "",
-    "upc": "0602004080318"
+    "upc": "602004080318"
   },
   {
     "sku": "LM638",
@@ -20838,7 +20838,7 @@ export const CATALOG = [
     "avg_overall_rating": "",
     "hashtag": "",
     "dilemma_copy": "",
-    "upc": "0602004080295"
+    "upc": "602004080295"
   },
   {
     "sku": "LM642",
@@ -20878,7 +20878,7 @@ export const CATALOG = [
     "avg_overall_rating": "",
     "hashtag": "",
     "dilemma_copy": "",
-    "upc": "0602004080417"
+    "upc": "602004080417"
   },
   {
     "sku": "LM646",
@@ -20918,7 +20918,7 @@ export const CATALOG = [
     "avg_overall_rating": "",
     "hashtag": "",
     "dilemma_copy": "",
-    "upc": "0602004086143"
+    "upc": "602004086143"
   },
   {
     "sku": "SA255",
@@ -20958,7 +20958,7 @@ export const CATALOG = [
     "avg_overall_rating": "",
     "hashtag": "",
     "dilemma_copy": "",
-    "upc": "0602004079862"
+    "upc": "602004079862"
   },
   {
     "sku": "TOA115",
@@ -20998,7 +20998,7 @@ export const CATALOG = [
     "avg_overall_rating": "",
     "hashtag": "",
     "dilemma_copy": "",
-    "upc": "0602004076557"
+    "upc": "602004076557"
   },
   {
     "sku": "IB263US",
@@ -21038,7 +21038,7 @@ export const CATALOG = [
     "avg_overall_rating": "",
     "hashtag": "",
     "dilemma_copy": "",
-    "upc": "0602004046529"
+    "upc": "602004046529"
   },
   {
     "sku": "IB264US",
@@ -21078,7 +21078,7 @@ export const CATALOG = [
     "avg_overall_rating": "",
     "hashtag": "",
     "dilemma_copy": "",
-    "upc": "0602004046536"
+    "upc": "602004046536"
   },
   {
     "sku": "TT440",
@@ -21118,7 +21118,7 @@ export const CATALOG = [
     "avg_overall_rating": "",
     "hashtag": "",
     "dilemma_copy": "",
-    "upc": "0602004072788"
+    "upc": "602004072788"
   },
   {
     "sku": "FM81",
@@ -21158,7 +21158,7 @@ export const CATALOG = [
     "avg_overall_rating": "",
     "hashtag": "",
     "dilemma_copy": "",
-    "upc": "0602004085771"
+    "upc": "602004085771"
   },
   {
     "sku": "TTIB74US",
@@ -21198,7 +21198,7 @@ export const CATALOG = [
     "avg_overall_rating": "",
     "hashtag": "",
     "dilemma_copy": "",
-    "upc": "0602004095411"
+    "upc": "602004095411"
   },
   {
     "sku": "SK20",
@@ -21238,7 +21238,7 @@ export const CATALOG = [
     "avg_overall_rating": "",
     "hashtag": "",
     "dilemma_copy": "",
-    "upc": "0602004083296"
+    "upc": "602004083296"
   },
   {
     "sku": "TIB184US",
@@ -21278,7 +21278,7 @@ export const CATALOG = [
     "avg_overall_rating": "",
     "hashtag": "",
     "dilemma_copy": "",
-    "upc": "0602004095428"
+    "upc": "602004095428"
   },
   {
     "sku": "TTBM19US",
@@ -21318,7 +21318,7 @@ export const CATALOG = [
     "avg_overall_rating": "",
     "hashtag": "",
     "dilemma_copy": "",
-    "upc": "0602004095435"
+    "upc": "602004095435"
   },
   {
     "sku": "TTBM20US",
@@ -21358,7 +21358,7 @@ export const CATALOG = [
     "avg_overall_rating": "",
     "hashtag": "",
     "dilemma_copy": "",
-    "upc": "0602004095442"
+    "upc": "602004095442"
   },
   {
     "sku": "TTBM21US",
@@ -21398,7 +21398,7 @@ export const CATALOG = [
     "avg_overall_rating": "",
     "hashtag": "",
     "dilemma_copy": "",
-    "upc": "0602004095459"
+    "upc": "602004095459"
   },
   {
     "sku": "TTBM22US",
@@ -21438,7 +21438,7 @@ export const CATALOG = [
     "avg_overall_rating": "",
     "hashtag": "",
     "dilemma_copy": "",
-    "upc": "0602004095466"
+    "upc": "602004095466"
   },
   {
     "sku": "TTBM23US",
@@ -21478,7 +21478,7 @@ export const CATALOG = [
     "avg_overall_rating": "",
     "hashtag": "",
     "dilemma_copy": "",
-    "upc": "0602004095473"
+    "upc": "602004095473"
   },
   {
     "sku": "TTBM24US",
@@ -21518,7 +21518,7 @@ export const CATALOG = [
     "avg_overall_rating": "",
     "hashtag": "",
     "dilemma_copy": "",
-    "upc": "0602004095480"
+    "upc": "602004095480"
   },
   {
     "sku": "TTEM01US",
@@ -21558,7 +21558,7 @@ export const CATALOG = [
     "avg_overall_rating": "",
     "hashtag": "",
     "dilemma_copy": "",
-    "upc": "0602004095404"
+    "upc": "602004095404"
   },
   {
     "sku": "TT503",
@@ -21598,7 +21598,7 @@ export const CATALOG = [
     "avg_overall_rating": "",
     "hashtag": "",
     "dilemma_copy": "",
-    "upc": "0602004086556"
+    "upc": "602004086556"
   },
   {
     "sku": "TT502",
@@ -21638,7 +21638,7 @@ export const CATALOG = [
     "avg_overall_rating": "",
     "hashtag": "",
     "dilemma_copy": "",
-    "upc": "0602004086549"
+    "upc": "602004086549"
   },
   {
     "sku": "LM643",
@@ -21678,7 +21678,7 @@ export const CATALOG = [
     "avg_overall_rating": "",
     "hashtag": "",
     "dilemma_copy": "",
-    "upc": "0602004084316"
+    "upc": "602004084316"
   },
   {
     "sku": "BM52",
@@ -21718,7 +21718,7 @@ export const CATALOG = [
     "avg_overall_rating": "",
     "hashtag": "",
     "dilemma_copy": "",
-    "upc": "0602004075697"
+    "upc": "602004075697"
   },
   {
     "sku": "BM53",
@@ -21758,7 +21758,7 @@ export const CATALOG = [
     "avg_overall_rating": "",
     "hashtag": "",
     "dilemma_copy": "",
-    "upc": "0602004075703"
+    "upc": "602004075703"
   },
   {
     "sku": "BM54",
@@ -21798,7 +21798,7 @@ export const CATALOG = [
     "avg_overall_rating": "",
     "hashtag": "",
     "dilemma_copy": "",
-    "upc": "0602004075710"
+    "upc": "602004075710"
   },
   {
     "sku": "TOA05",
@@ -21838,7 +21838,7 @@ export const CATALOG = [
     "avg_overall_rating": "",
     "hashtag": "",
     "dilemma_copy": "",
-    "upc": "0602004055378"
+    "upc": "602004055378"
   },
   {
     "sku": "BC29",
@@ -21878,7 +21878,7 @@ export const CATALOG = [
     "avg_overall_rating": "",
     "hashtag": "",
     "dilemma_copy": "",
-    "upc": "0602004079787"
+    "upc": "602004079787"
   },
   {
     "sku": "AM07",
@@ -21918,7 +21918,7 @@ export const CATALOG = [
     "avg_overall_rating": "",
     "hashtag": "",
     "dilemma_copy": "",
-    "upc": "0602004084385"
+    "upc": "602004084385"
   },
   {
     "sku": "AM14",
@@ -21958,7 +21958,7 @@ export const CATALOG = [
     "avg_overall_rating": "",
     "hashtag": "",
     "dilemma_copy": "",
-    "upc": "0602004085344"
+    "upc": "602004085344"
   },
   {
     "sku": "AM13",
@@ -21998,7 +21998,7 @@ export const CATALOG = [
     "avg_overall_rating": "",
     "hashtag": "",
     "dilemma_copy": "",
-    "upc": "0602004085320"
+    "upc": "602004085320"
   },
   {
     "sku": "AM12",
@@ -22038,7 +22038,7 @@ export const CATALOG = [
     "avg_overall_rating": "",
     "hashtag": "",
     "dilemma_copy": "",
-    "upc": "0602004085313"
+    "upc": "602004085313"
   },
   {
     "sku": "AM11",
@@ -22078,7 +22078,7 @@ export const CATALOG = [
     "avg_overall_rating": "",
     "hashtag": "",
     "dilemma_copy": "",
-    "upc": "0602004085306"
+    "upc": "602004085306"
   },
   {
     "sku": "AM10",
@@ -22118,7 +22118,7 @@ export const CATALOG = [
     "avg_overall_rating": "",
     "hashtag": "",
     "dilemma_copy": "",
-    "upc": "0602004085290"
+    "upc": "602004085290"
   },
   {
     "sku": "AM09",
@@ -22158,7 +22158,7 @@ export const CATALOG = [
     "avg_overall_rating": "",
     "hashtag": "",
     "dilemma_copy": "",
-    "upc": "0602004085283"
+    "upc": "602004085283"
   },
   {
     "sku": "US52",
@@ -22198,7 +22198,7 @@ export const CATALOG = [
     "avg_overall_rating": "",
     "hashtag": "",
     "dilemma_copy": "",
-    "upc": "0602004099105"
+    "upc": "602004099105"
   },
   {
     "sku": "TT489",
@@ -22238,7 +22238,7 @@ export const CATALOG = [
     "avg_overall_rating": "",
     "hashtag": "",
     "dilemma_copy": "",
-    "upc": "0602004085450"
+    "upc": "602004085450"
   },
   {
     "sku": "SD91",
@@ -22278,7 +22278,7 @@ export const CATALOG = [
     "avg_overall_rating": "",
     "hashtag": "",
     "dilemma_copy": "",
-    "upc": "0602004080349"
+    "upc": "602004080349"
   },
   {
     "sku": "SD89",
@@ -22318,7 +22318,7 @@ export const CATALOG = [
     "avg_overall_rating": "",
     "hashtag": "",
     "dilemma_copy": "",
-    "upc": "0602004079800"
+    "upc": "602004079800"
   },
   {
     "sku": "FM86",
@@ -22358,7 +22358,7 @@ export const CATALOG = [
     "avg_overall_rating": "",
     "hashtag": "",
     "dilemma_copy": "",
-    "upc": "0602004087775"
+    "upc": "602004087775"
   },
   {
     "sku": "FM88",
@@ -22398,7 +22398,7 @@ export const CATALOG = [
     "avg_overall_rating": "",
     "hashtag": "",
     "dilemma_copy": "",
-    "upc": "0602004087843"
+    "upc": "602004087843"
   },
   {
     "sku": "FM77",
@@ -22438,7 +22438,7 @@ export const CATALOG = [
     "avg_overall_rating": "",
     "hashtag": "",
     "dilemma_copy": "",
-    "upc": "0602004084392"
+    "upc": "602004084392"
   },
   {
     "sku": "TT523",
@@ -22558,7 +22558,7 @@ export const CATALOG = [
     "avg_overall_rating": "",
     "hashtag": "",
     "dilemma_copy": "",
-    "upc": "0602004089533"
+    "upc": "602004089533"
   },
   {
     "sku": "SA277",
@@ -22598,7 +22598,7 @@ export const CATALOG = [
     "avg_overall_rating": "",
     "hashtag": "",
     "dilemma_copy": "",
-    "upc": "0602004084835"
+    "upc": "602004084835"
   },
   {
     "sku": "TOA172",
@@ -22638,7 +22638,7 @@ export const CATALOG = [
     "avg_overall_rating": "",
     "hashtag": "",
     "dilemma_copy": "",
-    "upc": "0602004092236"
+    "upc": "602004092236"
   },
   {
     "sku": "TT510",
@@ -22678,7 +22678,7 @@ export const CATALOG = [
     "avg_overall_rating": "",
     "hashtag": "",
     "dilemma_copy": "",
-    "upc": "0602004087751"
+    "upc": "602004087751"
   },
   {
     "sku": "TT511",
@@ -22718,7 +22718,7 @@ export const CATALOG = [
     "avg_overall_rating": "",
     "hashtag": "",
     "dilemma_copy": "",
-    "upc": "0602004087768"
+    "upc": "602004087768"
   },
   {
     "sku": "BM65",
@@ -22758,7 +22758,7 @@ export const CATALOG = [
     "avg_overall_rating": "",
     "hashtag": "",
     "dilemma_copy": "",
-    "upc": "0602004085566"
+    "upc": "602004085566"
   },
   {
     "sku": "SD114",
@@ -22798,7 +22798,7 @@ export const CATALOG = [
     "avg_overall_rating": "",
     "hashtag": "",
     "dilemma_copy": "",
-    "upc": "0602004084842"
+    "upc": "602004084842"
   },
   {
     "sku": "EM43",
@@ -22838,7 +22838,7 @@ export const CATALOG = [
     "avg_overall_rating": "",
     "hashtag": "",
     "dilemma_copy": "",
-    "upc": "0602004087867"
+    "upc": "602004087867"
   },
   {
     "sku": "TT492US",
@@ -22878,7 +22878,7 @@ export const CATALOG = [
     "avg_overall_rating": "",
     "hashtag": "",
     "dilemma_copy": "",
-    "upc": "0602004092397"
+    "upc": "602004092397"
   },
   {
     "sku": "TT490",
@@ -22918,7 +22918,7 @@ export const CATALOG = [
     "avg_overall_rating": "",
     "hashtag": "",
     "dilemma_copy": "",
-    "upc": "0602004085474"
+    "upc": "602004085474"
   },
   {
     "sku": "EM44",
@@ -22958,7 +22958,7 @@ export const CATALOG = [
     "avg_overall_rating": "",
     "hashtag": "",
     "dilemma_copy": "",
-    "upc": "0602004089557"
+    "upc": "602004089557"
   },
   {
     "sku": "BM63",
@@ -22998,7 +22998,7 @@ export const CATALOG = [
     "avg_overall_rating": "",
     "hashtag": "",
     "dilemma_copy": "",
-    "upc": "0602004085542"
+    "upc": "602004085542"
   },
   {
     "sku": "EM51",
@@ -23118,7 +23118,7 @@ export const CATALOG = [
     "avg_overall_rating": "",
     "hashtag": "",
     "dilemma_copy": "",
-    "upc": "0602004087973"
+    "upc": "602004087973"
   },
   {
     "sku": "LM649",
@@ -23158,7 +23158,7 @@ export const CATALOG = [
     "avg_overall_rating": "",
     "hashtag": "",
     "dilemma_copy": "",
-    "upc": "0602004087959"
+    "upc": "602004087959"
   },
   {
     "sku": "LM648",
@@ -23198,7 +23198,7 @@ export const CATALOG = [
     "avg_overall_rating": "",
     "hashtag": "",
     "dilemma_copy": "",
-    "upc": "0602004087942"
+    "upc": "602004087942"
   },
   {
     "sku": "LM650",
@@ -23238,7 +23238,7 @@ export const CATALOG = [
     "avg_overall_rating": "",
     "hashtag": "",
     "dilemma_copy": "",
-    "upc": "0602004087966"
+    "upc": "602004087966"
   },
   {
     "sku": "LM647",
@@ -23278,7 +23278,7 @@ export const CATALOG = [
     "avg_overall_rating": "",
     "hashtag": "",
     "dilemma_copy": "",
-    "upc": "0602004087935"
+    "upc": "602004087935"
   },
   {
     "sku": "SD122",
@@ -23318,7 +23318,7 @@ export const CATALOG = [
     "avg_overall_rating": "",
     "hashtag": "",
     "dilemma_copy": "",
-    "upc": "0602004085368"
+    "upc": "602004085368"
   },
   {
     "sku": "SD100",
@@ -23358,7 +23358,7 @@ export const CATALOG = [
     "avg_overall_rating": "",
     "hashtag": "",
     "dilemma_copy": "",
-    "upc": "0602004083289"
+    "upc": "602004083289"
   },
   {
     "sku": "FM89",
@@ -23398,7 +23398,7 @@ export const CATALOG = [
     "avg_overall_rating": "",
     "hashtag": "",
     "dilemma_copy": "",
-    "upc": "0602004087850"
+    "upc": "602004087850"
   },
   {
     "sku": "TT549",
@@ -23438,7 +23438,7 @@ export const CATALOG = [
     "avg_overall_rating": "",
     "hashtag": "",
     "dilemma_copy": "",
-    "upc": "0602004093615"
+    "upc": "602004093615"
   },
   {
     "sku": "TT518",
@@ -23478,7 +23478,7 @@ export const CATALOG = [
     "avg_overall_rating": "",
     "hashtag": "",
     "dilemma_copy": "",
-    "upc": "0602004089465"
+    "upc": "602004089465"
   },
   {
     "sku": "TT575",
@@ -23558,7 +23558,7 @@ export const CATALOG = [
     "avg_overall_rating": "",
     "hashtag": "",
     "dilemma_copy": "",
-    "upc": "0602004094667"
+    "upc": "602004094667"
   },
   {
     "sku": "EC15",
@@ -23598,7 +23598,7 @@ export const CATALOG = [
     "avg_overall_rating": "",
     "hashtag": "gimmebrow",
     "dilemma_copy": "Thick lush arches are the best way to frame your eyes and make them pop. The brush-on fiber gel builds brows beautifully so eyes are front and center.  ",
-    "upc": "0602004103116"
+    "upc": "602004103116"
   },
   {
     "sku": "EC16",
@@ -23638,7 +23638,7 @@ export const CATALOG = [
     "avg_overall_rating": "",
     "hashtag": "gimmebrow",
     "dilemma_copy": "Thick lush arches are the best way to frame your eyes and make them pop. The brush-on fiber gel builds brows beautifully so eyes are front and center.  ",
-    "upc": "0602004103123"
+    "upc": "602004103123"
   },
   {
     "sku": "EC17",
@@ -23678,7 +23678,7 @@ export const CATALOG = [
     "avg_overall_rating": "",
     "hashtag": "gimmebrow",
     "dilemma_copy": "Thick lush arches are the best way to frame your eyes and make them pop. The brush-on fiber gel builds brows beautifully so eyes are front and center.  ",
-    "upc": "0602004103130"
+    "upc": "602004103130"
   },
   {
     "sku": "TOA194",
@@ -23718,7 +23718,7 @@ export const CATALOG = [
     "avg_overall_rating": "",
     "hashtag": "",
     "dilemma_copy": "",
-    "upc": "0602004100009"
+    "upc": "602004100009"
   },
   {
     "sku": "FM108",
@@ -23758,7 +23758,7 @@ export const CATALOG = [
     "avg_overall_rating": "",
     "hashtag": "",
     "dilemma_copy": "",
-    "upc": "0602004093271"
+    "upc": "602004093271"
   },
   {
     "sku": "FM87",
@@ -23798,7 +23798,7 @@ export const CATALOG = [
     "avg_overall_rating": "",
     "hashtag": "",
     "dilemma_copy": "",
-    "upc": "0602004087829"
+    "upc": "602004087829"
   },
   {
     "sku": "IB221",
@@ -23838,7 +23838,7 @@ export const CATALOG = [
     "avg_overall_rating": "",
     "hashtag": "",
     "dilemma_copy": "",
-    "upc": "0602004010230"
+    "upc": "602004010230"
   },
   {
     "sku": "BM90",
@@ -23878,7 +23878,7 @@ export const CATALOG = [
     "avg_overall_rating": "",
     "hashtag": "3Dbrowtones",
     "dilemma_copy": "",
-    "upc": "0602004093592"
+    "upc": "602004093592"
   },
   {
     "sku": "BM89",
@@ -23918,7 +23918,7 @@ export const CATALOG = [
     "avg_overall_rating": "",
     "hashtag": "3Dbrowtones",
     "dilemma_copy": "",
-    "upc": "0602004093585"
+    "upc": "602004093585"
   },
   {
     "sku": "BM88",
@@ -23958,7 +23958,7 @@ export const CATALOG = [
     "avg_overall_rating": "",
     "hashtag": "3Dbrowtones",
     "dilemma_copy": "",
-    "upc": "0602004093578"
+    "upc": "602004093578"
   },
   {
     "sku": "BM87",
@@ -23998,7 +23998,7 @@ export const CATALOG = [
     "avg_overall_rating": "",
     "hashtag": "3Dbrowtones",
     "dilemma_copy": "",
-    "upc": "0602004093561"
+    "upc": "602004093561"
   },
   {
     "sku": "BM86",
@@ -24038,7 +24038,7 @@ export const CATALOG = [
     "avg_overall_rating": "",
     "hashtag": "3Dbrowtones",
     "dilemma_copy": "",
-    "upc": "0602004093554"
+    "upc": "602004093554"
   },
   {
     "sku": "TT580",
@@ -24118,7 +24118,7 @@ export const CATALOG = [
     "avg_overall_rating": "",
     "hashtag": "",
     "dilemma_copy": "",
-    "upc": "0602004090973"
+    "upc": "602004090973"
   },
   {
     "sku": "TOA143",
@@ -24158,7 +24158,7 @@ export const CATALOG = [
     "avg_overall_rating": "",
     "hashtag": "",
     "dilemma_copy": "",
-    "upc": "0602004087393"
+    "upc": "602004087393"
   },
   {
     "sku": "TT619",
@@ -24198,7 +24198,7 @@ export const CATALOG = [
     "avg_overall_rating": "",
     "hashtag": "",
     "dilemma_copy": "",
-    "upc": "0602004102928"
+    "upc": "602004102928"
   },
   {
     "sku": "TT620",
@@ -24238,7 +24238,7 @@ export const CATALOG = [
     "avg_overall_rating": "",
     "hashtag": "",
     "dilemma_copy": "",
-    "upc": "0602004102935"
+    "upc": "602004102935"
   },
   {
     "sku": "EC10",
@@ -24278,7 +24278,7 @@ export const CATALOG = [
     "avg_overall_rating": "",
     "hashtag": "gimmebrow",
     "dilemma_copy": "Thick lush arches are the best way to frame your eyes and make them pop. The brush-on fiber gel builds brows beautifully so eyes are front and center.  ",
-    "upc": "0602004095343"
+    "upc": "602004095343"
   },
   {
     "sku": "EC12",
@@ -24318,7 +24318,7 @@ export const CATALOG = [
     "avg_overall_rating": "",
     "hashtag": "gimmebrow",
     "dilemma_copy": "Thick lush arches are the best way to frame your eyes and make them pop. The brush-on fiber gel builds brows beautifully so eyes are front and center.  ",
-    "upc": "0602004095367"
+    "upc": "602004095367"
   },
   {
     "sku": "EC13",
@@ -24358,7 +24358,7 @@ export const CATALOG = [
     "avg_overall_rating": "",
     "hashtag": "gimmebrow",
     "dilemma_copy": "Thick lush arches are the best way to frame your eyes and make them pop. The brush-on fiber gel builds brows beautifully so eyes are front and center.  ",
-    "upc": "0602004095374"
+    "upc": "602004095374"
   },
   {
     "sku": "EC14",
@@ -24398,7 +24398,7 @@ export const CATALOG = [
     "avg_overall_rating": "",
     "hashtag": "gimmebrow",
     "dilemma_copy": "Thick lush arches are the best way to frame your eyes and make them pop. The brush-on fiber gel builds brows beautifully so eyes are front and center.  ",
-    "upc": "0602004095381"
+    "upc": "602004095381"
   },
   {
     "sku": "EC11",
@@ -24438,7 +24438,7 @@ export const CATALOG = [
     "avg_overall_rating": "",
     "hashtag": "gimmebrow",
     "dilemma_copy": "Thick lush arches are the best way to frame your eyes and make them pop. The brush-on fiber gel builds brows beautifully so eyes are front and center.  ",
-    "upc": "0602004095350"
+    "upc": "602004095350"
   },
   {
     "sku": "SD140",
@@ -24478,7 +24478,7 @@ export const CATALOG = [
     "avg_overall_rating": "",
     "hashtag": "",
     "dilemma_copy": "",
-    "upc": "0602004093059"
+    "upc": "602004093059"
   },
   {
     "sku": "TT532",
@@ -24678,7 +24678,7 @@ export const CATALOG = [
     "avg_overall_rating": "",
     "hashtag": "",
     "dilemma_copy": "",
-    "upc": "0602004092533"
+    "upc": "602004092533"
   },
   {
     "sku": "TOA149",
@@ -24718,7 +24718,7 @@ export const CATALOG = [
     "avg_overall_rating": "",
     "hashtag": "",
     "dilemma_copy": "",
-    "upc": "06020040874540"
+    "upc": "6020040874540"
   },
   {
     "sku": "FM48US",
@@ -24758,7 +24758,7 @@ export const CATALOG = [
     "avg_overall_rating": "",
     "hashtag": "",
     "dilemma_copy": "",
-    "upc": "0602004089816"
+    "upc": "602004089816"
   },
   {
     "sku": "FM49US",
@@ -24798,7 +24798,7 @@ export const CATALOG = [
     "avg_overall_rating": "",
     "hashtag": "",
     "dilemma_copy": "",
-    "upc": "0602004089809"
+    "upc": "602004089809"
   },
   {
     "sku": "FM50US",
@@ -24838,7 +24838,7 @@ export const CATALOG = [
     "avg_overall_rating": "",
     "hashtag": "",
     "dilemma_copy": "",
-    "upc": "0602004089793"
+    "upc": "602004089793"
   },
   {
     "sku": "FM90US",
@@ -24878,7 +24878,7 @@ export const CATALOG = [
     "avg_overall_rating": "",
     "hashtag": "",
     "dilemma_copy": "",
-    "upc": "0602004089786"
+    "upc": "602004089786"
   },
   {
     "sku": "FM91US",
@@ -24918,7 +24918,7 @@ export const CATALOG = [
     "avg_overall_rating": "",
     "hashtag": "",
     "dilemma_copy": "",
-    "upc": "0602004089779"
+    "upc": "602004089779"
   },
   {
     "sku": "FM92US",
@@ -24958,7 +24958,7 @@ export const CATALOG = [
     "avg_overall_rating": "",
     "hashtag": "",
     "dilemma_copy": "",
-    "upc": "0602004089762"
+    "upc": "602004089762"
   },
   {
     "sku": "FM93US",
@@ -24998,7 +24998,7 @@ export const CATALOG = [
     "avg_overall_rating": "",
     "hashtag": "",
     "dilemma_copy": "",
-    "upc": "0602004089755"
+    "upc": "602004089755"
   },
   {
     "sku": "FM94US",
@@ -25038,7 +25038,7 @@ export const CATALOG = [
     "avg_overall_rating": "",
     "hashtag": "",
     "dilemma_copy": "",
-    "upc": "0602004089748"
+    "upc": "602004089748"
   },
   {
     "sku": "FM95US",
@@ -25078,7 +25078,7 @@ export const CATALOG = [
     "avg_overall_rating": "",
     "hashtag": "",
     "dilemma_copy": "",
-    "upc": "0602004089731"
+    "upc": "602004089731"
   },
   {
     "sku": "FM96US",
@@ -25118,7 +25118,7 @@ export const CATALOG = [
     "avg_overall_rating": "",
     "hashtag": "",
     "dilemma_copy": "",
-    "upc": "0602004089724"
+    "upc": "602004089724"
   },
   {
     "sku": "FM97US",
@@ -25158,7 +25158,7 @@ export const CATALOG = [
     "avg_overall_rating": "",
     "hashtag": "",
     "dilemma_copy": "",
-    "upc": "0602004089717"
+    "upc": "602004089717"
   },
   {
     "sku": "FM98US",
@@ -25198,7 +25198,7 @@ export const CATALOG = [
     "avg_overall_rating": "",
     "hashtag": "",
     "dilemma_copy": "",
-    "upc": "0602004089700"
+    "upc": "602004089700"
   },
   {
     "sku": "SA244",
@@ -25238,7 +25238,7 @@ export const CATALOG = [
     "avg_overall_rating": "",
     "hashtag": "",
     "dilemma_copy": "",
-    "upc": "0602004073914"
+    "upc": "602004073914"
   },
   {
     "sku": "SA274",
@@ -25278,7 +25278,7 @@ export const CATALOG = [
     "avg_overall_rating": "",
     "hashtag": "",
     "dilemma_copy": "",
-    "upc": "0602004084217"
+    "upc": "602004084217"
   },
   {
     "sku": "TT543",
@@ -25318,7 +25318,7 @@ export const CATALOG = [
     "avg_overall_rating": "",
     "hashtag": "",
     "dilemma_copy": "",
-    "upc": "0602004093349"
+    "upc": "602004093349"
   },
   {
     "sku": "TT542",
@@ -25358,7 +25358,7 @@ export const CATALOG = [
     "avg_overall_rating": "",
     "hashtag": "",
     "dilemma_copy": "",
-    "upc": "0602004092922"
+    "upc": "602004092922"
   },
   {
     "sku": "TT545",
@@ -25398,7 +25398,7 @@ export const CATALOG = [
     "avg_overall_rating": "",
     "hashtag": "",
     "dilemma_copy": "",
-    "upc": "0602004093370"
+    "upc": "602004093370"
   },
   {
     "sku": "TT544",
@@ -25438,7 +25438,7 @@ export const CATALOG = [
     "avg_overall_rating": "",
     "hashtag": "",
     "dilemma_copy": "",
-    "upc": "0602004093363"
+    "upc": "602004093363"
   },
   {
     "sku": "CL106",
@@ -25478,7 +25478,7 @@ export const CATALOG = [
     "avg_overall_rating": "",
     "hashtag": "",
     "dilemma_copy": "",
-    "upc": "0602004110817"
+    "upc": "602004110817"
   },
   {
     "sku": "CL107",
@@ -25518,7 +25518,7 @@ export const CATALOG = [
     "avg_overall_rating": "",
     "hashtag": "",
     "dilemma_copy": "",
-    "upc": "0602004110824"
+    "upc": "602004110824"
   },
   {
     "sku": "CL108",
@@ -25558,7 +25558,7 @@ export const CATALOG = [
     "avg_overall_rating": "",
     "hashtag": "",
     "dilemma_copy": "",
-    "upc": "0602004110831"
+    "upc": "602004110831"
   },
   {
     "sku": "CL109",
@@ -25598,7 +25598,7 @@ export const CATALOG = [
     "avg_overall_rating": "",
     "hashtag": "",
     "dilemma_copy": "",
-    "upc": "0602004110848"
+    "upc": "602004110848"
   },
   {
     "sku": "CL111",
@@ -25638,7 +25638,7 @@ export const CATALOG = [
     "avg_overall_rating": "",
     "hashtag": "",
     "dilemma_copy": "",
-    "upc": "0602004110862"
+    "upc": "602004110862"
   },
   {
     "sku": "CL112",
@@ -25678,7 +25678,7 @@ export const CATALOG = [
     "avg_overall_rating": "",
     "hashtag": "",
     "dilemma_copy": "",
-    "upc": "0602004110879"
+    "upc": "602004110879"
   },
   {
     "sku": "CL113",
@@ -25718,7 +25718,7 @@ export const CATALOG = [
     "avg_overall_rating": "",
     "hashtag": "",
     "dilemma_copy": "",
-    "upc": "0602004110886"
+    "upc": "602004110886"
   },
   {
     "sku": "CL114",
@@ -25758,7 +25758,7 @@ export const CATALOG = [
     "avg_overall_rating": "",
     "hashtag": "",
     "dilemma_copy": "",
-    "upc": "0602004110893"
+    "upc": "602004110893"
   },
   {
     "sku": "SA284US",
@@ -25798,7 +25798,7 @@ export const CATALOG = [
     "avg_overall_rating": "",
     "hashtag": "",
     "dilemma_copy": "",
-    "upc": "0602004091444"
+    "upc": "602004091444"
   },
   {
     "sku": "SA252US",
@@ -25838,7 +25838,7 @@ export const CATALOG = [
     "avg_overall_rating": "",
     "hashtag": "",
     "dilemma_copy": "",
-    "upc": "0602004091437"
+    "upc": "602004091437"
   },
   {
     "sku": "SA285US",
@@ -25878,7 +25878,7 @@ export const CATALOG = [
     "avg_overall_rating": "",
     "hashtag": "",
     "dilemma_copy": "",
-    "upc": "0602004091451"
+    "upc": "602004091451"
   },
   {
     "sku": "BM101",
@@ -25918,7 +25918,7 @@ export const CATALOG = [
     "avg_overall_rating": "",
     "hashtag": "kabrow",
     "dilemma_copy": "",
-    "upc": "0602004095831"
+    "upc": "602004095831"
   },
   {
     "sku": "BM100",
@@ -25958,7 +25958,7 @@ export const CATALOG = [
     "avg_overall_rating": "",
     "hashtag": "kabrow",
     "dilemma_copy": "",
-    "upc": "0602004095824"
+    "upc": "602004095824"
   },
   {
     "sku": "BM92",
@@ -25998,7 +25998,7 @@ export const CATALOG = [
     "avg_overall_rating": "",
     "hashtag": "",
     "dilemma_copy": "",
-    "upc": "0602004095046"
+    "upc": "602004095046"
   },
   {
     "sku": "BM91",
@@ -26038,7 +26038,7 @@ export const CATALOG = [
     "avg_overall_rating": "",
     "hashtag": "",
     "dilemma_copy": "",
-    "upc": "0602004095039"
+    "upc": "602004095039"
   },
   {
     "sku": "BM94",
@@ -26078,7 +26078,7 @@ export const CATALOG = [
     "avg_overall_rating": "",
     "hashtag": "preciselymybrow",
     "dilemma_copy": "",
-    "upc": "0602004095060"
+    "upc": "602004095060"
   },
   {
     "sku": "BM93",
@@ -26118,7 +26118,7 @@ export const CATALOG = [
     "avg_overall_rating": "",
     "hashtag": "preciselymybrow",
     "dilemma_copy": "",
-    "upc": "0602004095053"
+    "upc": "602004095053"
   },
   {
     "sku": "BM118",
@@ -26158,7 +26158,7 @@ export const CATALOG = [
     "avg_overall_rating": "",
     "hashtag": "",
     "dilemma_copy": "",
-    "upc": "0602004097163"
+    "upc": "602004097163"
   },
   {
     "sku": "BM119",
@@ -26198,7 +26198,7 @@ export const CATALOG = [
     "avg_overall_rating": "",
     "hashtag": "",
     "dilemma_copy": "",
-    "upc": "0602004097170"
+    "upc": "602004097170"
   },
   {
     "sku": "BM102",
@@ -26238,7 +26238,7 @@ export const CATALOG = [
     "avg_overall_rating": "",
     "hashtag": "",
     "dilemma_copy": "",
-    "upc": "0602004095848"
+    "upc": "602004095848"
   },
   {
     "sku": "BM120",
@@ -26278,7 +26278,7 @@ export const CATALOG = [
     "avg_overall_rating": "",
     "hashtag": "",
     "dilemma_copy": "",
-    "upc": "0602004097187"
+    "upc": "602004097187"
   },
   {
     "sku": "BM103",
@@ -26318,7 +26318,7 @@ export const CATALOG = [
     "avg_overall_rating": "",
     "hashtag": "",
     "dilemma_copy": "",
-    "upc": "0602004095855"
+    "upc": "602004095855"
   },
   {
     "sku": "BM121",
@@ -26358,7 +26358,7 @@ export const CATALOG = [
     "avg_overall_rating": "",
     "hashtag": "",
     "dilemma_copy": "",
-    "upc": "0602004097194"
+    "upc": "602004097194"
   },
   {
     "sku": "BM122",
@@ -26398,7 +26398,7 @@ export const CATALOG = [
     "avg_overall_rating": "",
     "hashtag": "",
     "dilemma_copy": "",
-    "upc": "0602004097200"
+    "upc": "602004097200"
   },
   {
     "sku": "FM137US",
@@ -26438,7 +26438,7 @@ export const CATALOG = [
     "avg_overall_rating": "",
     "hashtag": "",
     "dilemma_copy": "",
-    "upc": "0602004104861"
+    "upc": "602004104861"
   },
   {
     "sku": "FM138US",
@@ -26478,7 +26478,7 @@ export const CATALOG = [
     "avg_overall_rating": "",
     "hashtag": "",
     "dilemma_copy": "",
-    "upc": "0602004104885"
+    "upc": "602004104885"
   },
   {
     "sku": "FM139US",
@@ -26518,7 +26518,7 @@ export const CATALOG = [
     "avg_overall_rating": "",
     "hashtag": "",
     "dilemma_copy": "",
-    "upc": "0602004104908"
+    "upc": "602004104908"
   },
   {
     "sku": "FM140US",
@@ -26558,7 +26558,7 @@ export const CATALOG = [
     "avg_overall_rating": "",
     "hashtag": "",
     "dilemma_copy": "",
-    "upc": "0602004104922"
+    "upc": "602004104922"
   },
   {
     "sku": "FM141US",
@@ -26598,7 +26598,7 @@ export const CATALOG = [
     "avg_overall_rating": "",
     "hashtag": "",
     "dilemma_copy": "",
-    "upc": "0602004104946"
+    "upc": "602004104946"
   },
   {
     "sku": "BM111",
@@ -26638,7 +26638,7 @@ export const CATALOG = [
     "avg_overall_rating": "",
     "hashtag": "",
     "dilemma_copy": "",
-    "upc": "0602004096906"
+    "upc": "602004096906"
   },
   {
     "sku": "BM112",
@@ -26678,7 +26678,7 @@ export const CATALOG = [
     "avg_overall_rating": "",
     "hashtag": "",
     "dilemma_copy": "",
-    "upc": "0602004096913"
+    "upc": "602004096913"
   },
   {
     "sku": "BM113",
@@ -26718,7 +26718,7 @@ export const CATALOG = [
     "avg_overall_rating": "",
     "hashtag": "",
     "dilemma_copy": "",
-    "upc": "0602004096920"
+    "upc": "602004096920"
   },
   {
     "sku": "BM114",
@@ -26758,7 +26758,7 @@ export const CATALOG = [
     "avg_overall_rating": "",
     "hashtag": "",
     "dilemma_copy": "",
-    "upc": "0602004096937"
+    "upc": "602004096937"
   },
   {
     "sku": "BM115",
@@ -26798,7 +26798,7 @@ export const CATALOG = [
     "avg_overall_rating": "",
     "hashtag": "",
     "dilemma_copy": "",
-    "upc": "0602004096944"
+    "upc": "602004096944"
   },
   {
     "sku": "BM76",
@@ -26838,7 +26838,7 @@ export const CATALOG = [
     "avg_overall_rating": "",
     "hashtag": "",
     "dilemma_copy": "",
-    "upc": "0602004096951"
+    "upc": "602004096951"
   },
   {
     "sku": "BM117",
@@ -26878,7 +26878,7 @@ export const CATALOG = [
     "avg_overall_rating": "",
     "hashtag": "",
     "dilemma_copy": "",
-    "upc": "0602004096968"
+    "upc": "602004096968"
   },
   {
     "sku": "FM118",
@@ -26918,7 +26918,7 @@ export const CATALOG = [
     "avg_overall_rating": "",
     "hashtag": "",
     "dilemma_copy": "",
-    "upc": "0602004095954"
+    "upc": "602004095954"
   },
   {
     "sku": "FM119",
@@ -26958,7 +26958,7 @@ export const CATALOG = [
     "avg_overall_rating": "",
     "hashtag": "",
     "dilemma_copy": "",
-    "upc": "0602004095961"
+    "upc": "602004095961"
   },
   {
     "sku": "FM120",
@@ -26998,7 +26998,7 @@ export const CATALOG = [
     "avg_overall_rating": "",
     "hashtag": "",
     "dilemma_copy": "",
-    "upc": "0602004095978"
+    "upc": "602004095978"
   },
   {
     "sku": "FM110",
@@ -27038,7 +27038,7 @@ export const CATALOG = [
     "avg_overall_rating": "",
     "hashtag": "",
     "dilemma_copy": "",
-    "upc": "0602004095879"
+    "upc": "602004095879"
   },
   {
     "sku": "FM109",
@@ -27078,7 +27078,7 @@ export const CATALOG = [
     "avg_overall_rating": "",
     "hashtag": "",
     "dilemma_copy": "",
-    "upc": "0602004095862"
+    "upc": "602004095862"
   },
   {
     "sku": "FM111",
@@ -27118,7 +27118,7 @@ export const CATALOG = [
     "avg_overall_rating": "",
     "hashtag": "",
     "dilemma_copy": "",
-    "upc": "0602004095886"
+    "upc": "602004095886"
   },
   {
     "sku": "FM114",
@@ -27158,7 +27158,7 @@ export const CATALOG = [
     "avg_overall_rating": "",
     "hashtag": "",
     "dilemma_copy": "",
-    "upc": "0602004095916"
+    "upc": "602004095916"
   },
   {
     "sku": "FM112",
@@ -27198,7 +27198,7 @@ export const CATALOG = [
     "avg_overall_rating": "",
     "hashtag": "",
     "dilemma_copy": "",
-    "upc": "0602004095893"
+    "upc": "602004095893"
   },
   {
     "sku": "FM116",
@@ -27238,7 +27238,7 @@ export const CATALOG = [
     "avg_overall_rating": "",
     "hashtag": "",
     "dilemma_copy": "",
-    "upc": "0602004095930"
+    "upc": "602004095930"
   },
   {
     "sku": "FM115",
@@ -27278,7 +27278,7 @@ export const CATALOG = [
     "avg_overall_rating": "",
     "hashtag": "",
     "dilemma_copy": "",
-    "upc": "0602004095923"
+    "upc": "602004095923"
   },
   {
     "sku": "EM116",
@@ -27358,7 +27358,7 @@ export const CATALOG = [
     "avg_overall_rating": "",
     "hashtag": "",
     "dilemma_copy": "",
-    "upc": "0602004095947"
+    "upc": "602004095947"
   },
   {
     "sku": "TT520US",
@@ -27398,7 +27398,7 @@ export const CATALOG = [
     "avg_overall_rating": "",
     "hashtag": "",
     "dilemma_copy": "",
-    "upc": "0602004093523"
+    "upc": "602004093523"
   },
   {
     "sku": "TT573",
@@ -27438,7 +27438,7 @@ export const CATALOG = [
     "avg_overall_rating": "",
     "hashtag": "",
     "dilemma_copy": "",
-    "upc": "0602004094650"
+    "upc": "602004094650"
   },
   {
     "sku": "TT577",
@@ -27478,7 +27478,7 @@ export const CATALOG = [
     "avg_overall_rating": "",
     "hashtag": "",
     "dilemma_copy": "",
-    "upc": "0602004094698"
+    "upc": "602004094698"
   },
   {
     "sku": "TT515",
@@ -27518,7 +27518,7 @@ export const CATALOG = [
     "avg_overall_rating": "",
     "hashtag": "",
     "dilemma_copy": "",
-    "upc": "0602004087904"
+    "upc": "602004087904"
   },
   {
     "sku": "TT576",
@@ -27558,7 +27558,7 @@ export const CATALOG = [
     "avg_overall_rating": "",
     "hashtag": "",
     "dilemma_copy": "",
-    "upc": "0602004094681"
+    "upc": "602004094681"
   },
   {
     "sku": "TT738",
@@ -27598,7 +27598,7 @@ export const CATALOG = [
     "avg_overall_rating": "",
     "hashtag": "",
     "dilemma_copy": "",
-    "upc": "0602004112309"
+    "upc": "602004112309"
   },
   {
     "sku": "TT739",
@@ -27638,7 +27638,7 @@ export const CATALOG = [
     "avg_overall_rating": "",
     "hashtag": "",
     "dilemma_copy": "",
-    "upc": "0602004112316"
+    "upc": "602004112316"
   },
   {
     "sku": "TT740",
@@ -27678,7 +27678,7 @@ export const CATALOG = [
     "avg_overall_rating": "",
     "hashtag": "",
     "dilemma_copy": "",
-    "upc": "0602004112323"
+    "upc": "602004112323"
   },
   {
     "sku": "TT741",
@@ -27718,7 +27718,7 @@ export const CATALOG = [
     "avg_overall_rating": "",
     "hashtag": "",
     "dilemma_copy": "",
-    "upc": "0602004112330"
+    "upc": "602004112330"
   },
   {
     "sku": "TT742",
@@ -27758,7 +27758,7 @@ export const CATALOG = [
     "avg_overall_rating": "",
     "hashtag": "",
     "dilemma_copy": "",
-    "upc": "0602004112347"
+    "upc": "602004112347"
   },
   {
     "sku": "TT743",
@@ -27798,7 +27798,7 @@ export const CATALOG = [
     "avg_overall_rating": "",
     "hashtag": "",
     "dilemma_copy": "",
-    "upc": "0602004112354"
+    "upc": "602004112354"
   },
   {
     "sku": "TT744",
@@ -27838,7 +27838,7 @@ export const CATALOG = [
     "avg_overall_rating": "",
     "hashtag": "",
     "dilemma_copy": "",
-    "upc": "0602004112361"
+    "upc": "602004112361"
   },
   {
     "sku": "TT745",
@@ -27878,7 +27878,7 @@ export const CATALOG = [
     "avg_overall_rating": "",
     "hashtag": "",
     "dilemma_copy": "",
-    "upc": "0602004112378"
+    "upc": "602004112378"
   },
   {
     "sku": "TT722",
@@ -27918,7 +27918,7 @@ export const CATALOG = [
     "avg_overall_rating": "",
     "hashtag": "",
     "dilemma_copy": "",
-    "upc": "0602004112149"
+    "upc": "602004112149"
   },
   {
     "sku": "TT723",
@@ -27958,7 +27958,7 @@ export const CATALOG = [
     "avg_overall_rating": "",
     "hashtag": "",
     "dilemma_copy": "",
-    "upc": "0602004112156"
+    "upc": "602004112156"
   },
   {
     "sku": "TT724",
@@ -27998,7 +27998,7 @@ export const CATALOG = [
     "avg_overall_rating": "",
     "hashtag": "",
     "dilemma_copy": "",
-    "upc": "0602004112163"
+    "upc": "602004112163"
   },
   {
     "sku": "TT725",
@@ -28038,7 +28038,7 @@ export const CATALOG = [
     "avg_overall_rating": "",
     "hashtag": "",
     "dilemma_copy": "",
-    "upc": "0602004112170"
+    "upc": "602004112170"
   },
   {
     "sku": "TT726",
@@ -28078,7 +28078,7 @@ export const CATALOG = [
     "avg_overall_rating": "",
     "hashtag": "",
     "dilemma_copy": "",
-    "upc": "0602004112187"
+    "upc": "602004112187"
   },
   {
     "sku": "TT727",
@@ -28118,7 +28118,7 @@ export const CATALOG = [
     "avg_overall_rating": "",
     "hashtag": "",
     "dilemma_copy": "",
-    "upc": "0602004112194"
+    "upc": "602004112194"
   },
   {
     "sku": "TT728",
@@ -28158,7 +28158,7 @@ export const CATALOG = [
     "avg_overall_rating": "",
     "hashtag": "",
     "dilemma_copy": "",
-    "upc": "0602004112200"
+    "upc": "602004112200"
   },
   {
     "sku": "TT729",
@@ -28198,7 +28198,7 @@ export const CATALOG = [
     "avg_overall_rating": "",
     "hashtag": "",
     "dilemma_copy": "",
-    "upc": "0602004112217"
+    "upc": "602004112217"
   },
   {
     "sku": "TT730",
@@ -28238,7 +28238,7 @@ export const CATALOG = [
     "avg_overall_rating": "",
     "hashtag": "",
     "dilemma_copy": "",
-    "upc": "0602004112224"
+    "upc": "602004112224"
   },
   {
     "sku": "TT731",
@@ -28278,7 +28278,7 @@ export const CATALOG = [
     "avg_overall_rating": "",
     "hashtag": "",
     "dilemma_copy": "",
-    "upc": "0602004112231"
+    "upc": "602004112231"
   },
   {
     "sku": "TT732",
@@ -28318,7 +28318,7 @@ export const CATALOG = [
     "avg_overall_rating": "",
     "hashtag": "",
     "dilemma_copy": "",
-    "upc": "0602004112248"
+    "upc": "602004112248"
   },
   {
     "sku": "TT733",
@@ -28358,7 +28358,7 @@ export const CATALOG = [
     "avg_overall_rating": "",
     "hashtag": "",
     "dilemma_copy": "",
-    "upc": "0602004112255"
+    "upc": "602004112255"
   },
   {
     "sku": "TT734",
@@ -28398,7 +28398,7 @@ export const CATALOG = [
     "avg_overall_rating": "",
     "hashtag": "",
     "dilemma_copy": "",
-    "upc": "0602004112262"
+    "upc": "602004112262"
   },
   {
     "sku": "TT735",
@@ -28438,7 +28438,7 @@ export const CATALOG = [
     "avg_overall_rating": "",
     "hashtag": "",
     "dilemma_copy": "",
-    "upc": "0602004112279"
+    "upc": "602004112279"
   },
   {
     "sku": "TT736",
@@ -28478,7 +28478,7 @@ export const CATALOG = [
     "avg_overall_rating": "",
     "hashtag": "",
     "dilemma_copy": "",
-    "upc": "0602004112286"
+    "upc": "602004112286"
   },
   {
     "sku": "TT737",
@@ -28518,7 +28518,7 @@ export const CATALOG = [
     "avg_overall_rating": "",
     "hashtag": "",
     "dilemma_copy": "",
-    "upc": "0602004112293"
+    "upc": "602004112293"
   },
   {
     "sku": "BM81",
@@ -28558,7 +28558,7 @@ export const CATALOG = [
     "avg_overall_rating": "",
     "hashtag": "",
     "dilemma_copy": "",
-    "upc": "0602004093387"
+    "upc": "602004093387"
   },
   {
     "sku": "BM82",
@@ -28598,7 +28598,7 @@ export const CATALOG = [
     "avg_overall_rating": "",
     "hashtag": "",
     "dilemma_copy": "",
-    "upc": "0602004093394"
+    "upc": "602004093394"
   },
   {
     "sku": "BM83",
@@ -28638,7 +28638,7 @@ export const CATALOG = [
     "avg_overall_rating": "",
     "hashtag": "",
     "dilemma_copy": "",
-    "upc": "0602004093400"
+    "upc": "602004093400"
   },
   {
     "sku": "BM84",
@@ -28678,7 +28678,7 @@ export const CATALOG = [
     "avg_overall_rating": "",
     "hashtag": "",
     "dilemma_copy": "",
-    "upc": "0602004093417"
+    "upc": "602004093417"
   },
   {
     "sku": "BM85",
@@ -28718,7 +28718,7 @@ export const CATALOG = [
     "avg_overall_rating": "",
     "hashtag": "",
     "dilemma_copy": "",
-    "upc": "0602004093424"
+    "upc": "602004093424"
   },
   {
     "sku": "TT500US",
@@ -28758,7 +28758,7 @@ export const CATALOG = [
     "avg_overall_rating": "",
     "hashtag": "",
     "dilemma_copy": "",
-    "upc": "0602004092434"
+    "upc": "602004092434"
   },
   {
     "sku": "CL94",
@@ -28798,7 +28798,7 @@ export const CATALOG = [
     "avg_overall_rating": "",
     "hashtag": "",
     "dilemma_copy": "",
-    "upc": "0602004108067"
+    "upc": "602004108067"
   },
   {
     "sku": "CL95",
@@ -28838,7 +28838,7 @@ export const CATALOG = [
     "avg_overall_rating": "",
     "hashtag": "",
     "dilemma_copy": "",
-    "upc": "0602004108876"
+    "upc": "602004108876"
   },
   {
     "sku": "AM19",
@@ -28918,7 +28918,7 @@ export const CATALOG = [
     "avg_overall_rating": "",
     "hashtag": "",
     "dilemma_copy": "",
-    "upc": "0602004087409"
+    "upc": "602004087409"
   },
   {
     "sku": "TT548US",
@@ -28958,7 +28958,7 @@ export const CATALOG = [
     "avg_overall_rating": "",
     "hashtag": "",
     "dilemma_copy": "",
-    "upc": "0602004100900"
+    "upc": "602004100900"
   },
   {
     "sku": "TOA120",
@@ -28998,7 +28998,7 @@ export const CATALOG = [
     "avg_overall_rating": "",
     "hashtag": "",
     "dilemma_copy": "",
-    "upc": "0602004076601"
+    "upc": "602004076601"
   },
   {
     "sku": "SD156",
@@ -29038,7 +29038,7 @@ export const CATALOG = [
     "avg_overall_rating": "",
     "hashtag": "",
     "dilemma_copy": "",
-    "upc": "0602004093110"
+    "upc": "602004093110"
   },
   {
     "sku": "TTSUB06",
@@ -29078,7 +29078,7 @@ export const CATALOG = [
     "avg_overall_rating": "",
     "hashtag": "",
     "dilemma_copy": "",
-    "upc": "0602004100856"
+    "upc": "602004100856"
   },
   {
     "sku": "TTFM81",
@@ -29118,7 +29118,7 @@ export const CATALOG = [
     "avg_overall_rating": "",
     "hashtag": "",
     "dilemma_copy": "",
-    "upc": "0602004100832"
+    "upc": "602004100832"
   },
   {
     "sku": "TTFM33",
@@ -29158,7 +29158,7 @@ export const CATALOG = [
     "avg_overall_rating": "",
     "hashtag": "",
     "dilemma_copy": "",
-    "upc": "0602004101297"
+    "upc": "602004101297"
   },
   {
     "sku": "TTFM04",
@@ -29198,7 +29198,7 @@ export const CATALOG = [
     "avg_overall_rating": "",
     "hashtag": "",
     "dilemma_copy": "",
-    "upc": "0602004101556"
+    "upc": "602004101556"
   },
   {
     "sku": "TTFM32",
@@ -29238,7 +29238,7 @@ export const CATALOG = [
     "avg_overall_rating": "",
     "hashtag": "",
     "dilemma_copy": "",
-    "upc": "0602004101303"
+    "upc": "602004101303"
   },
   {
     "sku": "TTEM02",
@@ -29278,7 +29278,7 @@ export const CATALOG = [
     "avg_overall_rating": "",
     "hashtag": "",
     "dilemma_copy": "",
-    "upc": "0602004101563"
+    "upc": "602004101563"
   },
   {
     "sku": "TTEM44",
@@ -29318,7 +29318,7 @@ export const CATALOG = [
     "avg_overall_rating": "",
     "hashtag": "",
     "dilemma_copy": "",
-    "upc": "0602004101549"
+    "upc": "602004101549"
   },
   {
     "sku": "TTIB222",
@@ -29358,7 +29358,7 @@ export const CATALOG = [
     "avg_overall_rating": "",
     "hashtag": "",
     "dilemma_copy": "",
-    "upc": "0602004101570"
+    "upc": "602004101570"
   },
   {
     "sku": "TTBM65",
@@ -29398,7 +29398,7 @@ export const CATALOG = [
     "avg_overall_rating": "",
     "hashtag": "",
     "dilemma_copy": "",
-    "upc": "0602004102980"
+    "upc": "602004102980"
   },
   {
     "sku": "TT657",
@@ -29438,7 +29438,7 @@ export const CATALOG = [
     "avg_overall_rating": "",
     "hashtag": "",
     "dilemma_copy": "",
-    "upc": "0602004104717"
+    "upc": "602004104717"
   },
   {
     "sku": "TT588",
@@ -29478,7 +29478,7 @@ export const CATALOG = [
     "avg_overall_rating": "",
     "hashtag": "",
     "dilemma_copy": "",
-    "upc": "0602004098221"
+    "upc": "602004098221"
   },
   {
     "sku": "TT587",
@@ -29518,7 +29518,7 @@ export const CATALOG = [
     "avg_overall_rating": "",
     "hashtag": "",
     "dilemma_copy": "",
-    "upc": "0602004098214"
+    "upc": "602004098214"
   },
   {
     "sku": "TT586",
@@ -29558,7 +29558,7 @@ export const CATALOG = [
     "avg_overall_rating": "",
     "hashtag": "",
     "dilemma_copy": "",
-    "upc": "0602004098191"
+    "upc": "602004098191"
   },
   {
     "sku": "TT656",
@@ -29598,7 +29598,7 @@ export const CATALOG = [
     "avg_overall_rating": "",
     "hashtag": "",
     "dilemma_copy": "",
-    "upc": "0602004104700"
+    "upc": "602004104700"
   },
   {
     "sku": "TT584",
@@ -29638,7 +29638,7 @@ export const CATALOG = [
     "avg_overall_rating": "",
     "hashtag": "",
     "dilemma_copy": "",
-    "upc": "0602004098184"
+    "upc": "602004098184"
   },
   {
     "sku": "TT585",
@@ -29678,7 +29678,7 @@ export const CATALOG = [
     "avg_overall_rating": "",
     "hashtag": "",
     "dilemma_copy": "",
-    "upc": "0602004098238"
+    "upc": "602004098238"
   },
   {
     "sku": "TT589",
@@ -29718,7 +29718,7 @@ export const CATALOG = [
     "avg_overall_rating": "",
     "hashtag": "",
     "dilemma_copy": "",
-    "upc": "0602004098207"
+    "upc": "602004098207"
   },
   {
     "sku": "TT582",
@@ -29758,7 +29758,7 @@ export const CATALOG = [
     "avg_overall_rating": "",
     "hashtag": "",
     "dilemma_copy": "",
-    "upc": "0602004098160"
+    "upc": "602004098160"
   },
   {
     "sku": "TT581",
@@ -29798,7 +29798,7 @@ export const CATALOG = [
     "avg_overall_rating": "",
     "hashtag": "",
     "dilemma_copy": "",
-    "upc": "0602004098153"
+    "upc": "602004098153"
   },
   {
     "sku": "TOA146",
@@ -29838,7 +29838,7 @@ export const CATALOG = [
     "avg_overall_rating": "",
     "hashtag": "",
     "dilemma_copy": "",
-    "upc": "0602004087423"
+    "upc": "602004087423"
   },
   {
     "sku": "FM123US",
@@ -29878,7 +29878,7 @@ export const CATALOG = [
     "avg_overall_rating": "",
     "hashtag": "",
     "dilemma_copy": "",
-    "upc": "0602004097422"
+    "upc": "602004097422"
   },
   {
     "sku": "TT623",
@@ -29918,7 +29918,7 @@ export const CATALOG = [
     "avg_overall_rating": "",
     "hashtag": "",
     "dilemma_copy": "",
-    "upc": "0602004103352"
+    "upc": "602004103352"
   },
   {
     "sku": "SD158",
@@ -29958,7 +29958,7 @@ export const CATALOG = [
     "avg_overall_rating": "",
     "hashtag": "",
     "dilemma_copy": "",
-    "upc": "0602004103178"
+    "upc": "602004103178"
   },
   {
     "sku": "SD159",
@@ -29998,7 +29998,7 @@ export const CATALOG = [
     "avg_overall_rating": "",
     "hashtag": "",
     "dilemma_copy": "",
-    "upc": "0602004103185"
+    "upc": "602004103185"
   },
   {
     "sku": "SD160",
@@ -30038,7 +30038,7 @@ export const CATALOG = [
     "avg_overall_rating": "",
     "hashtag": "",
     "dilemma_copy": "",
-    "upc": "0602004103192"
+    "upc": "602004103192"
   },
   {
     "sku": "TT592US",
@@ -30078,7 +30078,7 @@ export const CATALOG = [
     "avg_overall_rating": "",
     "hashtag": "",
     "dilemma_copy": "",
-    "upc": "0602004100931"
+    "upc": "602004100931"
   },
   {
     "sku": "TT593US",
@@ -30118,7 +30118,7 @@ export const CATALOG = [
     "avg_overall_rating": "",
     "hashtag": "",
     "dilemma_copy": "",
-    "upc": "0602004100948"
+    "upc": "602004100948"
   },
   {
     "sku": "TT594US",
@@ -30158,7 +30158,7 @@ export const CATALOG = [
     "avg_overall_rating": "",
     "hashtag": "",
     "dilemma_copy": "",
-    "upc": "0602004100955"
+    "upc": "602004100955"
   },
   {
     "sku": "TT595US",
@@ -30198,7 +30198,7 @@ export const CATALOG = [
     "avg_overall_rating": "",
     "hashtag": "",
     "dilemma_copy": "",
-    "upc": "0602004101051"
+    "upc": "602004101051"
   },
   {
     "sku": "TT596US",
@@ -30238,7 +30238,7 @@ export const CATALOG = [
     "avg_overall_rating": "",
     "hashtag": "",
     "dilemma_copy": "",
-    "upc": "0602004101068"
+    "upc": "602004101068"
   },
   {
     "sku": "TOA151",
@@ -30278,7 +30278,7 @@ export const CATALOG = [
     "avg_overall_rating": "",
     "hashtag": "",
     "dilemma_copy": "",
-    "upc": "0602004087478"
+    "upc": "602004087478"
   },
   {
     "sku": "EM48",
@@ -30318,7 +30318,7 @@ export const CATALOG = [
     "avg_overall_rating": "",
     "hashtag": "",
     "dilemma_copy": "",
-    "upc": "0602004091222"
+    "upc": "602004091222"
   },
   {
     "sku": "EM47",
@@ -30358,7 +30358,7 @@ export const CATALOG = [
     "avg_overall_rating": "",
     "hashtag": "",
     "dilemma_copy": "",
-    "upc": "0602004089588"
+    "upc": "602004089588"
   },
   {
     "sku": "EM52",
@@ -30398,7 +30398,7 @@ export const CATALOG = [
     "avg_overall_rating": "",
     "hashtag": "",
     "dilemma_copy": "",
-    "upc": "0602004093264"
+    "upc": "602004093264"
   },
   {
     "sku": "TT521US",
@@ -30438,7 +30438,7 @@ export const CATALOG = [
     "avg_overall_rating": "",
     "hashtag": "",
     "dilemma_copy": "",
-    "upc": "0602004093516"
+    "upc": "602004093516"
   },
   {
     "sku": "SA305",
@@ -30478,7 +30478,7 @@ export const CATALOG = [
     "avg_overall_rating": "",
     "hashtag": "",
     "dilemma_copy": "",
-    "upc": "0602004103253"
+    "upc": "602004103253"
   },
   {
     "sku": "TT634",
@@ -30518,7 +30518,7 @@ export const CATALOG = [
     "avg_overall_rating": "",
     "hashtag": "",
     "dilemma_copy": "",
-    "upc": "0602004104076"
+    "upc": "602004104076"
   },
   {
     "sku": "TT635",
@@ -30558,7 +30558,7 @@ export const CATALOG = [
     "avg_overall_rating": "",
     "hashtag": "",
     "dilemma_copy": "",
-    "upc": "0602004104083"
+    "upc": "602004104083"
   },
   {
     "sku": "TT636",
@@ -30598,7 +30598,7 @@ export const CATALOG = [
     "avg_overall_rating": "",
     "hashtag": "",
     "dilemma_copy": "",
-    "upc": "0602004104090"
+    "upc": "602004104090"
   },
   {
     "sku": "TT637",
@@ -30638,7 +30638,7 @@ export const CATALOG = [
     "avg_overall_rating": "",
     "hashtag": "",
     "dilemma_copy": "",
-    "upc": "0602004104106"
+    "upc": "602004104106"
   },
   {
     "sku": "TT638",
@@ -30678,7 +30678,7 @@ export const CATALOG = [
     "avg_overall_rating": "",
     "hashtag": "",
     "dilemma_copy": "",
-    "upc": "0602004104113"
+    "upc": "602004104113"
   },
   {
     "sku": "TT650US",
@@ -30718,7 +30718,7 @@ export const CATALOG = [
     "avg_overall_rating": "",
     "hashtag": "",
     "dilemma_copy": "",
-    "upc": "0602004104441"
+    "upc": "602004104441"
   },
   {
     "sku": "EM46",
@@ -30758,7 +30758,7 @@ export const CATALOG = [
     "avg_overall_rating": "",
     "hashtag": "",
     "dilemma_copy": "",
-    "upc": "0602004089571"
+    "upc": "602004089571"
   },
   {
     "sku": "BM154",
@@ -30798,7 +30798,7 @@ export const CATALOG = [
     "avg_overall_rating": "",
     "hashtag": "",
     "dilemma_copy": "Thick lush arches are the best way to frame your eyes and make them pop. The brush-on fiber gel builds brows beautifully so eyes are front and center.  ",
-    "upc": "0602004103208"
+    "upc": "602004103208"
   },
   {
     "sku": "BM95",
@@ -30838,7 +30838,7 @@ export const CATALOG = [
     "avg_overall_rating": "",
     "hashtag": "",
     "dilemma_copy": "Thick lush arches are the best way to frame your eyes and make them pop. The brush-on fiber gel builds brows beautifully so eyes are front and center.  ",
-    "upc": "0602004095299"
+    "upc": "602004095299"
   },
   {
     "sku": "BM155",
@@ -30878,7 +30878,7 @@ export const CATALOG = [
     "avg_overall_rating": "",
     "hashtag": "",
     "dilemma_copy": "Thick lush arches are the best way to frame your eyes and make them pop. The brush-on fiber gel builds brows beautifully so eyes are front and center.  ",
-    "upc": "0602004103215"
+    "upc": "602004103215"
   },
   {
     "sku": "BM96",
@@ -30918,7 +30918,7 @@ export const CATALOG = [
     "avg_overall_rating": "",
     "hashtag": "",
     "dilemma_copy": "Thick lush arches are the best way to frame your eyes and make them pop. The brush-on fiber gel builds brows beautifully so eyes are front and center.  ",
-    "upc": "0602004095305"
+    "upc": "602004095305"
   },
   {
     "sku": "BM97",
@@ -30958,7 +30958,7 @@ export const CATALOG = [
     "avg_overall_rating": "",
     "hashtag": "",
     "dilemma_copy": "Thick lush arches are the best way to frame your eyes and make them pop. The brush-on fiber gel builds brows beautifully so eyes are front and center.  ",
-    "upc": "0602004095312"
+    "upc": "602004095312"
   },
   {
     "sku": "BM98",
@@ -30998,7 +30998,7 @@ export const CATALOG = [
     "avg_overall_rating": "",
     "hashtag": "",
     "dilemma_copy": "Thick lush arches are the best way to frame your eyes and make them pop. The brush-on fiber gel builds brows beautifully so eyes are front and center.  ",
-    "upc": "0602004095329"
+    "upc": "602004095329"
   },
   {
     "sku": "BM156",
@@ -31038,7 +31038,7 @@ export const CATALOG = [
     "avg_overall_rating": "",
     "hashtag": "",
     "dilemma_copy": "Thick lush arches are the best way to frame your eyes and make them pop. The brush-on fiber gel builds brows beautifully so eyes are front and center.  ",
-    "upc": "0602004103222"
+    "upc": "602004103222"
   },
   {
     "sku": "BM99",
@@ -31078,7 +31078,7 @@ export const CATALOG = [
     "avg_overall_rating": "",
     "hashtag": "",
     "dilemma_copy": "Thick lush arches are the best way to frame your eyes and make them pop. The brush-on fiber gel builds brows beautifully so eyes are front and center.  ",
-    "upc": "0602004095336"
+    "upc": "602004095336"
   },
   {
     "sku": "TT661US",
@@ -31118,7 +31118,7 @@ export const CATALOG = [
     "avg_overall_rating": "",
     "hashtag": "",
     "dilemma_copy": "",
-    "upc": "0602004106599"
+    "upc": "602004106599"
   },
   {
     "sku": "TT671US",
@@ -31158,7 +31158,7 @@ export const CATALOG = [
     "avg_overall_rating": "",
     "hashtag": "",
     "dilemma_copy": "",
-    "upc": "0602004107350"
+    "upc": "602004107350"
   },
   {
     "sku": "TT651US",
@@ -31198,7 +31198,7 @@ export const CATALOG = [
     "avg_overall_rating": "",
     "hashtag": "",
     "dilemma_copy": "",
-    "upc": "0602004104465"
+    "upc": "602004104465"
   },
   {
     "sku": "BM104",
@@ -31238,7 +31238,7 @@ export const CATALOG = [
     "avg_overall_rating": "",
     "hashtag": "",
     "dilemma_copy": "",
-    "upc": "0602004096838"
+    "upc": "602004096838"
   },
   {
     "sku": "BM105",
@@ -31278,7 +31278,7 @@ export const CATALOG = [
     "avg_overall_rating": "",
     "hashtag": "",
     "dilemma_copy": "",
-    "upc": "0602004096845"
+    "upc": "602004096845"
   },
   {
     "sku": "BM106",
@@ -31318,7 +31318,7 @@ export const CATALOG = [
     "avg_overall_rating": "",
     "hashtag": "",
     "dilemma_copy": "",
-    "upc": "0602004096852"
+    "upc": "602004096852"
   },
   {
     "sku": "BM107",
@@ -31358,7 +31358,7 @@ export const CATALOG = [
     "avg_overall_rating": "",
     "hashtag": "",
     "dilemma_copy": "",
-    "upc": "0602004096869"
+    "upc": "602004096869"
   },
   {
     "sku": "BM108",
@@ -31398,7 +31398,7 @@ export const CATALOG = [
     "avg_overall_rating": "",
     "hashtag": "",
     "dilemma_copy": "",
-    "upc": "0602004096876"
+    "upc": "602004096876"
   },
   {
     "sku": "BM77",
@@ -31438,7 +31438,7 @@ export const CATALOG = [
     "avg_overall_rating": "",
     "hashtag": "",
     "dilemma_copy": "",
-    "upc": "0602004096883"
+    "upc": "602004096883"
   },
   {
     "sku": "BM110",
@@ -31478,7 +31478,7 @@ export const CATALOG = [
     "avg_overall_rating": "",
     "hashtag": "",
     "dilemma_copy": "",
-    "upc": "0602004096890"
+    "upc": "602004096890"
   },
   {
     "sku": "US60",
@@ -31558,7 +31558,7 @@ export const CATALOG = [
     "avg_overall_rating": "",
     "hashtag": "",
     "dilemma_copy": "",
-    "upc": "0602004108302"
+    "upc": "602004108302"
   },
   {
     "sku": "TT624US",
@@ -31598,7 +31598,7 @@ export const CATALOG = [
     "avg_overall_rating": "",
     "hashtag": "",
     "dilemma_copy": "",
-    "upc": "0602004105318"
+    "upc": "602004105318"
   },
   {
     "sku": "TT659US",
@@ -31638,7 +31638,7 @@ export const CATALOG = [
     "avg_overall_rating": "",
     "hashtag": "",
     "dilemma_copy": "",
-    "upc": "0602004105561"
+    "upc": "602004105561"
   },
   {
     "sku": "TT672US",
@@ -31678,7 +31678,7 @@ export const CATALOG = [
     "avg_overall_rating": "",
     "hashtag": "",
     "dilemma_copy": "",
-    "upc": "0602004108326"
+    "upc": "602004108326"
   },
   {
     "sku": "TT662US",
@@ -31718,7 +31718,7 @@ export const CATALOG = [
     "avg_overall_rating": "",
     "hashtag": "",
     "dilemma_copy": "",
-    "upc": "0602004109576"
+    "upc": "602004109576"
   },
   {
     "sku": "TT663US",
@@ -31758,7 +31758,7 @@ export const CATALOG = [
     "avg_overall_rating": "",
     "hashtag": "",
     "dilemma_copy": "",
-    "upc": "0602004109583"
+    "upc": "602004109583"
   },
   {
     "sku": "TOA195",
@@ -31798,7 +31798,7 @@ export const CATALOG = [
     "avg_overall_rating": "",
     "hashtag": "",
     "dilemma_copy": "",
-    "upc": "0602004100658"
+    "upc": "602004100658"
   },
   {
     "sku": "TT665",
@@ -31838,7 +31838,7 @@ export const CATALOG = [
     "avg_overall_rating": "",
     "hashtag": "",
     "dilemma_copy": "",
-    "upc": "0602004107084"
+    "upc": "602004107084"
   },
   {
     "sku": "TT666",
@@ -31878,7 +31878,7 @@ export const CATALOG = [
     "avg_overall_rating": "",
     "hashtag": "",
     "dilemma_copy": "",
-    "upc": "0602004107091"
+    "upc": "602004107091"
   },
   {
     "sku": "TT667",
@@ -31918,7 +31918,7 @@ export const CATALOG = [
     "avg_overall_rating": "",
     "hashtag": "",
     "dilemma_copy": "",
-    "upc": "0602004107107"
+    "upc": "602004107107"
   },
   {
     "sku": "TT648",
@@ -31958,7 +31958,7 @@ export const CATALOG = [
     "avg_overall_rating": "",
     "hashtag": "",
     "dilemma_copy": "",
-    "upc": "0602004104212"
+    "upc": "602004104212"
   },
   {
     "sku": "TT793",
@@ -31998,7 +31998,7 @@ export const CATALOG = [
     "avg_overall_rating": "",
     "hashtag": "",
     "dilemma_copy": "",
-    "upc": "0602004117205"
+    "upc": "602004117205"
   },
   {
     "sku": "TT794",
@@ -32038,7 +32038,7 @@ export const CATALOG = [
     "avg_overall_rating": "",
     "hashtag": "",
     "dilemma_copy": "",
-    "upc": "0602004117212"
+    "upc": "602004117212"
   },
   {
     "sku": "TT795",
@@ -32078,7 +32078,7 @@ export const CATALOG = [
     "avg_overall_rating": "",
     "hashtag": "",
     "dilemma_copy": "",
-    "upc": "0602004117229"
+    "upc": "602004117229"
   },
   {
     "sku": "TT796",
@@ -32118,7 +32118,7 @@ export const CATALOG = [
     "avg_overall_rating": "",
     "hashtag": "",
     "dilemma_copy": "",
-    "upc": "0602004117236"
+    "upc": "602004117236"
   },
   {
     "sku": "TT798",
@@ -32158,7 +32158,7 @@ export const CATALOG = [
     "avg_overall_rating": "",
     "hashtag": "",
     "dilemma_copy": "",
-    "upc": "0602004117250"
+    "upc": "602004117250"
   },
   {
     "sku": "TT799",
@@ -32198,7 +32198,7 @@ export const CATALOG = [
     "avg_overall_rating": "",
     "hashtag": "",
     "dilemma_copy": "",
-    "upc": "0602004117267"
+    "upc": "602004117267"
   },
   {
     "sku": "TT800",
@@ -32238,7 +32238,7 @@ export const CATALOG = [
     "avg_overall_rating": "",
     "hashtag": "",
     "dilemma_copy": "",
-    "upc": "0602004117274"
+    "upc": "602004117274"
   },
   {
     "sku": "TOA204",
@@ -32278,7 +32278,7 @@ export const CATALOG = [
     "avg_overall_rating": "",
     "hashtag": "",
     "dilemma_copy": "",
-    "upc": "0602004108418"
+    "upc": "602004108418"
   },
   {
     "sku": "TOA177",
@@ -32318,7 +32318,7 @@ export const CATALOG = [
     "avg_overall_rating": "",
     "hashtag": "",
     "dilemma_copy": "",
-    "upc": "0602004099839"
+    "upc": "602004099839"
   },
   {
     "sku": "TOA183",
@@ -32358,7 +32358,7 @@ export const CATALOG = [
     "avg_overall_rating": "",
     "hashtag": "",
     "dilemma_copy": "",
-    "upc": "0602004099891"
+    "upc": "602004099891"
   },
   {
     "sku": "TT673US",
@@ -32398,7 +32398,7 @@ export const CATALOG = [
     "avg_overall_rating": "",
     "hashtag": "",
     "dilemma_copy": "",
-    "upc": "0602004109569"
+    "upc": "602004109569"
   },
   {
     "sku": "FM46",
@@ -32438,7 +32438,7 @@ export const CATALOG = [
     "avg_overall_rating": "",
     "hashtag": "",
     "dilemma_copy": "",
-    "upc": "0602004075628"
+    "upc": "602004075628"
   },
   {
     "sku": "IB74",
@@ -32478,7 +32478,7 @@ export const CATALOG = [
     "avg_overall_rating": "",
     "hashtag": "",
     "dilemma_copy": "",
-    "upc": "0602004070388"
+    "upc": "602004070388"
   },
   {
     "sku": "FM135",
@@ -32518,7 +32518,7 @@ export const CATALOG = [
     "avg_overall_rating": "",
     "hashtag": "",
     "dilemma_copy": "",
-    "upc": "0602004104250"
+    "upc": "602004104250"
   },
   {
     "sku": "FM136",
@@ -32558,7 +32558,7 @@ export const CATALOG = [
     "avg_overall_rating": "",
     "hashtag": "",
     "dilemma_copy": "",
-    "upc": "0602004104267"
+    "upc": "602004104267"
   },
   {
     "sku": "FM32",
@@ -32598,7 +32598,7 @@ export const CATALOG = [
     "avg_overall_rating": "",
     "hashtag": "",
     "dilemma_copy": "",
-    "upc": "0602004072849"
+    "upc": "602004072849"
   },
   {
     "sku": "FM134",
@@ -32638,7 +32638,7 @@ export const CATALOG = [
     "avg_overall_rating": "",
     "hashtag": "",
     "dilemma_copy": "",
-    "upc": "0602004104069"
+    "upc": "602004104069"
   },
   {
     "sku": "TOA182",
@@ -32678,7 +32678,7 @@ export const CATALOG = [
     "avg_overall_rating": "",
     "hashtag": "",
     "dilemma_copy": "",
-    "upc": "0602004099884"
+    "upc": "602004099884"
   },
   {
     "sku": "TT797",
@@ -32718,7 +32718,7 @@ export const CATALOG = [
     "avg_overall_rating": "",
     "hashtag": "",
     "dilemma_copy": "",
-    "upc": "0602004117243"
+    "upc": "602004117243"
   },
   {
     "sku": "BM157",
@@ -32758,7 +32758,7 @@ export const CATALOG = [
     "avg_overall_rating": "",
     "hashtag": "",
     "dilemma_copy": "",
-    "upc": "0602004105073"
+    "upc": "602004105073"
   },
   {
     "sku": "BM158",
@@ -32798,7 +32798,7 @@ export const CATALOG = [
     "avg_overall_rating": "",
     "hashtag": "",
     "dilemma_copy": "",
-    "upc": "0602004105080"
+    "upc": "602004105080"
   },
   {
     "sku": "BM159",
@@ -32838,7 +32838,7 @@ export const CATALOG = [
     "avg_overall_rating": "",
     "hashtag": "",
     "dilemma_copy": "",
-    "upc": "0602004105097"
+    "upc": "602004105097"
   },
   {
     "sku": "BM160",
@@ -32878,7 +32878,7 @@ export const CATALOG = [
     "avg_overall_rating": "",
     "hashtag": "",
     "dilemma_copy": "",
-    "upc": "0602004105103"
+    "upc": "602004105103"
   },
   {
     "sku": "BM161",
@@ -32918,7 +32918,7 @@ export const CATALOG = [
     "avg_overall_rating": "",
     "hashtag": "",
     "dilemma_copy": "",
-    "upc": "0602004105110"
+    "upc": "602004105110"
   },
   {
     "sku": "BM162",
@@ -32958,7 +32958,7 @@ export const CATALOG = [
     "avg_overall_rating": "",
     "hashtag": "",
     "dilemma_copy": "",
-    "upc": "0602004105127"
+    "upc": "602004105127"
   },
   {
     "sku": "SA281",
@@ -32998,7 +32998,7 @@ export const CATALOG = [
     "avg_overall_rating": "",
     "hashtag": "",
     "dilemma_copy": "",
-    "upc": "0602004089496"
+    "upc": "602004089496"
   },
   {
     "sku": "SA291",
@@ -33038,7 +33038,7 @@ export const CATALOG = [
     "avg_overall_rating": "",
     "hashtag": "",
     "dilemma_copy": "",
-    "upc": "0602004092984"
+    "upc": "602004092984"
   },
   {
     "sku": "SA293",
@@ -33078,7 +33078,7 @@ export const CATALOG = [
     "avg_overall_rating": "",
     "hashtag": "",
     "dilemma_copy": "",
-    "upc": "0602004093004"
+    "upc": "602004093004"
   },
   {
     "sku": "FM142",
@@ -33118,7 +33118,7 @@ export const CATALOG = [
     "avg_overall_rating": "",
     "hashtag": "",
     "dilemma_copy": "",
-    "upc": "0602004105066"
+    "upc": "602004105066"
   },
   {
     "sku": "TT639",
@@ -33158,7 +33158,7 @@ export const CATALOG = [
     "avg_overall_rating": "",
     "hashtag": "",
     "dilemma_copy": "",
-    "upc": "0602004104120"
+    "upc": "602004104120"
   },
   {
     "sku": "TT640",
@@ -33198,7 +33198,7 @@ export const CATALOG = [
     "avg_overall_rating": "",
     "hashtag": "",
     "dilemma_copy": "",
-    "upc": "0602004104137"
+    "upc": "602004104137"
   },
   {
     "sku": "TT641",
@@ -33238,7 +33238,7 @@ export const CATALOG = [
     "avg_overall_rating": "",
     "hashtag": "",
     "dilemma_copy": "",
-    "upc": "0602004104144"
+    "upc": "602004104144"
   },
   {
     "sku": "TT642",
@@ -33278,7 +33278,7 @@ export const CATALOG = [
     "avg_overall_rating": "",
     "hashtag": "",
     "dilemma_copy": "",
-    "upc": "0602004104151"
+    "upc": "602004104151"
   },
   {
     "sku": "TT643",
@@ -33318,7 +33318,7 @@ export const CATALOG = [
     "avg_overall_rating": "",
     "hashtag": "",
     "dilemma_copy": "",
-    "upc": "0602004104168"
+    "upc": "602004104168"
   },
   {
     "sku": "TT644",
@@ -33358,7 +33358,7 @@ export const CATALOG = [
     "avg_overall_rating": "",
     "hashtag": "",
     "dilemma_copy": "",
-    "upc": "0602004104175"
+    "upc": "602004104175"
   },
   {
     "sku": "TT645",
@@ -33398,7 +33398,7 @@ export const CATALOG = [
     "avg_overall_rating": "",
     "hashtag": "",
     "dilemma_copy": "",
-    "upc": "0602004104182"
+    "upc": "602004104182"
   },
   {
     "sku": "TT646",
@@ -33438,7 +33438,7 @@ export const CATALOG = [
     "avg_overall_rating": "",
     "hashtag": "",
     "dilemma_copy": "",
-    "upc": "0602004104199"
+    "upc": "602004104199"
   },
   {
     "sku": "BM173",
@@ -33478,7 +33478,7 @@ export const CATALOG = [
     "avg_overall_rating": "",
     "hashtag": "",
     "dilemma_copy": "",
-    "upc": "0602004114082"
+    "upc": "602004114082"
   },
   {
     "sku": "BM174",
@@ -33518,7 +33518,7 @@ export const CATALOG = [
     "avg_overall_rating": "",
     "hashtag": "",
     "dilemma_copy": "",
-    "upc": "0602004114112"
+    "upc": "602004114112"
   },
   {
     "sku": "BM175",
@@ -33558,7 +33558,7 @@ export const CATALOG = [
     "avg_overall_rating": "",
     "hashtag": "",
     "dilemma_copy": "",
-    "upc": "0602004114143"
+    "upc": "602004114143"
   },
   {
     "sku": "BM176",
@@ -33598,7 +33598,7 @@ export const CATALOG = [
     "avg_overall_rating": "",
     "hashtag": "",
     "dilemma_copy": "",
-    "upc": "0602004114174"
+    "upc": "602004114174"
   },
   {
     "sku": "BM177",
@@ -33638,7 +33638,7 @@ export const CATALOG = [
     "avg_overall_rating": "",
     "hashtag": "preciselymybrow",
     "dilemma_copy": "",
-    "upc": "0602004114204"
+    "upc": "602004114204"
   },
   {
     "sku": "BM178",
@@ -33678,7 +33678,7 @@ export const CATALOG = [
     "avg_overall_rating": "",
     "hashtag": "preciselymybrow",
     "dilemma_copy": "",
-    "upc": "0602004114273"
+    "upc": "602004114273"
   },
   {
     "sku": "BM179",
@@ -33718,7 +33718,7 @@ export const CATALOG = [
     "avg_overall_rating": "",
     "hashtag": "preciselymybrow",
     "dilemma_copy": "",
-    "upc": "0602004112750"
+    "upc": "602004112750"
   },
   {
     "sku": "BM180",
@@ -33758,7 +33758,7 @@ export const CATALOG = [
     "avg_overall_rating": "",
     "hashtag": "preciselymybrow",
     "dilemma_copy": "",
-    "upc": "0602004112774"
+    "upc": "602004112774"
   },
   {
     "sku": "TOA179",
@@ -33798,7 +33798,7 @@ export const CATALOG = [
     "avg_overall_rating": "",
     "hashtag": "",
     "dilemma_copy": "",
-    "upc": "0602004099853"
+    "upc": "602004099853"
   },
   {
     "sku": "TOA176",
@@ -33838,7 +33838,7 @@ export const CATALOG = [
     "avg_overall_rating": "",
     "hashtag": "",
     "dilemma_copy": "",
-    "upc": "0602004099822"
+    "upc": "602004099822"
   },
   {
     "sku": "TOA175",
@@ -33878,7 +33878,7 @@ export const CATALOG = [
     "avg_overall_rating": "",
     "hashtag": "",
     "dilemma_copy": "",
-    "upc": "0602004099815"
+    "upc": "602004099815"
   },
   {
     "sku": "BM181",
@@ -33918,7 +33918,7 @@ export const CATALOG = [
     "avg_overall_rating": "",
     "hashtag": "",
     "dilemma_copy": "",
-    "upc": "0602004114303"
+    "upc": "602004114303"
   },
   {
     "sku": "CL146",
@@ -33958,7 +33958,7 @@ export const CATALOG = [
     "avg_overall_rating": "",
     "hashtag": "",
     "dilemma_copy": "",
-    "upc": "0602004119216"
+    "upc": "602004119216"
   },
   {
     "sku": "CL144",
@@ -33998,7 +33998,7 @@ export const CATALOG = [
     "avg_overall_rating": "",
     "hashtag": "",
     "dilemma_copy": "",
-    "upc": "0602004119193"
+    "upc": "602004119193"
   },
   {
     "sku": "CL148",
@@ -34038,7 +34038,7 @@ export const CATALOG = [
     "avg_overall_rating": "",
     "hashtag": "",
     "dilemma_copy": "",
-    "upc": "0602004119230"
+    "upc": "602004119230"
   },
   {
     "sku": "CL142",
@@ -34078,7 +34078,7 @@ export const CATALOG = [
     "avg_overall_rating": "",
     "hashtag": "",
     "dilemma_copy": "",
-    "upc": "0602004119179"
+    "upc": "602004119179"
   },
   {
     "sku": "CL143",
@@ -34118,7 +34118,7 @@ export const CATALOG = [
     "avg_overall_rating": "",
     "hashtag": "",
     "dilemma_copy": "",
-    "upc": "0602004119186"
+    "upc": "602004119186"
   },
   {
     "sku": "CL147",
@@ -34158,7 +34158,7 @@ export const CATALOG = [
     "avg_overall_rating": "",
     "hashtag": "",
     "dilemma_copy": "",
-    "upc": "0602004119223"
+    "upc": "602004119223"
   },
   {
     "sku": "CL145",
@@ -34198,7 +34198,7 @@ export const CATALOG = [
     "avg_overall_rating": "",
     "hashtag": "",
     "dilemma_copy": "",
-    "upc": "0602004119209"
+    "upc": "602004119209"
   },
   {
     "sku": "BWX",
@@ -34318,7 +34318,7 @@ export const CATALOG = [
     "avg_overall_rating": "",
     "hashtag": "",
     "dilemma_copy": "",
-    "upc": "0602004103321"
+    "upc": "602004103321"
   },
   {
     "sku": "TT675",
@@ -34358,7 +34358,7 @@ export const CATALOG = [
     "avg_overall_rating": "",
     "hashtag": "",
     "dilemma_copy": "",
-    "upc": "0602004107367"
+    "upc": "602004107367"
   },
   {
     "sku": "TT660",
@@ -34398,7 +34398,7 @@ export const CATALOG = [
     "avg_overall_rating": "",
     "hashtag": "",
     "dilemma_copy": "",
-    "upc": "08797458825217"
+    "upc": "8797458825217"
   },
   {
     "sku": "TT535US",
@@ -34438,7 +34438,7 @@ export const CATALOG = [
     "avg_overall_rating": "",
     "hashtag": "",
     "dilemma_copy": "",
-    "upc": "0602004094025"
+    "upc": "602004094025"
   },
   {
     "sku": "TT536US",
@@ -34478,7 +34478,7 @@ export const CATALOG = [
     "avg_overall_rating": "",
     "hashtag": "",
     "dilemma_copy": "",
-    "upc": "0602004094032"
+    "upc": "602004094032"
   },
   {
     "sku": "TT537US",
@@ -34518,7 +34518,7 @@ export const CATALOG = [
     "avg_overall_rating": "",
     "hashtag": "",
     "dilemma_copy": "",
-    "upc": "0602004094049"
+    "upc": "602004094049"
   },
   {
     "sku": "TOA186",
@@ -34558,7 +34558,7 @@ export const CATALOG = [
     "avg_overall_rating": "",
     "hashtag": "",
     "dilemma_copy": "",
-    "upc": "0602004099921"
+    "upc": "602004099921"
   },
   {
     "sku": "CL123",
@@ -34598,7 +34598,7 @@ export const CATALOG = [
     "avg_overall_rating": "",
     "hashtag": "",
     "dilemma_copy": "",
-    "upc": "0602004118530"
+    "upc": "602004118530"
   },
   {
     "sku": "TOA209",
@@ -34638,7 +34638,7 @@ export const CATALOG = [
     "avg_overall_rating": "",
     "hashtag": "",
     "dilemma_copy": "",
-    "upc": "0602004116499"
+    "upc": "602004116499"
   },
   {
     "sku": "CL124",
@@ -34678,7 +34678,7 @@ export const CATALOG = [
     "avg_overall_rating": "",
     "hashtag": "",
     "dilemma_copy": "Need to reposition or switch to a different phone case? No problem! This reusable PopSocket can be removed by flattening it and peeling it up slowly from one side of the sticky base.  ",
-    "upc": "0602004118547"
+    "upc": "602004118547"
   },
   {
     "sku": "CL122",
@@ -34718,7 +34718,7 @@ export const CATALOG = [
     "avg_overall_rating": "",
     "hashtag": "",
     "dilemma_copy": "",
-    "upc": "0602004118523"
+    "upc": "602004118523"
   },
   {
     "sku": "EM53",
@@ -34758,7 +34758,7 @@ export const CATALOG = [
     "avg_overall_rating": "",
     "hashtag": "",
     "dilemma_copy": "",
-    "upc": "0602004105455"
+    "upc": "602004105455"
   },
   {
     "sku": "EM54",
@@ -34798,7 +34798,7 @@ export const CATALOG = [
     "avg_overall_rating": "",
     "hashtag": "",
     "dilemma_copy": "",
-    "upc": "0602004105462"
+    "upc": "602004105462"
   },
   {
     "sku": "EM55",
@@ -34838,7 +34838,7 @@ export const CATALOG = [
     "avg_overall_rating": "",
     "hashtag": "",
     "dilemma_copy": "",
-    "upc": "0602004105479"
+    "upc": "602004105479"
   },
   {
     "sku": "EM56",
@@ -34878,7 +34878,7 @@ export const CATALOG = [
     "avg_overall_rating": "",
     "hashtag": "",
     "dilemma_copy": "",
-    "upc": "0602004105486"
+    "upc": "602004105486"
   },
   {
     "sku": "FM174US",
@@ -34918,7 +34918,7 @@ export const CATALOG = [
     "avg_overall_rating": "",
     "hashtag": "",
     "dilemma_copy": "",
-    "upc": "0602004111111"
+    "upc": "602004111111"
   },
   {
     "sku": "FM175US",
@@ -34958,7 +34958,7 @@ export const CATALOG = [
     "avg_overall_rating": "",
     "hashtag": "",
     "dilemma_copy": "",
-    "upc": "0602004111128"
+    "upc": "602004111128"
   },
   {
     "sku": "FM176US",
@@ -34998,7 +34998,7 @@ export const CATALOG = [
     "avg_overall_rating": "",
     "hashtag": "",
     "dilemma_copy": "",
-    "upc": "0602004111135"
+    "upc": "602004111135"
   },
   {
     "sku": "FM177US",
@@ -35038,7 +35038,7 @@ export const CATALOG = [
     "avg_overall_rating": "",
     "hashtag": "",
     "dilemma_copy": "",
-    "upc": "0602004111142"
+    "upc": "602004111142"
   },
   {
     "sku": "FM179US",
@@ -35078,7 +35078,7 @@ export const CATALOG = [
     "avg_overall_rating": "",
     "hashtag": "",
     "dilemma_copy": "",
-    "upc": "0602004111166"
+    "upc": "602004111166"
   },
   {
     "sku": "FM182US",
@@ -35118,7 +35118,7 @@ export const CATALOG = [
     "avg_overall_rating": "",
     "hashtag": "",
     "dilemma_copy": "",
-    "upc": "0602004111197"
+    "upc": "602004111197"
   },
   {
     "sku": "FM184US",
@@ -35158,7 +35158,7 @@ export const CATALOG = [
     "avg_overall_rating": "",
     "hashtag": "",
     "dilemma_copy": "",
-    "upc": "0602004111210"
+    "upc": "602004111210"
   },
   {
     "sku": "FM157",
@@ -35198,7 +35198,7 @@ export const CATALOG = [
     "avg_overall_rating": "",
     "hashtag": "",
     "dilemma_copy": "",
-    "upc": "0602004106193"
+    "upc": "602004106193"
   },
   {
     "sku": "FM158",
@@ -35238,7 +35238,7 @@ export const CATALOG = [
     "avg_overall_rating": "",
     "hashtag": "",
     "dilemma_copy": "",
-    "upc": "0602004106209"
+    "upc": "602004106209"
   },
   {
     "sku": "FM159",
@@ -35278,7 +35278,7 @@ export const CATALOG = [
     "avg_overall_rating": "",
     "hashtag": "",
     "dilemma_copy": "",
-    "upc": "0602004106216"
+    "upc": "602004106216"
   },
   {
     "sku": "FM160",
@@ -35318,7 +35318,7 @@ export const CATALOG = [
     "avg_overall_rating": "",
     "hashtag": "",
     "dilemma_copy": "",
-    "upc": "0602004106223"
+    "upc": "602004106223"
   },
   {
     "sku": "FM161",
@@ -35358,7 +35358,7 @@ export const CATALOG = [
     "avg_overall_rating": "",
     "hashtag": "",
     "dilemma_copy": "",
-    "upc": "0602004106230"
+    "upc": "602004106230"
   },
   {
     "sku": "FM162",
@@ -35398,7 +35398,7 @@ export const CATALOG = [
     "avg_overall_rating": "",
     "hashtag": "",
     "dilemma_copy": "",
-    "upc": "0602004106247"
+    "upc": "602004106247"
   },
   {
     "sku": "FM163",
@@ -35438,7 +35438,7 @@ export const CATALOG = [
     "avg_overall_rating": "",
     "hashtag": "",
     "dilemma_copy": "",
-    "upc": "0602004106254"
+    "upc": "602004106254"
   },
   {
     "sku": "FM164",
@@ -35478,7 +35478,7 @@ export const CATALOG = [
     "avg_overall_rating": "",
     "hashtag": "",
     "dilemma_copy": "",
-    "upc": "0602004106261"
+    "upc": "602004106261"
   },
   {
     "sku": "FM165",
@@ -35518,7 +35518,7 @@ export const CATALOG = [
     "avg_overall_rating": "",
     "hashtag": "",
     "dilemma_copy": "",
-    "upc": "0602004106278"
+    "upc": "602004106278"
   },
   {
     "sku": "FM166",
@@ -35558,7 +35558,7 @@ export const CATALOG = [
     "avg_overall_rating": "",
     "hashtag": "",
     "dilemma_copy": "",
-    "upc": "0602004106285"
+    "upc": "602004106285"
   },
   {
     "sku": "FM167",
@@ -35598,7 +35598,7 @@ export const CATALOG = [
     "avg_overall_rating": "",
     "hashtag": "",
     "dilemma_copy": "",
-    "upc": "0602004106292"
+    "upc": "602004106292"
   },
   {
     "sku": "FM168",
@@ -35638,7 +35638,7 @@ export const CATALOG = [
     "avg_overall_rating": "",
     "hashtag": "",
     "dilemma_copy": "",
-    "upc": "0602004106308"
+    "upc": "602004106308"
   },
   {
     "sku": "FM145US",
@@ -35678,7 +35678,7 @@ export const CATALOG = [
     "avg_overall_rating": "",
     "hashtag": "",
     "dilemma_copy": "",
-    "upc": "0602004105714"
+    "upc": "602004105714"
   },
   {
     "sku": "FM146US",
@@ -35718,7 +35718,7 @@ export const CATALOG = [
     "avg_overall_rating": "",
     "hashtag": "",
     "dilemma_copy": "",
-    "upc": "0602004105721"
+    "upc": "602004105721"
   },
   {
     "sku": "FM147US",
@@ -35758,7 +35758,7 @@ export const CATALOG = [
     "avg_overall_rating": "",
     "hashtag": "",
     "dilemma_copy": "",
-    "upc": "0602004105738"
+    "upc": "602004105738"
   },
   {
     "sku": "FM148US",
@@ -35798,7 +35798,7 @@ export const CATALOG = [
     "avg_overall_rating": "",
     "hashtag": "",
     "dilemma_copy": "",
-    "upc": "0602004105745"
+    "upc": "602004105745"
   },
   {
     "sku": "FM149US",
@@ -35838,7 +35838,7 @@ export const CATALOG = [
     "avg_overall_rating": "",
     "hashtag": "",
     "dilemma_copy": "",
-    "upc": "0602004105752"
+    "upc": "602004105752"
   },
   {
     "sku": "FM150US",
@@ -35878,7 +35878,7 @@ export const CATALOG = [
     "avg_overall_rating": "",
     "hashtag": "",
     "dilemma_copy": "",
-    "upc": "0602004105769"
+    "upc": "602004105769"
   },
   {
     "sku": "FM151US",
@@ -35918,7 +35918,7 @@ export const CATALOG = [
     "avg_overall_rating": "",
     "hashtag": "",
     "dilemma_copy": "",
-    "upc": "0602004105776"
+    "upc": "602004105776"
   },
   {
     "sku": "FM152US",
@@ -35958,7 +35958,7 @@ export const CATALOG = [
     "avg_overall_rating": "",
     "hashtag": "",
     "dilemma_copy": "",
-    "upc": "0602004105783"
+    "upc": "602004105783"
   },
   {
     "sku": "FM153US",
@@ -35998,7 +35998,7 @@ export const CATALOG = [
     "avg_overall_rating": "",
     "hashtag": "",
     "dilemma_copy": "",
-    "upc": "0602004105790"
+    "upc": "602004105790"
   },
   {
     "sku": "FM154US",
@@ -36038,7 +36038,7 @@ export const CATALOG = [
     "avg_overall_rating": "",
     "hashtag": "",
     "dilemma_copy": "",
-    "upc": "0602004105806"
+    "upc": "602004105806"
   },
   {
     "sku": "FM155US",
@@ -36078,7 +36078,7 @@ export const CATALOG = [
     "avg_overall_rating": "",
     "hashtag": "",
     "dilemma_copy": "",
-    "upc": "0602004105813"
+    "upc": "602004105813"
   },
   {
     "sku": "FM156US",
@@ -36118,7 +36118,7 @@ export const CATALOG = [
     "avg_overall_rating": "",
     "hashtag": "",
     "dilemma_copy": "",
-    "upc": "0602004105820"
+    "upc": "602004105820"
   },
   {
     "sku": "",
@@ -36198,7 +36198,7 @@ export const CATALOG = [
     "avg_overall_rating": "",
     "hashtag": "",
     "dilemma_copy": "",
-    "upc": "0602004117199"
+    "upc": "602004117199"
   },
   {
     "sku": "EM57",
@@ -36238,7 +36238,7 @@ export const CATALOG = [
     "avg_overall_rating": "",
     "hashtag": "",
     "dilemma_copy": "",
-    "upc": "0602004106704"
+    "upc": "602004106704"
   },
   {
     "sku": "SD146US",
@@ -36278,7 +36278,7 @@ export const CATALOG = [
     "avg_overall_rating": "",
     "hashtag": "",
     "dilemma_copy": "",
-    "upc": "0602004108593"
+    "upc": "602004108593"
   },
   {
     "sku": "SD177US",
@@ -36318,7 +36318,7 @@ export const CATALOG = [
     "avg_overall_rating": "",
     "hashtag": "",
     "dilemma_copy": "",
-    "upc": "0602004108616"
+    "upc": "602004108616"
   },
   {
     "sku": "SD150US",
@@ -36358,7 +36358,7 @@ export const CATALOG = [
     "avg_overall_rating": "",
     "hashtag": "",
     "dilemma_copy": "",
-    "upc": "0602004108647"
+    "upc": "602004108647"
   },
   {
     "sku": "SD151US",
@@ -36398,7 +36398,7 @@ export const CATALOG = [
     "avg_overall_rating": "",
     "hashtag": "",
     "dilemma_copy": "",
-    "upc": "0602004108654"
+    "upc": "602004108654"
   },
   {
     "sku": "SD178US",
@@ -36438,7 +36438,7 @@ export const CATALOG = [
     "avg_overall_rating": "",
     "hashtag": "",
     "dilemma_copy": "",
-    "upc": "0602004108661"
+    "upc": "602004108661"
   },
   {
     "sku": "SD180",
@@ -36478,7 +36478,7 @@ export const CATALOG = [
     "avg_overall_rating": "",
     "hashtag": "",
     "dilemma_copy": "",
-    "upc": "0602004108845"
+    "upc": "602004108845"
   },
   {
     "sku": "SD174",
@@ -36518,7 +36518,7 @@ export const CATALOG = [
     "avg_overall_rating": "",
     "hashtag": "",
     "dilemma_copy": "",
-    "upc": "0602004106483"
+    "upc": "602004106483"
   },
   {
     "sku": "SD173",
@@ -36558,7 +36558,7 @@ export const CATALOG = [
     "avg_overall_rating": "",
     "hashtag": "",
     "dilemma_copy": "",
-    "upc": "0602004106476"
+    "upc": "602004106476"
   },
   {
     "sku": "SD179",
@@ -36598,7 +36598,7 @@ export const CATALOG = [
     "avg_overall_rating": "",
     "hashtag": "",
     "dilemma_copy": "",
-    "upc": "0602004108838"
+    "upc": "602004108838"
   },
   {
     "sku": "SD169",
@@ -36638,7 +36638,7 @@ export const CATALOG = [
     "avg_overall_rating": "",
     "hashtag": "",
     "dilemma_copy": "",
-    "upc": "0602004106438"
+    "upc": "602004106438"
   },
   {
     "sku": "US62",
@@ -36678,7 +36678,7 @@ export const CATALOG = [
     "avg_overall_rating": "",
     "hashtag": "",
     "dilemma_copy": "",
-    "upc": "0602004124753"
+    "upc": "602004124753"
   },
   {
     "sku": "US61",
@@ -36718,7 +36718,7 @@ export const CATALOG = [
     "avg_overall_rating": "",
     "hashtag": "",
     "dilemma_copy": "",
-    "upc": "0602004124746"
+    "upc": "602004124746"
   },
   {
     "sku": "US63",
@@ -36758,7 +36758,7 @@ export const CATALOG = [
     "avg_overall_rating": "",
     "hashtag": "",
     "dilemma_copy": "",
-    "upc": "0602004124760"
+    "upc": "602004124760"
   },
   {
     "sku": "US64",
@@ -36798,7 +36798,7 @@ export const CATALOG = [
     "avg_overall_rating": "",
     "hashtag": "",
     "dilemma_copy": "",
-    "upc": "0602004124777"
+    "upc": "602004124777"
   },
   {
     "sku": "US65",
@@ -36838,7 +36838,7 @@ export const CATALOG = [
     "avg_overall_rating": "",
     "hashtag": "",
     "dilemma_copy": "",
-    "upc": "0602004124784"
+    "upc": "602004124784"
   },
   {
     "sku": "US66",
@@ -36878,7 +36878,7 @@ export const CATALOG = [
     "avg_overall_rating": "",
     "hashtag": "",
     "dilemma_copy": "",
-    "upc": "0602004124791"
+    "upc": "602004124791"
   },
   {
     "sku": "US67",
@@ -36918,7 +36918,7 @@ export const CATALOG = [
     "avg_overall_rating": "",
     "hashtag": "",
     "dilemma_copy": "",
-    "upc": "0602004124807"
+    "upc": "602004124807"
   },
   {
     "sku": "US68",
@@ -36958,6 +36958,6 @@ export const CATALOG = [
     "avg_overall_rating": "",
     "hashtag": "",
     "dilemma_copy": "",
-    "upc": "0602004124814"
+    "upc": "602004124814"
   }
 ]

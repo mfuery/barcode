@@ -8,7 +8,6 @@ class Result extends Component {
 
   render() {
     let result = this.props.result;
-    // console.log(result)
 
     if (!result) {
       return (
@@ -17,8 +16,8 @@ class Result extends Component {
             <button onClick={this.props.onRescan}
                     className="button"
                     style={{margin: "40px"}}>RESCAN</button>
-            <h1>Sorry Gorgeous, I couldn't find that</h1>
-            <h2> </h2>
+            <h1>Scan a Benefit product, Babe</h1>
+            <h3>{this.props.code}</h3>
           </div>
         </div>
       );

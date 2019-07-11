@@ -11,6 +11,7 @@ class App extends Component {
     this.state = {
       scanning: true,
       result: null,
+      code: null
     };
     this._loadCatalog()
     window.addEventListener('keydown', this._onKeyDown.bind(this));
@@ -19,25 +20,27 @@ class App extends Component {
   _loadCatalog() {
     let newCat = {};
     CATALOG.forEach((item) => {
-      newCat[item.upc] = item
+      newCat[parseInt(item.upc)] = item
     });
     this.catalog = newCat
-    // console.log(newCat)
   }
 
   _rescan() {
     this.setState({
       scanning: !this.state.scanning,
       result: null,
+      code: null,
     });
   }
 
   _onDetected(result) {
+    const product = this.catalog[parseInt(result.codeResult.code)] || null;
     this.setState({
       scanning: false,
-      result: this.catalog[result.codeResult.code] || null,
+      result: product,
+      code: result.codeResult.code,
     });
-    if (result) {
+    if (product) {
       Quagga.stop();
     }
   }
@@ -66,8 +69,6 @@ class App extends Component {
   render() {
     let result = '';
     let scanner = '';
-
-    // this.state.scanning = false;
 
     if (this.state.scanning) {
       scanner = <Scanner onDetected={this._onDetected.bind(this)}/>

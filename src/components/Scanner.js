@@ -23,7 +23,7 @@ class Scanner extends Component {
             }}>
             </canvas>
         </div>
-        <div className="cta">Scan a product, Gorgeous</div>
+        <div className="cta">Scan a Benefit product, Gorgeous</div>
       </div>
     );
   }
@@ -31,8 +31,27 @@ class Scanner extends Component {
   componentDidMount() {
     const constraints = {
       audio: false,
-      video: true
-    }
+      video: {
+        width: {
+          // exact: 1920,
+          exact: 1280,
+        },
+        height: {
+          // exact: 1080,
+          exact: 720,
+        },
+        frameRate: {
+          exact: 15,
+        },
+        zoom: {
+          exact: 2.0
+        }
+        // facingMode: {
+        //   exact: "environment",
+        // },
+      }
+    };
+    console.log(constraints);
 
     if (navigator.mediaDevices && typeof navigator.mediaDevices.getUserMedia === 'function') {
       navigator.mediaDevices.getUserMedia(constraints).then(
@@ -40,13 +59,14 @@ class Scanner extends Component {
           Quagga.init({
             inputStream: {
               name: "Live",
-              type : "LiveStream"
+              type : "LiveStream",
+              constraints: constraints,
             },
             locator: {
               patchSize: "medium",
               halfSample: true
             },
-            numOfWorkers: 2,
+            numOfWorkers: 4,
             decoder: {
               readers : [
                 "ean_reader",
@@ -63,6 +83,7 @@ class Scanner extends Component {
           });
           Quagga.onDetected(this._onDetected.bind(this));
           Quagga.onProcessed(function(result) {
+            // console.log('onProcessed', result)
             const drawingCtx = Quagga.canvas.ctx.overlay;
             const drawingCanvas = Quagga.canvas.dom.overlay;
 
@@ -84,6 +105,7 @@ class Scanner extends Component {
             }
           });
         }, (err) => {
+          console.log(err);
           document.write("You must allow camera access.<br/>" + err);
         });
     } else {
@@ -96,6 +118,7 @@ class Scanner extends Component {
   }
 
   _onDetected(result) {
+    console.log('onDetected', result)
     this.props.onDetected(result);
   }
 }
