@@ -75,7 +75,7 @@ class Result extends Component {
 
           {result.tips_tricks_video_url ?
             <div className="how-to-video">
-              <iframe src={result.tips_tricks_video_url}/>
+              <iframe src={result.tips_tricks_video_url} title={result.product_description}/>
             </div>
             : ''}
 
@@ -85,6 +85,14 @@ class Result extends Component {
               <h3>{result.how_to_apply}</h3>
             </div>
             : ''}
+
+          {result.dilemma_copy ?
+            <div className="beauty-tip">
+              <h1>DILEMMA</h1>
+              <h2>{result.dilemma_copy}</h2>
+            </div>
+            : ''}
+
           {result.beauty_tip ?
             <div className="beauty-tip">
               <h1>BEAUTY TIP</h1>
