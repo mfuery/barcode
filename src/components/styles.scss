@@ -1,8 +1,195 @@
-.results {
-    width: 100%
-    height: 100%
-    display: flex
-    flexDirection: column
-    alignItems: center
-    justifyContent: 'center
+// Primary Colors
+$benefit-pink: #ff7380;
+$pink: #fa3468;
+$white: #fff;
+
+// Global textual link color.
+$link-color: $pink;
+
+// Link hover color set via `darken()` function.
+$link-hover-color: darken($link-color, 15%);
+
+// Font family stack declarations.
+$sans-serif-font-family: "Proxima Nova", Helvetica, Arial, sans-serif;
+$script-font-family: "Sign Painter Script", cursive;
+
+$base-font-size: 16px;
+$base-font-size-button: 26px;
+$base-font-weight: 400;
+$base-line-height: 1.4;
+$base-line-height-button: 64px;
+
+@mixin border-radius($radius) {
+    border-radius: $radius;
 }
+
+// Font-smoothing.
+@mixin font-smoothing($value: on) {
+    @if $value == on {
+        -webkit-font-smoothing: antialiased;
+        -moz-osx-font-smoothing: grayscale;
+    }
+    @else {
+        -webkit-font-smoothing: subpixel-antialiased;
+        -moz-osx-font-smoothing: auto;
+    }
+}
+
+// Script mixin
+@mixin script-font {
+    font-family: $script-font-family;
+    letter-spacing: 0;
+    font-variant-ligatures: common-ligatures;
+    font-weight: 400;
+    @include font-smoothing(on);
+}
+
+#interactive {
+    width: 100%;
+    height: 100%;
+}
+
+.app {
+    width: 100%;
+    height: 100%;
+
+}
+
+h1 {
+    color: #241332;
+    font: 24px $sans-serif-font-family;
+    margin: 0 auto;
+}
+
+h2 {
+    color: #676767;
+    font: 13px $sans-serif-font-family
+}
+
+h3 {
+    color: $white;
+    font: 13px $sans-serif-font-family
+}
+
+.button {
+    @include border-radius(16px);
+    cursor: pointer;
+    background-color: $benefit-pink;
+    border: none;
+    color: $white;
+    font-size: $base-font-size-button;
+    @include script-font;
+    line-height: $base-line-height-button;
+    font-weight: normal;
+    height: 64px;
+    padding: 0 40px;
+    margin: 30px auto;
+    text-align: center;
+    vertical-align: middle;
+    white-space: nowrap;
+}
+
+img {
+    width: 128px;
+    height: 128px;
+    display: inline-block;
+
+}
+
+.close-btn {
+    width: 32px;
+    height: 32px;
+    position: absolute;
+    right: 12px;
+    top: 12px;
+    cursor: pointer;
+}
+
+.image-cropper {
+    width: 128px;
+    height: 128px;
+    position: relative;
+    overflow: hidden;
+    border-radius: 50%;
+    margin: 0 auto;
+}
+
+.profile-pic {
+    display: inline;
+    margin: 0 auto;
+    //margin-left: -25%; //centers the image
+    height: 100%;
+    width: auto;
+}
+
+.result-container {
+    animation: fadein 2s;
+    display: block;
+    text-align: center;
+    font-size: 24px;
+    background-color: #EC708E;
+    height: 100%;
+    overflow: scroll;
+    padding-bottom: 40px;
+}
+
+.hero {
+    padding: 20px 0 40px 0;
+    background-color: $white;
+    border-bottom-left-radius: 128px;
+}
+
+.highlights {
+    background-color: #EC708E;
+    border-bottom-left-radius: 128px;
+    height: 128px;
+}
+
+.highlight {
+    display: inline-block;
+    color: $white;
+    border-right: #000 1px solid;
+    width: 25%;
+    padding: 16px;
+    height: 75px;
+
+    h1, h2 {
+        color: $white;
+    }
+}
+
+.detail-body {
+    background-color: #FCB2C3;
+    padding: 30px;
+    text-align: left;
+}
+
+.how-to-video {
+    text-align: center;
+}
+
+.how-to {
+    padding: 20px;
+}
+
+.tagline-box {
+    background-color: #EC708E;
+    width: 100%;
+    display: block;
+}
+
+.thumbs {
+    height: 160px;
+    width: 100%;
+}
+
+.thumbnail.first {
+    float: left;
+}
+
+.thumbnail.last {
+    float: right;
+}
+
+
+
