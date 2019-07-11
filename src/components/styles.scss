@@ -53,14 +53,6 @@ h3 {
     white-space: nowrap;
 }
 
-.bestseller-badge {
-    background-image: bestseller();
-    background-repeat: no-repeat;
-    height: 90px;
-    margin: 6px auto;
-    width: 120px;
-}
-
 img {
     width: 128px;
     height: 128px;
@@ -75,6 +67,17 @@ img {
     right: 12px;
     top: 12px;
     cursor: pointer;
+}
+
+.result-container {
+    animation: fadein 2s;
+    display: block;
+    text-align: center;
+    font-size: 24px;
+    background-color: #EC708E;
+    height: 100%;
+    overflow: scroll;
+    padding-bottom: 40px;
 }
 
 .image-cropper {
@@ -99,15 +102,20 @@ img {
     width: auto;
 }
 
-.result-container {
-    animation: fadein 2s;
-    display: block;
-    text-align: center;
-    font-size: 24px;
-    background-color: #EC708E;
-    height: 100%;
-    overflow: scroll;
-    padding-bottom: 40px;
+.bestseller-badge {
+    background-image: bestseller();
+    background-repeat: no-repeat;
+    width: 120px;
+    height: 90px;
+    margin: 6px auto;
+    position: absolute;
+    z-index: 1000;
+    right: 88px;
+    top: 68px;
+}
+
+.product-image {
+    position: relative;
 }
 
 .hero {
@@ -120,13 +128,12 @@ img {
 .highlights {
     background-color: #EC708E;
     border-bottom-left-radius: 128px;
-    height: 80px;
+    height: 70px;
 }
 
 .highlight {
     display: inline-block;
     color: #fff;
-    border-right: #333 1px dotted;
     width: 33%;
     float: left;
     padding: 10px 0;
@@ -146,10 +153,6 @@ img {
 
 .highlight.middle {
     margin: 0;
-}
-
-.highlight:last-child {
-    border-right: none;
 }
 
 .detail-body {
@@ -185,12 +188,10 @@ img {
 
 .thumbs {
     height: 160px;
-    width: 300px;
-    margin: 0 auto;
 }
 
 .last {
-    border-right: none;
+    float: right;
 }
 
 

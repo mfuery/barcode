@@ -8,11 +8,10 @@ class Scanner extends Component {
       <div id='interactive' className='viewport'>
         <video
           className='videoCamera'
-          autoPlay='1'
+          autoPlay
           preload='auto'
-          src=''
           muted='1'
-          playsInline='1'>
+          playsInline>
         </video>
         <canvas
           className='drawingBuffer'
@@ -27,55 +26,66 @@ class Scanner extends Component {
   }
 
   componentDidMount() {
-    if (navigator.mediaDevices && typeof navigator.mediaDevices.getUserMedia === 'function') {
-      // safely access `navigator.mediaDevices.getUserMedia`
+    const constraints = {
+      audio: false,
+      video: true
     }
-    Quagga.init({
-      inputStream: {
-        name: "Live",
-        type : "LiveStream",
-        constraints: {
-          width: window.innerWidth,
-          height: window.innerHeight,
-          facingMode: "environment" // or user
-        }
-      },
-      locator: {
-        patchSize: "medium",
-        halfSample: true
-      },
-      numOfWorkers: 4,
-      decoder: {
-        readers : [
-          "ean_reader",
-        ]
-      },
-      locate: true
-    }, function(err) {
-      Quagga.start();
-    });
-    Quagga.onDetected(this._onDetected.bind(this));
-    Quagga.onProcessed(function(result) {
-      const drawingCtx = Quagga.canvas.ctx.overlay;
-      const drawingCanvas = Quagga.canvas.dom.overlay;
 
-      if (result) {
-        if (result.boxes) {
-          drawingCtx.clearRect(0, 0, parseInt(drawingCanvas.getAttribute("width")), parseInt(drawingCanvas.getAttribute("height")));
-          result.boxes.filter(box => box !== result.box).forEach(box => {
-            Quagga.ImageDebug.drawPath(box, {x: 0, y: 1}, drawingCtx, {color: "green", lineWidth: 2});
+    if (navigator.mediaDevices && typeof navigator.mediaDevices.getUserMedia === 'function') {
+      navigator.mediaDevices.getUserMedia(constraints).then(
+        (mediaStream) => {
+          Quagga.init({
+            inputStream: {
+              name: "Live",
+              type : "LiveStream"
+            },
+            locator: {
+              patchSize: "medium",
+              halfSample: true
+            },
+            numOfWorkers: 2,
+            decoder: {
+              readers : [
+                "ean_reader",
+              ]
+            },
+            locate: true
+          }, function() {
+            try {
+              Quagga.start();
+
+            } catch(err) {
+              document.write("You must allow camera access.<br/>" + err);
+            }
           });
-        }
+          Quagga.onDetected(this._onDetected.bind(this));
+          Quagga.onProcessed(function(result) {
+            const drawingCtx = Quagga.canvas.ctx.overlay;
+            const drawingCanvas = Quagga.canvas.dom.overlay;
 
-        if (result.box) {
-          Quagga.ImageDebug.drawPath(result.box, {x: 0, y: 1}, drawingCtx, {color: "#00F", lineWidth: 2});
-        }
+            if (result) {
+              if (result.boxes) {
+                drawingCtx.clearRect(0, 0, parseInt(drawingCanvas.getAttribute("width")), parseInt(drawingCanvas.getAttribute("height")));
+                result.boxes.filter(box => box !== result.box).forEach(box => {
+                  Quagga.ImageDebug.drawPath(box, {x: 0, y: 1}, drawingCtx, {color: "green", lineWidth: 2});
+                });
+              }
 
-        if (result.codeResult && result.codeResult.code) {
-          Quagga.ImageDebug.drawPath(result.line, {x: 'x', y: 'y'}, drawingCtx, {color: 'red', lineWidth: 3});
-        }
-      }
-    });
+              if (result.box) {
+                Quagga.ImageDebug.drawPath(result.box, {x: 0, y: 1}, drawingCtx, {color: "#00F", lineWidth: 2});
+              }
+
+              if (result.codeResult && result.codeResult.code) {
+                Quagga.ImageDebug.drawPath(result.line, {x: 'x', y: 'y'}, drawingCtx, {color: 'red', lineWidth: 3});
+              }
+            }
+          });
+        }, (err) => {
+          document.write("You must allow camera access.<br/>" + err);
+        });
+    } else {
+      document.write("You must allow camera access.");
+    }
   }
 
   componentWillUnmount() {

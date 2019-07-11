@@ -1,4 +1,4 @@
-import React, { Component } from 'react';
+import React, {Component} from 'react';
 
 class Result extends Component {
 
@@ -17,9 +17,7 @@ class Result extends Component {
           <div className="hero">
             <button onClick={this.props.onRescan}
                     className="button"
-            style={{margin: "40px"}}>
-              RESCAN
-            </button>
+                    style={{margin: "40px"}}>RESCAN</button>
             <h1>Sorry Gorgeous, I couldn't find that</h1>
             <h2> </h2>
           </div>
@@ -37,8 +35,13 @@ class Result extends Component {
       <div className="result-container">
         <div className="close-btn" onClick={this.props.onRescan}>X</div>
         <div className="hero" onClick={this._openBenefitSite.bind(this)}>
-          <div className="image-cropper clear">
-            <img className="profile-pic" src={result.img_boxcomp} />
+          <div className="product-image">
+            {result.bestseller ?
+              <div className="bestseller-badge">&nbsp;</div>
+              : ''}
+            <div className="image-cropper clear">
+              <img className="profile-pic" src={result.img_boxcomp} alt={result.product_description_title}/>
+            </div>
           </div>
           <h1>{result.parent_product_name}</h1>
           <h2>{result.statement_of_id}</h2>
@@ -57,16 +60,10 @@ class Result extends Component {
             </div>
           }
 
-          {result.bestseller ?
-          <div className="highlight middle">
-            <div className="bestseller-badge"> </div>
-          </div>
-              : ''}
-
           {result.avg_overall_rating > 3.0 ?
-          <div className="highlight">
+            <div className="highlight last">
               <h1>{avg_overall_rating.toFixed(1)} / 5.0</h1>
-          </div>
+            </div>
             : ''}
 
         </div>
@@ -77,22 +74,22 @@ class Result extends Component {
           </div>
 
           {result.tips_tricks_video_url ?
-          <div className="how-to-video">
-            <iframe src={result.tips_tricks_video_url} />
-          </div>
+            <div className="how-to-video">
+              <iframe src={result.tips_tricks_video_url}/>
+            </div>
             : ''}
 
           {result.how_to_apply ?
-          <div className="how-to">
-            <h2 style={{textTransform: 'uppercase'}}>{result.how_to_apply_title}</h2>
-            <h3>{result.how_to_apply}</h3>
-          </div>
+            <div className="how-to">
+              <h2 style={{textTransform: 'uppercase'}}>{result.how_to_apply_title}</h2>
+              <h3>{result.how_to_apply}</h3>
+            </div>
             : ''}
           {result.beauty_tip ?
-          <div className="beauty-tip">
-            <h1>BEAUTY TIP</h1>
-            <h2>{result.beauty_tip}</h2>
-          </div>
+            <div className="beauty-tip">
+              <h1>BEAUTY TIP</h1>
+              <h2>{result.beauty_tip}</h2>
+            </div>
             : ''}
 
           <div className="thumbs">
@@ -105,18 +102,16 @@ class Result extends Component {
               <div className="image-cropper">
                 <img className="thumbnail" src={result.img_hta_model} alt={result.img_hta_model_alt_text}/>
               </div>
-            : ''}
+              : ''}
             {result.img_shade_swatch ?
               <div className="image-cropper">
                 <img className="thumbnail last" src={result.img_shade_swatch} alt={result.shade_name}/>
               </div>
-            : ''}
+              : ''}
           </div>
         </div>
 
-        <button onClick={this.props.onRescan} className="button">
-          RESCAN
-        </button>
+        <button onClick={this.props.onRescan} className="button">RESCAN</button>
       </div>
     );
   }
