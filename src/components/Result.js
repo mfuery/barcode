@@ -2,6 +2,10 @@ import React, { Component } from 'react';
 
 class Result extends Component {
 
+  _openBenefitSite() {
+    window.open(this.props.result.url, '_blank');
+  }
+
   render() {
     let result = this.props.result;
     console.log(result)
@@ -26,7 +30,7 @@ class Result extends Component {
     return (
       <div className="result-container">
         <div className="close-btn" onClick={this.props.onRescan}>X</div>
-        <div className="hero">
+        <div className="hero" onClick={this._openBenefitSite.bind(this)}>
           <div className="image-cropper">
             <img className="profile-pic" src={result.img_box} />
           </div>
