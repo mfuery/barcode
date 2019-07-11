@@ -44,6 +44,16 @@ $base-line-height-button: 64px;
     @include font-smoothing(on);
 }
 
+#interactive {
+    width: 100%;
+    height: 100%;
+}
+
+.app {
+    width: 100%;
+    height: 100%;
+
+}
 
 h1 {
     color: #241332;
@@ -124,7 +134,7 @@ img {
 }
 
 .hero {
-    padding: 0 0 40px 0;
+    padding: 20px 0 40px 0;
     background-color: $white;
     border-bottom-left-radius: 128px;
 }
@@ -133,7 +143,6 @@ img {
     background-color: #EC708E;
     border-bottom-left-radius: 128px;
     height: 128px;
-    padding: 16px 0;
 }
 
 .highlight {
@@ -159,23 +168,28 @@ img {
     text-align: center;
 }
 
+.how-to {
+    padding: 20px;
+}
+
 .tagline-box {
     background-color: #EC708E;
     width: 100%;
     display: block;
 }
 
-.app {
+.thumbs {
+    height: 160px;
     width: 100%;
-    height: 100%;
-
 }
 
-
-
-#interactive {
-    width: 100%;
-    height: 100%;
+.thumbnail.first {
+    float: left;
 }
+
+.thumbnail.last {
+    float: right;
+}
+
 
 

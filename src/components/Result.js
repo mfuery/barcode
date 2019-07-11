@@ -56,15 +56,20 @@ class Result extends Component {
           </div>
             : ''}
 
+          {result.how_to ?
           <div className="how-to">
             <h3>HOW TO APPLY</h3>
             <h3>{result.how_to}</h3>
           </div>
+            : ''}
 
           <div className="thumbs">
-            <img className="thumbnail" src={result.img_comp}/>
-            <img className="thumbnail" src={result.img_shade}/>
-            <img className="thumbnail" src={result.img_box}/>
+            {result.img_comp ?
+              <img className="thumbnail first" src={result.img_comp}/>
+              : ''}
+            {result.img_shade ?
+              <img className="thumbnail last" src={result.img_shade}/>
+            : ''}
           </div>
         </div>
 
