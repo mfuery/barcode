@@ -44,14 +44,14 @@ class App extends Component {
     let result = '';
     let scanner = '';
 
+    // this.state.scanning = false;
+
     if (this.state.scanning) {
       scanner = <Scanner onDetected={this._onDetected.bind(this)} />
     } else {
       result = <Result result={this.state.result}
                        onRescan={this._rescan.bind(this)}/>
     }
-    result = <Result result={this.state.result}
-                     onRescan={this._rescan.bind(this)}/>
 
     return (
       <div className="app">

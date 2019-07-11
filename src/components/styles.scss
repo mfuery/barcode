@@ -56,6 +56,10 @@ h2 {
     font: 13px $sans-serif-font-family
 }
 
+h3 {
+    color: $white;
+    font: 13px $sans-serif-font-family
+}
 
 .button {
     @include border-radius(16px);
@@ -75,42 +79,81 @@ h2 {
     white-space: nowrap;
 }
 
+img {
+    width: 128px;
+    height: 128px;
+    display: inline-block;
+
+}
+
 .image-cropper {
-    width: 100px;
-    height: 100px;
+    width: 128px;
+    height: 128px;
     position: relative;
     overflow: hidden;
     border-radius: 50%;
+    margin: 0 auto;
 }
+
 .profile-pic {
     display: inline;
     margin: 0 auto;
-    margin-left: -25%; //centers the image
+    //margin-left: -25%; //centers the image
     height: 100%;
     width: auto;
 }
 
-.results-container {
-    width: 100%;
+.result-container {
+    animation: fadein 2s;
+    display: block;
+    text-align: center;
+    font-size: 24px;
+    background-color: #EC708E;
     height: 100%;
-    position: absolute;
-    z-index: 1000;
+    overflow: scroll;
+    padding-bottom: 40px;
 }
 
-.result {
-    text-align: center;
-    font-size: 32px;
-    position: absolute;
-    overflow: scroll;
+.hero {
+    padding: 40px 0;
+    background-color: $white;
+    border-bottom-left-radius: 128px;
+}
 
-    img {
-        width: 64px;
-        height: 64px;
+.highlights {
+    background-color: #EC708E;
+    border-bottom-left-radius: 128px;
+    height: 128px;
+    padding: 16px 0;
+}
+
+.highlight {
+    display: inline-block;
+    color: $white;
+    border-right: #000 1px solid;
+    width: 25%;
+    padding: 16px;
+    height: 75px;
+
+    h1, h2 {
+        color: $white;
     }
 }
 
-.product-details {
+.detail-body {
+    background-color: #FCB2C3;
+    padding: 30px;
+    text-align: left;
+}
 
+.how-to-video {
+
+}
+
+.tagline-box {
+    background-color: #EC708E;
+    width: 100%;
+    display: block;
 }
 
 .app {
