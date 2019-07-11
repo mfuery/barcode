@@ -3,12 +3,12 @@ import React, { Component } from 'react';
 class Result extends Component {
 
   _openBenefitSite() {
-    window.open(this.props.result.url, '_blank');
+    window.open(this.props.result.product_url, '_blank');
   }
 
   render() {
     let result = this.props.result;
-    console.log(result)
+    // console.log(result)
 
     if (!result) {
       return (
@@ -21,58 +21,95 @@ class Result extends Component {
               RESCAN
             </button>
             <h1>Sorry Gorgeous, I couldn't find that</h1>
-            <h2></h2>
+            <h2> </h2>
           </div>
         </div>
       );
     }
 
+    const is_discounted = (result.discounted_price < result.price);
+    if (!result.price) {
+      result.price = 0;
+    }
+    const avg_overall_rating = parseFloat(result.avg_overall_rating);
+
     return (
       <div className="result-container">
         <div className="close-btn" onClick={this.props.onRescan}>X</div>
         <div className="hero" onClick={this._openBenefitSite.bind(this)}>
-          <div className="image-cropper">
-            <img className="profile-pic" src={result.img_box} />
+          <div className="image-cropper clear">
+            <img className="profile-pic" src={result.img_boxcomp} />
           </div>
-          <h1>{result.name}</h1>
-          <h2>{result.tagline}</h2>
+          <h1>{result.parent_product_name}</h1>
+          <h2>{result.statement_of_id}</h2>
         </div>
 
         <div className="highlights">
-          <div className="highlight">
-            <h1>90%</h1>
-            <h2>saw dramatic volume</h2>
-          </div>
-          <div className="highlight">
-            <h1>94%</h1>
-            <h2>said it instantly lifted lashes</h2>
-          </div>
-          <div className="highlight">
-            <h1>92%</h1>
-            <h2>said it lengthens lashes</h2>
-          </div>
-        </div>
 
-        <div className="detail-body">
-          {result.video_url ?
-          <div className="how-to-video">
-            <iframe src={result.video_url} />
+          {is_discounted ?
+            <div className="highlight" style={{padding: 0}}>
+              <h1>${result.discounted_price.toFixed(2)}</h1>
+              <h2 className="discounted">${result.price.toFixed(2)}</h2>
+            </div>
+            :
+            <div className="highlight">
+              <h1>${result.price.toFixed(2)}</h1>
+            </div>
+          }
+
+          {result.bestseller ?
+          <div className="highlight">
+            <h1>Bseller</h1>
+          </div>
+              : ''}
+
+          {result.avg_overall_rating > 3.0 ?
+          <div className="highlight">
+              <h1>{avg_overall_rating.toFixed(1)} / 5.0</h1>
           </div>
             : ''}
 
-          {result.how_to ?
+        </div>
+
+        <div className="detail-body">
+          <div className="headline">
+            <h1>{result.product_description_title}</h1>
+          </div>
+
+          {result.tips_tricks_video_url ?
+          <div className="how-to-video">
+            <iframe src={result.tips_tricks_video_url} />
+          </div>
+            : ''}
+
+          {result.how_to_apply ?
           <div className="how-to">
-            <h3>HOW TO APPLY</h3>
-            <h3>{result.how_to}</h3>
+            <h2 style={{textTransform: 'uppercase'}}>{result.how_to_apply_title}</h2>
+            <h3>{result.how_to_apply}</h3>
+          </div>
+            : ''}
+          {result.beauty_tip ?
+          <div className="beauty-tip">
+            <h1>BEAUTY TIP</h1>
+            <h2>{result.beauty_tip}</h2>
           </div>
             : ''}
 
           <div className="thumbs">
             {result.img_comp ?
-              <img className="thumbnail first" src={result.img_comp}/>
+              <div className="image-cropper">
+                <img className="thumbnail first" src={result.img_comp} alt={result.img_comp_alt_text}/>
+              </div>
               : ''}
-            {result.img_shade ?
-              <img className="thumbnail last" src={result.img_shade}/>
+            {result.img_hta_model ?
+              <div className="image-cropper">
+                <img className="thumbnail" src={result.img_hta_model} alt={result.img_hta_model_alt_text}/>
+              </div>
+            : ''}
+            {result.img_shade_swatch ?
+              <div className="image-cropper">
+                <img className="thumbnail last" src={result.img_shade_swatch} alt={result.shade_name}/>
+              </div>
             : ''}
           </div>
         </div>

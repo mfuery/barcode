@@ -63,19 +63,19 @@ h1 {
 
 h2 {
     color: #676767;
-    font: 13px $sans-serif-font-family
+    font: 18px $sans-serif-font-family
 }
 
 h3 {
     color: $white;
-    font: 13px $sans-serif-font-family
+    font: 16px $sans-serif-font-family
 }
 
 .button {
     @include border-radius(16px);
     cursor: pointer;
     background-color: $benefit-pink;
-    border: none;
+    border: 2px black solid;
     color: $white;
     font-size: $base-font-size-button;
     @include script-font;
@@ -111,7 +111,12 @@ img {
     position: relative;
     overflow: hidden;
     border-radius: 50%;
+    float: left;
+}
+
+.image-cropper.clear {
     margin: 0 auto;
+    float: none;
 }
 
 .profile-pic {
@@ -134,7 +139,7 @@ img {
 }
 
 .hero {
-    padding: 20px 0 40px 0;
+    padding: 20px 40px;
     background-color: $white;
     border-bottom-left-radius: 128px;
     cursor: pointer;
@@ -143,25 +148,37 @@ img {
 .highlights {
     background-color: #EC708E;
     border-bottom-left-radius: 128px;
-    height: 128px;
+    height: 80px;
 }
 
 .highlight {
     display: inline-block;
-    color: $white;
-    border-right: #000 1px solid;
-    width: 25%;
-    padding: 16px;
-    height: 75px;
+    color: #fff;
+    border-right: #333 1px dotted;
+    width: 33%;
+    float: left;
+    padding: 10px 0;
+    margin: 15px 0;
+    height: 44px;
 
     h1, h2 {
         color: $white;
     }
+
+    .discounted {
+        text-decoration: line-through;
+        margin: 0;
+        padding: 0;
+    }
+}
+
+.highlight:last-child {
+    border-right: none;
 }
 
 .detail-body {
     background-color: #FCB2C3;
-    padding: 30px;
+    padding: 4px 20px;
     text-align: left;
 }
 
@@ -173,23 +190,31 @@ img {
     padding: 20px;
 }
 
+.headline {
+    padding: 20px 0 24px;
+    margin: 0 auto;
+    text-align: center;
+}
+
 .tagline-box {
     background-color: #EC708E;
     width: 100%;
     display: block;
 }
 
+.beauty-tip {
+    font-size: 18px;
+    padding: 20px;
+}
+
 .thumbs {
     height: 160px;
-    width: 100%;
+    width: 300px;
+    margin: 0 auto;
 }
 
-.thumbnail.first {
-    float: left;
-}
-
-.thumbnail.last {
-    float: right;
+.last {
+    border-right: none;
 }
 
 
