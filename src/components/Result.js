@@ -28,10 +28,12 @@ class Result extends Component {
       result.price = 0;
     }
     const avg_overall_rating = parseFloat(result.avg_overall_rating);
+    const hashtag = (result.hashtag || '#benefitcosmetics').replace('#', '');
+    const hashtag_url = "https://www.twitter.com/hashtag/" + hashtag;
 
     return (
       <div className="result-container">
-        <div className="close-btn" onClick={this.props.onRescan}>X</div>
+        <div className="close-btn" onClick={this.props.onRescan}><span>X</span></div>
         <div className="hero" onClick={this._openBenefitSite.bind(this)}>
           <div className="product-image">
             {result.bestseller ?
@@ -85,15 +87,15 @@ class Result extends Component {
             : ''}
 
           {result.dilemma_copy ?
-            <div className="beauty-tip">
-              <h1>DILEMMA</h1>
+            <div className="dilemma">
+              <h2>DILEMMA</h2>
               <h2>{result.dilemma_copy}</h2>
             </div>
             : ''}
 
           {result.beauty_tip ?
             <div className="beauty-tip">
-              <h1>BEAUTY TIP</h1>
+              <h2>BEAUTY TIP</h2>
               <h2>{result.beauty_tip}</h2>
             </div>
             : ''}
@@ -114,6 +116,10 @@ class Result extends Component {
                 <img className="thumbnail last" src={result.img_shade_swatch} alt={result.shade_name}/>
               </div>
               : ''}
+          </div>
+
+          <div className="headline">
+            <h1><a href={hashtag_url} target="_blank">#{hashtag}</a></h1>
           </div>
         </div>
 

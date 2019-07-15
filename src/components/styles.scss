@@ -1,212 +1,254 @@
 @import "_base";
 
 @function bestseller($color1: #36BCAD, $color2: #EE3969, $color3: #FEF050, $color4: #FFF) {
-    $color1: str-replace(inspect($color1), '#', '%23'); //fix and replace hexcolor
-    $color2: str-replace(inspect($color2), '#', '%23'); //fix and replace hexcolor
-    $color3: str-replace(inspect($color3), '#', '%23'); //fix and replace hexcolor
-    $color4: str-replace(inspect($color4), '#', '%23'); //fix and replace hexcolor
-    @return url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' data-name='Layer 1' viewBox='0 0 334.65 228.37'%3E%3Ccircle cx='162.59' cy='73.01' r='66.79' fill='%23fef050'/%3E%3Ccircle cx='168.82' cy='66.79' r='66.79' fill='%2336bcad'/%3E%3Ctext fill='%23ee3969' font-family='GothamBold,Gotham Bold' font-size='26' transform='translate(130.98 56.21)'%3EBEST%3Ctspan x='-16.39' y='31.2'%3ESELLER%3C/tspan%3E%3C/text%3E%3Ctext fill='%23fff' font-family='GothamBold,Gotham Bold' font-size='26' transform='translate(133.98 53.64)'%3EBEST%3Ctspan x='-16.39' y='31.2'%3ESELLER%3C/tspan%3E%3C/text%3E%3C/svg%3E");
+  $color1: str-replace(inspect($color1), '#', '%23'); //fix and replace hexcolor
+  $color2: str-replace(inspect($color2), '#', '%23'); //fix and replace hexcolor
+  $color3: str-replace(inspect($color3), '#', '%23'); //fix and replace hexcolor
+  $color4: str-replace(inspect($color4), '#', '%23'); //fix and replace hexcolor
+  @return url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' data-name='Layer 1' viewBox='0 0 334.65 228.37'%3E%3Ccircle cx='162.59' cy='73.01' r='66.79' fill='%23fef050'/%3E%3Ccircle cx='168.82' cy='66.79' r='66.79' fill='%2336bcad'/%3E%3Ctext fill='%23ee3969' font-family='GothamBold,Gotham Bold' font-size='26' transform='translate(130.98 56.21)'%3EBEST%3Ctspan x='-16.39' y='31.2'%3ESELLER%3C/tspan%3E%3C/text%3E%3Ctext fill='%23fff' font-family='GothamBold,Gotham Bold' font-size='26' transform='translate(133.98 53.64)'%3EBEST%3Ctspan x='-16.39' y='31.2'%3ESELLER%3C/tspan%3E%3C/text%3E%3C/svg%3E");
 }
 
 #interactive {
-    width: 100%;
-    height: 100%;
+  width: 100%;
+  height: 100%;
 }
 
 .app {
-    width: 100%;
-    height: 100%;
+  width: 100%;
+  height: 100%;
 
+}
+
+a {
+  color: white;
+  text-decoration: none;
 }
 
 h1 {
-    color: #241332;
-    font: 24px $sans-serif-font-family;
-    margin: 0 auto;
+  color: white;
+  font: 24px $sans-serif-font-family;
+  margin: 0 auto;
+}
+
+.hero h1, .headline h1 {
+  color: #241332;
+}
+
+.hero h2 {
+  color: #676767;
 }
 
 h2 {
-    color: #676767;
-    font: 18px $sans-serif-font-family
+  font: 18px $sans-serif-font-family;
+  color: white;
 }
 
 h3 {
-    color: $white;
-    font: 16px $sans-serif-font-family
+  font: 16px $sans-serif-font-family;
+  color: white;
+  line-height: 28px;
 }
 
 .cta {
-    position: absolute;
-    z-index: 1000;
-    @include script-font;
-    top: 0px;
-    font-size: 20px;
-    letter-spacing: 0;
-    line-height: 40px;
-    font-weight: normal;
-    background-color: #ff7380;
-    color: #fff;
-    width: 100%;
-    text-align: center;
+  position: absolute;
+  z-index: 1000;
+  @include script-font;
+  top: 0px;
+  font-size: 20px;
+  letter-spacing: 0;
+  line-height: 40px;
+  font-weight: normal;
+  background-color: #ff7380;
+  color: #fff;
+  width: 100%;
+  text-align: center;
 }
 
 .button {
-    @include border-radius(16px);
-    cursor: pointer;
-    background-color: $benefit-pink;
-    border: 2px black solid;
-    color: $white;
-    font-size: $base-font-size-button;
-    @include script-font;
-    line-height: $base-line-height-button;
-    font-weight: normal;
-    height: 64px;
-    padding: 0 40px;
-    margin: 30px auto;
-    text-align: center;
-    vertical-align: middle;
-    white-space: nowrap;
+  @include border-radius(24px);
+  cursor: pointer;
+  background-color: #FA3468;
+  border: none;
+  color: $white;
+  font-size: $base-font-size-button;
+  @include script-font;
+  line-height: $base-line-height-button;
+  font-weight: normal;
+  height: 64px;
+  padding: 0 40px;
+  margin: 30px auto;
+  text-align: center;
+  vertical-align: middle;
+  white-space: nowrap;
+  box-shadow: 0px 0px 4px 4px #eee;
+
 }
 
 img {
-    width: 128px;
-    height: 128px;
-    display: inline-block;
+  width: 128px;
+  height: 128px;
+  display: inline-block;
 
 }
 
 .close-btn {
-    width: 32px;
-    height: 32px;
+  width: 48px;
+  height: 48px;
+  position: absolute;
+  right: 24px;
+  top: 24px;
+  cursor: pointer;
+  background: #fa3468;
+  overflow: hidden;
+  border-radius: 50%;
+  z-index: 5000;
+
+  span {
     position: absolute;
-    right: 12px;
-    top: 12px;
-    cursor: pointer;
+    right: 16px;
+    top: 11px;
+  }
 }
 
 .result-container {
-    animation: fadein 2s;
-    display: block;
-    text-align: center;
-    font-size: 24px;
-    background-color: #EC708E;
-    height: 100%;
-    overflow: scroll;
-    padding-bottom: 40px;
+  animation: fadein 2s;
+  display: block;
+  text-align: center;
+  font-size: 24px;
+  background-color: #EC708E;
+  height: 100%;
+  overflow: scroll;
+  padding-bottom: 40px;
 }
 
 .image-cropper {
-    width: 128px;
-    height: 128px;
-    position: relative;
-    overflow: hidden;
-    border-radius: 50%;
-    float: left;
+  width: 128px;
+  height: 128px;
+  position: relative;
+  overflow: hidden;
+  border-radius: 50%;
+  float: left;
 }
 
 .image-cropper.clear {
-    margin: 0 auto;
-    float: none;
+  margin: 0 auto;
+  float: none;
 }
 
 .profile-pic {
-    display: inline;
-    margin: 0 auto;
-    //margin-left: -25%; //centers the image
-    height: 100%;
-    width: auto;
+  display: inline;
+  margin: 0 auto;
+  //margin-left: -25%; //centers the image
+  height: 100%;
+  width: auto;
 }
 
 .bestseller-badge {
-    background-image: bestseller();
-    background-repeat: no-repeat;
-    width: 120px;
-    height: 90px;
-    margin: 6px auto;
-    position: absolute;
-    z-index: 1000;
-    right: 88px;
-    top: 68px;
+  background-image: bestseller();
+  background-repeat: no-repeat;
+  width: 120px;
+  height: 90px;
+  position: absolute;
+  z-index: 1000;
+  left: 65px;
+  top: 80px;
 }
 
 .product-image {
-    position: relative;
+  position: relative;
+  width: 128px;
+  margin: 20px auto;
 }
 
 .hero {
-    padding: 20px 40px;
-    background-color: $white;
-    border-bottom-left-radius: 128px;
-    cursor: pointer;
+  padding: 20px 40px;
+  background-color: $white;
+  border-bottom-left-radius: 128px;
+  cursor: pointer;
 }
 
 .highlights {
-    background-color: #EC708E;
-    border-bottom-left-radius: 128px;
-    height: 70px;
+  background-color: #EC708E;
+  border-bottom-left-radius: 128px;
+  height: 70px;
 }
 
 .highlight {
-    display: inline-block;
-    color: #fff;
-    width: 33%;
-    float: left;
-    padding: 10px 0;
-    margin: 10px 0;
-    height: 44px;
+  display: inline-block;
+  color: #fff;
+  width: 33%;
+  float: left;
+  padding: 10px 0;
+  margin: 10px 0;
+  height: 44px;
 
-    h1, h2 {
-        color: $white;
-    }
+  h1, h2 {
+    color: $white;
+  }
 
-    .discounted {
-        text-decoration: line-through;
-        margin: 0;
-        padding: 0;
-    }
+  .discounted {
+    text-decoration: line-through;
+    margin: 0;
+    padding: 0;
+  }
 }
 
 .highlight.middle {
-    margin: 0;
+  margin: 0;
 }
 
 .detail-body {
-    background-color: #FCB2C3;
-    padding: 4px 20px;
-    text-align: left;
+  background-color: #FCB2C3;
+  padding: 4px 20px;
+  text-align: left;
 }
 
 .how-to-video {
-    text-align: center;
+  text-align: center;
 }
 
 .how-to {
-    padding: 20px;
+  padding: 20px 20px 8px;
 }
 
 .headline {
-    padding: 20px 0 24px;
-    margin: 0 auto;
-    text-align: center;
+  padding: 20px 0 24px;
+  margin: 0 auto;
+  text-align: center;
 }
 
 .tagline-box {
-    background-color: #EC708E;
-    width: 100%;
-    display: block;
+  background-color: #EC708E;
+  width: 100%;
+  display: block;
 }
 
 .beauty-tip {
-    font-size: 18px;
-    padding: 20px;
+  font-size: 18px;
+  padding: 8px 20px 20px;
 }
 
 .thumbs {
-    height: 160px;
+  height: 160px;
+
+  .image-cropper {
+    width: 100px;
+    height: 100px;
+
+    img {
+      width: 100px;
+      height: 100px;
+    }
+  }
+
+}
+
+.dilemma {
+  padding: 8px 20px;
 }
 
 .last {
-    float: right;
+  float: right;
 }
 
 
