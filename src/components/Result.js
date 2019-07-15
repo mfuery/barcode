@@ -119,7 +119,7 @@ class Result extends Component {
           </div>
 
           <div className="headline">
-            <h1><a href={hashtag_url} target="_blank">#{hashtag}</a></h1>
+            <h1><a href={hashtag_url} target="_blank" rel="noopener noreferrer">#{hashtag}</a></h1>
           </div>
         </div>
 
