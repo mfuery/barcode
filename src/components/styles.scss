@@ -84,20 +84,22 @@ h3 {
 }
 
 .on-random-btn {
-  width: 200px;
+  width: 68px;
+  height: 30px;
+  margin: 0;
+  padding: 0;
   position: absolute;
-  bottom: 10px;
-  left: 10px;
-  //padding: 0 40px;
-  margin: 30px auto;
-
+  top: 4px;
+  right: 6px;
+  font-size: 14px;
+  line-height: 14px;
+  box-shadow: none;
 }
 
 img {
   width: 128px;
   height: 128px;
   display: inline-block;
-
 }
 
 .close-btn {

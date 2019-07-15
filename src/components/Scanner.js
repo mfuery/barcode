@@ -23,8 +23,10 @@ class Scanner extends Component {
             }}>
             </canvas>
         </div>
-        <div className="cta">Scan a Benefit product, Gorgeous</div>
-        <button onClick={this._onRandom.bind(this)} className="button on-random-btn">RANDOM</button>
+        <div className="cta">
+          <div>Scan a Benefit product, Gorgeous</div>
+          <button onClick={this._onRandom.bind(this)} className="button on-random-btn">Random</button>
+        </div>
       </div>
     );
   }
