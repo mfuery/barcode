@@ -49,7 +49,7 @@ class Result extends Component {
 
         <div className="highlights">
 
-          {is_discounted ?
+          {result.discounted_price && is_discounted ?
             <div className="highlight" style={{padding: 0}}>
               <h1>${result.discounted_price.toFixed(2)}</h1>
               <h2 className="discounted">${result.price.toFixed(2)}</h2>

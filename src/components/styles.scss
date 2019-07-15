@@ -64,7 +64,7 @@ h3 {
   text-align: center;
 }
 
-.button {
+.button, .on-random-btn {
   @include border-radius(24px);
   cursor: pointer;
   background-color: #FA3468;
@@ -81,6 +81,15 @@ h3 {
   vertical-align: middle;
   white-space: nowrap;
   box-shadow: 0px 0px 4px 4px #eee;
+}
+
+.on-random-btn {
+  width: 200px;
+  position: absolute;
+  bottom: 10px;
+  left: 10px;
+  //padding: 0 40px;
+  margin: 30px auto;
 
 }
 

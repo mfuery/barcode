@@ -47,12 +47,7 @@ class App extends Component {
 
   _onKeyDown(e) {
     if (e.key === 'r') {
-      const index = Math.floor(Math.random() * CATALOG.length);
-      console.log('item: ' + index)
-      this.setState({
-        scanning: false,
-        result: CATALOG[index]
-      });
+      this._random();
     } else if (e.key === 's') {
       this.setState({
         scanning: false,
@@ -66,15 +61,28 @@ class App extends Component {
     }
   }
 
+  _random() {
+    const index = Math.floor(Math.random() * CATALOG.length);
+    console.log('item: ' + index)
+    this.setState({
+      scanning: false,
+      result: CATALOG[index]
+    });
+
+  }
+
   render() {
     let result = '';
     let scanner = '';
 
     if (this.state.scanning) {
-      scanner = <Scanner onDetected={this._onDetected.bind(this)}/>
+      scanner = <Scanner onDetected={this._onDetected.bind(this)}
+                         onRandom={this._random.bind(this)}
+      />
     } else {
       result = <Result result={this.state.result}
-                       onRescan={this._rescan.bind(this)}/>
+                       onRescan={this._rescan.bind(this)}
+      />
     }
 
     return (
