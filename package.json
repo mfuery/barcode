@@ -2,7 +2,7 @@
   "name": "barcode",
   "version": "0.0.1",
   "private": false,
-  "licence": "",
+  "license": "",
   "dependencies": {
     "node-sass": "^4.12.0",
     "quagga": "^0.12.1",
