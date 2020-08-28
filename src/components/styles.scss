@@ -67,7 +67,8 @@ h3 {
   background-color: #ff7380;
   color: #fff;
   width: 100%;
-  text-align: center;
+  text-align: left;
+  padding-left: 12px;
 }
 
 .button,
@@ -97,7 +98,7 @@ h3 {
   padding: 0;
   position: absolute;
   top: 4px;
-  right: 6px;
+  right: 16px;
   font-size: 14px;
   line-height: 14px;
   box-shadow: none;

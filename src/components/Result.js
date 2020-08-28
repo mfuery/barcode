@@ -19,7 +19,7 @@ class Result extends Component {
             >
               RESCAN
             </button>
-            <h1>Ready to scan a Benefit product</h1>
+            <h1>I don't know that barcode. Scan a Benefit product, babe.</h1>
             <h3>{this.props.code}</h3>
           </div>
         </div>
