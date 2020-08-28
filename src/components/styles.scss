@@ -1,10 +1,15 @@
 @import "_base";
 
-@function bestseller($color1: #36BCAD, $color2: #EE3969, $color3: #FEF050, $color4: #FFF) {
-  $color1: str-replace(inspect($color1), '#', '%23'); //fix and replace hexcolor
-  $color2: str-replace(inspect($color2), '#', '%23'); //fix and replace hexcolor
-  $color3: str-replace(inspect($color3), '#', '%23'); //fix and replace hexcolor
-  $color4: str-replace(inspect($color4), '#', '%23'); //fix and replace hexcolor
+@function bestseller(
+  $color1: #36bcad,
+  $color2: #ee3969,
+  $color3: #fef050,
+  $color4: #fff
+) {
+  $color1: str-replace(inspect($color1), "#", "%23"); //fix and replace hexcolor
+  $color2: str-replace(inspect($color2), "#", "%23"); //fix and replace hexcolor
+  $color3: str-replace(inspect($color3), "#", "%23"); //fix and replace hexcolor
+  $color4: str-replace(inspect($color4), "#", "%23"); //fix and replace hexcolor
   @return url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' data-name='Layer 1' viewBox='0 0 334.65 228.37'%3E%3Ccircle cx='162.59' cy='73.01' r='66.79' fill='%23fef050'/%3E%3Ccircle cx='168.82' cy='66.79' r='66.79' fill='%2336bcad'/%3E%3Ctext fill='%23ee3969' font-family='GothamBold,Gotham Bold' font-size='26' transform='translate(130.98 56.21)'%3EBEST%3Ctspan x='-16.39' y='31.2'%3ESELLER%3C/tspan%3E%3C/text%3E%3Ctext fill='%23fff' font-family='GothamBold,Gotham Bold' font-size='26' transform='translate(133.98 53.64)'%3EBEST%3Ctspan x='-16.39' y='31.2'%3ESELLER%3C/tspan%3E%3C/text%3E%3C/svg%3E");
 }
 
@@ -16,7 +21,7 @@
 .app {
   width: 100%;
   height: 100%;
-
+  background: $benefit-pink;
 }
 
 a {
@@ -30,7 +35,8 @@ h1 {
   margin: 0 auto;
 }
 
-.hero h1, .headline h1 {
+.hero h1,
+.headline h1 {
   color: #241332;
 }
 
@@ -64,10 +70,11 @@ h3 {
   text-align: center;
 }
 
-.button, .on-random-btn {
+.button,
+.on-random-btn {
   @include border-radius(24px);
   cursor: pointer;
-  background-color: #FA3468;
+  background-color: #fa3468;
   border: none;
   color: $white;
   font-size: $base-font-size-button;
@@ -126,7 +133,7 @@ img {
   display: block;
   text-align: center;
   font-size: 24px;
-  background-color: #EC708E;
+  background-color: #ec708e;
   height: 100%;
   overflow: scroll;
   padding-bottom: 40px;
@@ -179,7 +186,7 @@ img {
 }
 
 .highlights {
-  background-color: #EC708E;
+  background-color: #ec708e;
   border-bottom-left-radius: 128px;
   height: 70px;
 }
@@ -193,7 +200,8 @@ img {
   margin: 10px 0;
   height: 44px;
 
-  h1, h2 {
+  h1,
+  h2 {
     color: $white;
   }
 
@@ -209,7 +217,7 @@ img {
 }
 
 .detail-body {
-  background-color: #FCB2C3;
+  background-color: #fcb2c3;
   padding: 4px 20px;
   text-align: left;
 }
@@ -229,7 +237,7 @@ img {
 }
 
 .tagline-box {
-  background-color: #EC708E;
+  background-color: #ec708e;
   width: 100%;
   display: block;
 }
@@ -251,7 +259,6 @@ img {
       height: 100px;
     }
   }
-
 }
 
 .dilemma {
@@ -262,5 +269,11 @@ img {
   float: right;
 }
 
+.video-camera {
+}
 
-
+.drawing-buffer {
+  position: "absolute";
+  top: 0;
+  left: 0;
+}
