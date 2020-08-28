@@ -14,7 +14,7 @@ Quagga barcode library to scan UPC/bar codes to look up product details.
 This is a basic react app 💁‍♀️. It uses Yarn.
 
 ```
-yarn i
+yarn
 yarn start
 ```
 
@@ -22,5 +22,6 @@ Lots of console logging is still in the code, as this is a prototype.
 
 # Next Steps
 
+- Use a UPC API so you can scan any product and get more information about it.
 - QR codes. A phone camera detects QRs much more quickly and accurately.
 - Add your feature requests here.
